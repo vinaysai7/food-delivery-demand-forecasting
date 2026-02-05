@@ -1,0 +1,201 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+1,Spicy Lounge (Desserts),Continental,"Uppal Circle, Kodambakkam, Chennai, Tamil Nadu, India - 698318",Hemani Kade,35,8835996124,0.19,1744,1
+2,Spicy Hut (Korean),Continental,"Sanghvi Chowk, Tambaram, Chennai, Tamil Nadu, India - 815676",Dakshesh Prabhakar,109,0757667208,4.11,404,0
+3,Delicious Eatery (Seafood),North Indian,"Barad Marg, Adyar, Chennai, Tamil Nadu, India - 278054",Chakrika Mitter,48,+916061322981,0.74,2669,1
+4,Flavors of House (Kerala),Chinese,"Hans Ganj, Tambaram, Chennai, Tamil Nadu, India - 215365",Meghana Hayer,76,0848447327,1.59,902,0
+5,Classic Bistro (Kerala),Italian,"Saxena Circle, Perungudi, Chennai, Tamil Nadu, India - 717710",Tanmayi Chhabra,116,6983521418,0.71,790,1
+6,Royal Spot (Chettinad),Italian,"Master Chowk, Kodambakkam, Chennai, Tamil Nadu, India - 183391",Anvi Peri,61,4158616591,3.19,1602,1
+7,Savor Point (Italian),Chinese,"Nayak Ganj, Perungudi, Chennai, Tamil Nadu, India - 048791",Kai Walla,101,+912350436246,3.32,1738,1
+8,Flavors of Point (Biryani),Continental,"Kade, T. Nagar, Chennai, Tamil Nadu, India - 536779",Alexander Bansal,2,4210096215,3.34,29,1
+9,Delicious Diner (BBQ),Chinese,"Mander Road, Chrompet, Chennai, Tamil Nadu, India - 973811",Urmi Uppal,15,00972252780,1.31,1619,1
+10,Flavors of Bistro (Chinese),Italian,"Bhasin Nagar, Chrompet, Chennai, Tamil Nadu, India - 612884",Zehaan Yadav,34,+919717837963,4.27,2288,0
+11,Classic Kitchen (Street Food),North Indian,"Gandhi Nagar, Tambaram, Chennai, Tamil Nadu, India - 993274",Hamsini Uppal,17,+918207567382,4.40,218,0
+12,Tandoori Lounge (Desserts),North Indian,"Nadig Nagar, Guindy, Chennai, Tamil Nadu, India - 037040",Adweta Singhal,90,+911836478792,2.78,2326,1
+13,Royal House (Juice Bar),South Indian,"Hayre Ganj, Nungambakkam, Chennai, Tamil Nadu, India - 390944",Harinakshi Pant,49,00182243377,4.94,2384,0
+14,Savor Grill (Cafe),South Indian,"Biswas Chowk, Tambaram, Chennai, Tamil Nadu, India - 854983",Gautam Nayar,80,03165695884,3.11,1822,0
+15,Delicious House (BBQ),Continental,"Pant Nagar, Adyar, Chennai, Tamil Nadu, India - 987864",Tanvi Krish,38,04864097025,0.93,801,1
+16,Chennai Grill (Street Food),North Indian,"Sethi Circle, T. Nagar, Chennai, Tamil Nadu, India - 617784",Ranveer Sunder,9,+914009508438,3.65,2602,1
+17,Authentic Corner (Italian),Chinese,"Sachdev Path, Adyar, Chennai, Tamil Nadu, India - 941266",Raagini Lanka,72,02360971075,4.13,1400,0
+18,Golden Lounge (Mexican),Italian,"Naidu Street, Mylapore, Chennai, Tamil Nadu, India - 085325",Gagan Kanda,92,+915926512541,1.43,2287,0
+19,Grand Eatery (Italian),Chinese,"Sabharwal Zila, Chrompet, Chennai, Tamil Nadu, India - 689728",Saksham Mangal,89,2734264525,4.84,2943,1
+20,Royal Diner (North Indian),Italian,"Babu Street, Guindy, Chennai, Tamil Nadu, India - 540229",Krishna Sarna,16,01792880313,3.65,2960,1
+21,Classic Cafe (Mexican),North Indian,"Choudhry Zila, Anna Nagar, Chennai, Tamil Nadu, India - 115695",Ekiya Sarraf,83,+913542573504,4.95,1837,0
+22,Savor Diner (Juice Bar),Continental,"Nadkarni Circle, Kodambakkam, Chennai, Tamil Nadu, India - 667097",Bishakha Devi,105,04007625173,1.12,2358,1
+23,Golden Corner (South Indian),South Indian,"Goswami Road, Anna Nagar, Chennai, Tamil Nadu, India - 775647",Jacob Bhardwaj,100,01832788646,2.41,285,1
+24,Delicious Bistro (Thai),Continental,"Pillai Nagar, T. Nagar, Chennai, Tamil Nadu, India - 601847",Amaira Bahl,14,4416703521,2.83,1520,0
+25,Tandoori Lounge (Andhra),Italian,"Bal Chowk, Perungudi, Chennai, Tamil Nadu, India - 901967",Pavani Lanka,67,+915043574175,1.01,673,0
+26,Golden House (Chinese),Italian,"Doshi Circle, Kilpauk, Chennai, Tamil Nadu, India - 805491",Vrinda Parikh,40,01938903450,0.53,2802,1
+27,Golden Bistro (South Indian),South Indian,"Anand Street, Guindy, Chennai, Tamil Nadu, India - 755538",David Ganesan,93,+916419646476,0.88,615,0
+28,Chennai Kitchen (French),Italian,"Rout Ganj, Tambaram, Chennai, Tamil Nadu, India - 929979",Joshua Kant,65,7397889172,2.18,1102,1
+29,Madras Point (Mediterranean),North Indian,"Gaba Nagar, Perungudi, Chennai, Tamil Nadu, India - 494408",Gautami Cheema,19,03475568156,2.77,2176,0
+30,Royal Hut (Desserts),Chinese,"Bora, T. Nagar, Chennai, Tamil Nadu, India - 955373",Ekaja Basu,91,+914307738743,2.13,461,0
+31,Grand Eatery (Chinese),Chinese,"Yadav Zila, Adyar, Chennai, Tamil Nadu, India - 263813",Amol Nagy,96,+911073749408,0.55,2595,0
+32,Grand Corner (Kerala),Chinese,"Ravi Path, Velachery, Chennai, Tamil Nadu, India - 712892",Oeshi Hayre,99,01519447750,4.47,847,0
+33,Golden Diner (Fast Food),Chinese,"Varghese Road, Anna Nagar, Chennai, Tamil Nadu, India - 761991",Daksh Korpal,118,04540236200,2.23,2773,0
+34,Madras Bistro (Fast Food),South Indian,"Yohannan Road, Tambaram, Chennai, Tamil Nadu, India - 655023",Aditya Sheth,81,04438047761,2.12,1170,1
+35,Madras Corner (Korean),South Indian,"Kari, Chrompet, Chennai, Tamil Nadu, India - 194626",Gunbir Vyas,63,03579951972,1.06,2526,1
+36,Flavors of Spot (Chinese),Chinese,"Jha Road, Mylapore, Chennai, Tamil Nadu, India - 435118",Aashi Shukla,64,+917892479790,2.67,1585,1
+37,Delicious Bistro (Juice Bar),South Indian,"Sandal Circle, Nungambakkam, Chennai, Tamil Nadu, India - 084503",Shravya Gandhi,37,07061529035,0.70,831,0
+38,Chennai Kitchen (Mexican),Chinese,"Kaul Marg, Nungambakkam, Chennai, Tamil Nadu, India - 845169",Upasna Gulati,49,+912378153346,2.58,645,1
+39,Savor Bistro (Japanese),Chinese,"Barad, Velachery, Chennai, Tamil Nadu, India - 249232",Lakshit Sarraf,95,3108727974,3.35,1338,1
+40,Chennai Corner (Mediterranean),Italian,"Keer Zila, Perungudi, Chennai, Tamil Nadu, India - 939823",Qasim Wali,107,3682955150,4.81,2081,0
+41,Tandoori Eatery (Mexican),South Indian,"Acharya, Kilpauk, Chennai, Tamil Nadu, India - 293010",Teerth Sanghvi,34,+911533193141,3.19,806,0
+42,Royal Eatery (Cafe),Chinese,"Sen Marg, Kodambakkam, Chennai, Tamil Nadu, India - 286109",Zaitra Pandey,55,2385243339,0.97,1914,1
+43,Spicy Bistro (Mediterranean),Continental,"Nagar Ganj, Guindy, Chennai, Tamil Nadu, India - 950588",Ronith Mital,85,+913901497126,4.27,1403,0
+44,Authentic Grill (Thai),South Indian,"Chana Path, Chrompet, Chennai, Tamil Nadu, India - 361276",Viraj Zacharia,11,05995041670,1.96,2745,1
+45,Spicy Grill (Continental),Italian,"Sinha Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 932226",Abhiram Barad,89,+913486702290,3.60,2458,1
+46,Madras Grill (Cafe),North Indian,"Bumb Path, Perungudi, Chennai, Tamil Nadu, India - 206593",Saksham Solanki,67,07174694273,4.10,2678,1
+47,Spicy Cafe (Italian),North Indian,"Parmer Road, Mylapore, Chennai, Tamil Nadu, India - 568917",Bachittar Basak,43,9006256565,0.13,1784,0
+48,Golden Point (Andhra),Chinese,"Saha Path, Mylapore, Chennai, Tamil Nadu, India - 230136",Yashawini Kumar,101,05029232032,1.35,116,1
+49,Savor Point (North Indian),South Indian,"Wagle Zila, Adyar, Chennai, Tamil Nadu, India - 318780",Brijesh Raval,112,02012255379,0.51,2135,0
+50,Grand Point (Continental),Continental,"Sahni, Nungambakkam, Chennai, Tamil Nadu, India - 894676",Chasmum Sachar,40,7692359548,4.13,2118,1
+51,Tandoori Corner (Korean),North Indian,"Kari Ganj, Chrompet, Chennai, Tamil Nadu, India - 699327",Bakhshi Mahal,5,06958289597,0.21,528,0
+52,Golden Spot (Andhra),Chinese,"Bhattacharyya Circle, Anna Nagar, Chennai, Tamil Nadu, India - 636335",Yashica Tank,46,+913139136348,4.48,315,0
+53,Spicy House (Andhra),Chinese,"Kohli Marg, Chrompet, Chennai, Tamil Nadu, India - 520163",Om Grewal,103,+918368936524,3.50,783,0
+54,Flavors of Eatery (Continental),South Indian,"Raghavan Marg, Velachery, Chennai, Tamil Nadu, India - 557908",Devansh Din,1,06791979818,1.35,724,0
+55,Authentic Cafe (Thai),North Indian,"Pall Circle, Kodambakkam, Chennai, Tamil Nadu, India - 557466",Ojas Johal,46,8223704077,3.12,824,0
+56,Spicy Cafe (French),North Indian,"Sankaran Street, Tambaram, Chennai, Tamil Nadu, India - 307656",Sai Gupta,14,7122667370,2.69,636,0
+57,Golden Grill (Mediterranean),Italian,"Morar, Perungudi, Chennai, Tamil Nadu, India - 397517",Harinakshi Atwal,86,+911256567858,4.44,715,0
+58,Chennai Spot (Mexican),Continental,"Master Marg, T. Nagar, Chennai, Tamil Nadu, India - 140191",Mohini Bedi,2,+916354505483,1.14,2443,1
+59,Authentic Point (Chettinad),Italian,"Deol Road, Kodambakkam, Chennai, Tamil Nadu, India - 288812",Adweta Bose,30,0621964227,1.14,2888,1
+60,Tandoori Grill (BBQ),Italian,"Menon Path, Velachery, Chennai, Tamil Nadu, India - 288559",Zayan Shanker,39,2801480774,0.47,2922,1
+61,Chennai Bistro (Desserts),Continental,"Krish Marg, Tambaram, Chennai, Tamil Nadu, India - 587615",Forum Sampath,113,+917891475059,4.73,1887,1
+62,Tandoori Diner (Japanese),Chinese,"Kohli Chowk, Velachery, Chennai, Tamil Nadu, India - 506455",Nimrat Hans,41,+917172983732,0.57,826,1
+63,Royal Point (South Indian),Continental,"Sachar Road, Adyar, Chennai, Tamil Nadu, India - 529778",Jackson Barad,0,09468182368,4.68,2471,0
+64,Royal Corner (Fast Food),South Indian,"Kota, Mylapore, Chennai, Tamil Nadu, India - 472045",Hamsini Maharaj,89,01158246748,2.38,2988,0
+65,Delicious Hut (Bakery),Italian,"Dasgupta Circle, Anna Nagar, Chennai, Tamil Nadu, India - 410882",Jeevika Sharaf,111,6329329800,4.26,2750,1
+66,Madras Cafe (Kerala),Continental,"Patla Path, Velachery, Chennai, Tamil Nadu, India - 151407",Abdul Atwal,74,00768289443,1.94,2853,1
+67,Savor Spot (Andhra),Continental,"Loke Nagar, Chrompet, Chennai, Tamil Nadu, India - 682023",Maya Shetty,115,9021457957,2.89,2153,0
+68,Royal House (Desserts),North Indian,"Sura Street, Anna Nagar, Chennai, Tamil Nadu, India - 738434",Onveer Dua,63,+914115393861,4.15,961,1
+69,Grand Point (Japanese),South Indian,"Bumb Road, T. Nagar, Chennai, Tamil Nadu, India - 394128",Pratyush Gaba,6,06605931569,2.98,1235,0
+70,Chennai Grill (Juice Bar),South Indian,"Char Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 125721",Ryan Ahluwalia,95,6189621808,2.63,2573,0
+71,Savor Lounge (Biryani),Italian,"Bhat Road, Chrompet, Chennai, Tamil Nadu, India - 991611",Naveen Kapoor,62,6054750617,3.61,2961,0
+72,Flavors of Point (Japanese),Italian,"Bala Zila, Chrompet, Chennai, Tamil Nadu, India - 219063",Lekha Mohanty,28,09996482425,2.19,1160,1
+73,Tandoori Eatery (North Indian),Chinese,"Golla Street, Chrompet, Chennai, Tamil Nadu, India - 018716",Sudiksha Mishra,50,+912278950102,0.18,84,1
+74,Delicious House (Juice Bar),Italian,"Sangha Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 340562",Chandani Sant,45,+918428704364,3.05,2108,0
+75,Flavors of Grill (Korean),Italian,"Sankaran Road, Tambaram, Chennai, Tamil Nadu, India - 105820",Orinder Pandit,39,+911962901518,0.46,1665,1
+76,Golden Diner (Juice Bar),North Indian,"Bhalla Road, Guindy, Chennai, Tamil Nadu, India - 962888",Waida Devan,55,06619548501,1.06,2505,1
+77,Chennai Corner (Bakery),North Indian,"Oommen Street, Tambaram, Chennai, Tamil Nadu, India - 947068",Urmi Vala,61,2911512790,2.59,2518,1
+78,Tandoori Hut (Italian),Continental,"Sarna Zila, Adyar, Chennai, Tamil Nadu, India - 747942",Daksh Natt,26,3747605044,4.46,2804,1
+79,Chennai Diner (Mediterranean),Chinese,"Chopra Circle, Guindy, Chennai, Tamil Nadu, India - 847220",Agastya Dewan,83,4386559087,1.32,2258,0
+80,Flavors of Cafe (Thai),South Indian,"Ganesan Ganj, T. Nagar, Chennai, Tamil Nadu, India - 951661",Jai Som,69,00477148084,2.73,2052,0
+81,Royal Diner (Continental),Italian,"Pillai Ganj, Tambaram, Chennai, Tamil Nadu, India - 207749",Gautami Halder,72,6303463049,1.59,230,1
+82,Madras Hut (South Indian),North Indian,"More, Kodambakkam, Chennai, Tamil Nadu, India - 968182",Nidra Chahal,56,2683564409,4.29,1332,1
+83,Chennai Grill (Kerala),South Indian,"Mall Chowk, Guindy, Chennai, Tamil Nadu, India - 937612",Saksham Nanda,31,08735177059,4.37,1441,0
+84,Spicy Corner (Desserts),Italian,"Pandya Marg, Tambaram, Chennai, Tamil Nadu, India - 397322",Yachana Dhaliwal,92,02935121547,1.25,1348,1
+85,Classic Bistro (Mediterranean),South Indian,"Mani Zila, Velachery, Chennai, Tamil Nadu, India - 092840",Darpan Shah,25,+916354012754,2.35,2547,0
+86,Madras Lounge (Bakery),Chinese,"Kohli Chowk, Perungudi, Chennai, Tamil Nadu, India - 638447",Aarav Wason,15,+911302532719,1.60,407,0
+87,Authentic Point (Japanese),South Indian,"Dixit Road, Adyar, Chennai, Tamil Nadu, India - 742484",Vamakshi Khatri,63,2516588323,4.08,967,1
+88,Authentic Kitchen (BBQ),Italian,"Peri Marg, Nungambakkam, Chennai, Tamil Nadu, India - 362323",Zansi Mitter,17,7972522177,4.32,1480,1
+89,Royal Diner (Thai),Italian,"Jha Path, Kodambakkam, Chennai, Tamil Nadu, India - 484077",Faris Dua,19,2051675086,0.00,1915,1
+90,Madras Lounge (Japanese),Chinese,"Vora Chowk, Velachery, Chennai, Tamil Nadu, India - 902905",Lila Choudhary,59,8839627848,4.22,1300,1
+91,Madras House (Desserts),Italian,"Mahajan Street, Kilpauk, Chennai, Tamil Nadu, India - 010580",Falguni Pillay,19,+918236892034,3.21,628,0
+92,Savor Grill (Bakery),North Indian,"Wagle, Velachery, Chennai, Tamil Nadu, India - 215264",Irya Srivastava,88,04965297273,3.39,2907,1
+93,Golden Lounge (Seafood),Italian,"Lad, Anna Nagar, Chennai, Tamil Nadu, India - 334652",Samuel Chhabra,29,8240007095,0.32,1392,1
+94,Delicious Grill (Mediterranean),North Indian,"Swaminathan, Adyar, Chennai, Tamil Nadu, India - 725232",Abhiram Sen,13,2086312767,1.59,1565,1
+95,Delicious Diner (Seafood),South Indian,"Sandal Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 187813",Gaurika Sarraf,90,+919338051055,2.58,1499,1
+96,Flavors of Diner (Andhra),South Indian,"Chokshi Road, Guindy, Chennai, Tamil Nadu, India - 913116",Karan Parsa,21,0483120853,2.90,2294,1
+97,Spicy Bistro (South Indian),South Indian,"Sinha Marg, Guindy, Chennai, Tamil Nadu, India - 947554",Harshil Om,90,+914944523479,0.43,2,1
+98,Golden Kitchen (Desserts),Chinese,"Mandal Circle, Adyar, Chennai, Tamil Nadu, India - 179926",Janaki Rastogi,64,06500176368,4.14,1963,1
+99,Grand Cafe (French),Continental,"Sarna Ganj, Adyar, Chennai, Tamil Nadu, India - 564125",Chaaya Contractor,4,2704439489,2.74,1561,1
+100,Delicious Grill (Desserts),North Indian,"Virk Path, Tambaram, Chennai, Tamil Nadu, India - 361145",Dhruv Dutt,31,03290947378,4.73,449,0
+101,Royal Lounge (BBQ),Chinese,"Dugar Road, Perungudi, Chennai, Tamil Nadu, India - 838753",Avni Master,102,6459925795,4.53,1291,0
+102,Classic Eatery (North Indian),South Indian,"Wason Road, Anna Nagar, Chennai, Tamil Nadu, India - 448033",Theodore Kamdar,6,00609995773,0.19,909,0
+103,Golden Spot (Italian),Continental,"Dara Path, Chrompet, Chennai, Tamil Nadu, India - 536616",Reyansh Dixit,97,+916092404717,1.95,2060,1
+104,Savor Kitchen (Japanese),Continental,"Kala Street, Tambaram, Chennai, Tamil Nadu, India - 700525",Onveer Ramakrishnan,110,+918885601176,2.22,1868,0
+105,Delicious Spot (Mexican),Italian,"Din Nagar, Adyar, Chennai, Tamil Nadu, India - 424661",Victor Chaudhari,94,00834598055,2.58,2778,0
+106,Classic Cafe (Desserts),Continental,"Patla Zila, Chrompet, Chennai, Tamil Nadu, India - 718367",Maanas Dhaliwal,67,+914057854663,2.72,202,1
+107,Royal Bistro (Korean),Chinese,"Dora, Perungudi, Chennai, Tamil Nadu, India - 386040",Zehaan Khatri,11,6541987670,3.44,1771,1
+108,Royal Diner (Korean),Continental,"Mitra Nagar, Perungudi, Chennai, Tamil Nadu, India - 688190",Nachiket Choudhry,21,+915062067398,2.61,2029,0
+109,Flavors of Lounge (Bakery),Italian,"Comar Nagar, Tambaram, Chennai, Tamil Nadu, India - 285348",Yutika Lanka,117,4797007829,3.64,1617,0
+110,Grand Lounge (Kerala),North Indian,"Shukla Road, Kilpauk, Chennai, Tamil Nadu, India - 263508",Bhavna Chaudhari,22,+917093024130,2.00,3000,1
+111,Grand House (Mediterranean),Continental,"Seth Marg, Perungudi, Chennai, Tamil Nadu, India - 171717",Harita Tandon,66,+911938086202,2.47,2968,0
+112,Golden Bistro (Mexican),Italian,"Verma, Kodambakkam, Chennai, Tamil Nadu, India - 043328",Advik Jaggi,94,08592751626,1.68,807,0
+113,Golden Diner (Andhra),North Indian,"Randhawa Path, Kilpauk, Chennai, Tamil Nadu, India - 609765",William Talwar,68,09676523881,1.68,270,0
+114,Chennai House (Kerala),Continental,"Raj Circle, Adyar, Chennai, Tamil Nadu, India - 320911",Bhavika Chahal,82,07762424910,1.39,1535,0
+115,Authentic Hut (Chettinad),Continental,"Hayre Road, Velachery, Chennai, Tamil Nadu, India - 765842",Lekha Sur,98,00490244286,0.47,970,0
+116,Grand Grill (Chinese),South Indian,"Om Path, Velachery, Chennai, Tamil Nadu, India - 871611",Hitesh Thaker,42,00366720351,2.93,1060,1
+117,Authentic Corner (Thai),South Indian,"Chaudhuri Ganj, Velachery, Chennai, Tamil Nadu, India - 883536",Darika Choudhury,93,05557120491,1.32,2213,0
+118,Flavors of Bistro (Mediterranean),Continental,"Pillai Marg, T. Nagar, Chennai, Tamil Nadu, India - 667846",Chakrika Morar,56,3899876928,2.42,2634,1
+119,Golden Spot (Bakery),Chinese,"Sharaf Nagar, Anna Nagar, Chennai, Tamil Nadu, India - 436397",Dipta Patil,50,+913970691317,3.72,2102,1
+120,Savor Kitchen (Thai),South Indian,"Andra Road, Mylapore, Chennai, Tamil Nadu, India - 373479",Indira Kota,118,8255533905,0.08,2456,0
+121,Flavors of House (Korean),South Indian,"Chad Zila, Kodambakkam, Chennai, Tamil Nadu, India - 610741",Yashodhara Srinivas,77,6113162675,1.06,389,1
+122,Flavors of Corner (Juice Bar),Chinese,"Nazareth Circle, Anna Nagar, Chennai, Tamil Nadu, India - 763118",Oeshi Kaul,42,4733555227,3.73,770,1
+123,Spicy Diner (Fast Food),Italian,"Kala Street, Anna Nagar, Chennai, Tamil Nadu, India - 758955",Jackson Tank,120,09379553208,3.62,1807,1
+124,Spicy Diner (Continental),South Indian,"Sama Road, Kodambakkam, Chennai, Tamil Nadu, India - 497518",Kalpit Randhawa,7,07340792679,3.04,972,1
+125,Madras House (Thai),Chinese,"Loke Street, Nungambakkam, Chennai, Tamil Nadu, India - 171892",Samaksh Ratta,109,01475872770,2.77,599,1
+126,Classic Diner (Chettinad),North Indian,"Barad Road, Anna Nagar, Chennai, Tamil Nadu, India - 498706",Bhavya Dhingra,80,2030468894,2.53,1273,0
+127,Tandoori Cafe (North Indian),Italian,"Dhillon Road, Velachery, Chennai, Tamil Nadu, India - 208559",Kamya Rajagopalan,14,04013429646,1.52,1751,1
+128,Classic House (Bakery),Italian,"Som Zila, Kodambakkam, Chennai, Tamil Nadu, India - 569250",Aradhana Taneja,23,02766851385,0.21,2347,0
+129,Authentic Grill (Desserts),South Indian,"Bhattacharyya Circle, Velachery, Chennai, Tamil Nadu, India - 582314",Ryan Amble,86,08754966825,2.88,2494,0
+130,Grand House (North Indian),Chinese,"Khatri Marg, Nungambakkam, Chennai, Tamil Nadu, India - 048070",Panini Sekhon,51,+917997984860,0.55,2040,0
+131,Authentic Spot (Thai),Continental,"Sawhney Road, Velachery, Chennai, Tamil Nadu, India - 546816",Harshil Issac,81,7728550470,1.53,873,1
+132,Authentic Eatery (Fast Food),Continental,"Swaminathan Nagar, Anna Nagar, Chennai, Tamil Nadu, India - 904946",Vritti Garg,42,9031457832,1.67,1789,0
+133,Tandoori Corner (North Indian),Italian,"Gupta Marg, Chrompet, Chennai, Tamil Nadu, India - 491087",Guneet Vig,101,4034184315,2.79,433,1
+134,Savor Spot (Seafood),South Indian,"Deshpande Road, Kodambakkam, Chennai, Tamil Nadu, India - 425313",Hritik Kanda,43,+912253617165,3.79,1738,0
+135,Madras Cafe (Mexican),North Indian,"Tandon Street, Guindy, Chennai, Tamil Nadu, India - 129740",Zaitra Chand,13,1674799377,3.33,296,1
+136,Flavors of Lounge (Desserts),Continental,"Bhatia Street, Velachery, Chennai, Tamil Nadu, India - 040615",Lila Wason,34,+912888184952,0.89,634,1
+137,Madras Diner (Bakery),South Indian,"Nair Street, Kilpauk, Chennai, Tamil Nadu, India - 126333",Dayamai Mane,33,+918107947993,1.42,2397,0
+138,Spicy Hut (Japanese),Chinese,"Doctor Circle, Guindy, Chennai, Tamil Nadu, India - 083504",Pallavi Manda,45,+917932674535,1.17,1467,1
+139,Golden Corner (Street Food),Italian,"Jani Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 220525",Dalbir Venkatesh,88,+910024955606,0.47,690,1
+140,Authentic Spot (Chettinad),Continental,"Sanghvi Nagar, Chrompet, Chennai, Tamil Nadu, India - 161288",Harsh Srinivasan,48,03523245794,0.43,891,1
+141,Classic Diner (Andhra),Continental,"Dubey Road, Kilpauk, Chennai, Tamil Nadu, India - 566135",Fiyaz Rai,93,+917308029766,0.44,2727,1
+142,Chennai Grill (Biryani),Italian,"Patla Street, Kodambakkam, Chennai, Tamil Nadu, India - 009143",Imaran Sarraf,97,05171618301,1.70,1336,1
+143,Classic Eatery (Italian),Continental,"Keer Ganj, Adyar, Chennai, Tamil Nadu, India - 959465",Vrishti Karnik,86,01218830628,3.86,2897,1
+144,Madras Point (Bakery),South Indian,"Sood Path, Mylapore, Chennai, Tamil Nadu, India - 623553",Amaira Ramakrishnan,93,06790261478,4.09,443,1
+145,Royal Kitchen (Chinese),Chinese,"Soman Marg, Nungambakkam, Chennai, Tamil Nadu, India - 617710",Mohini Hegde,92,+910040584863,1.64,1282,1
+146,Royal Diner (Bakery),North Indian,"Mohan, Kilpauk, Chennai, Tamil Nadu, India - 225201",Rajeshri Krishnamurthy,17,+912348600315,1.82,1924,1
+147,Delicious Spot (North Indian),Italian,"Sood, Anna Nagar, Chennai, Tamil Nadu, India - 689565",Watika Bedi,57,+910255767959,1.22,1467,1
+148,Flavors of Grill (South Indian),North Indian,"Garde, Anna Nagar, Chennai, Tamil Nadu, India - 504401",Jagdish Golla,53,+917678501961,4.84,2666,0
+149,Chennai Spot (North Indian),Chinese,"Misra Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 997459",Vasudha Rau,96,07721049020,4.32,1337,0
+150,Savor Diner (Japanese),North Indian,"Banerjee Chowk, Kilpauk, Chennai, Tamil Nadu, India - 531560",Krishna Grover,26,3368364780,1.36,2638,1
+151,Authentic Corner (Biryani),Chinese,"Dhillon Zila, Nungambakkam, Chennai, Tamil Nadu, India - 877017",Wishi Arora,28,+910784338975,4.98,848,1
+152,Savor Corner (Andhra),North Indian,"Nagi Path, Mylapore, Chennai, Tamil Nadu, India - 241861",Ati Roy,66,1582178785,3.34,1593,1
+153,Chennai Eatery (Italian),North Indian,"Vig Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 043482",Bachittar Raval,88,04709554972,0.49,1959,1
+154,Classic Corner (Japanese),Italian,"Mody Marg, Chrompet, Chennai, Tamil Nadu, India - 181087",Adya Thakkar,14,04026753559,2.73,2110,0
+155,Classic Diner (Thai),Chinese,"Andra Zila, Guindy, Chennai, Tamil Nadu, India - 541529",Yuvraj Tata,118,6713513821,2.75,2708,0
+156,Flavors of Grill (Continental),North Indian,"Seshadri, Chrompet, Chennai, Tamil Nadu, India - 329346",Charvi Comar,80,00328304313,0.99,2065,0
+157,Grand Bistro (Seafood),South Indian,"Sen Circle, Kodambakkam, Chennai, Tamil Nadu, India - 271507",Alka Puri,12,0494688946,1.85,373,0
+158,Spicy House (Cafe),South Indian,"Magar Path, Kilpauk, Chennai, Tamil Nadu, India - 216154",Ishanvi Jha,84,5791461926,1.82,1142,1
+159,Savor Eatery (French),North Indian,"Upadhyay Ganj, Mylapore, Chennai, Tamil Nadu, India - 516863",Hredhaan Pal,48,01934299342,4.54,278,1
+160,Golden Diner (South Indian),Continental,"Mall Marg, Adyar, Chennai, Tamil Nadu, India - 661117",Aachal Bail,17,4261651282,0.94,943,0
+161,Madras House (French),North Indian,"Sidhu Chowk, Kilpauk, Chennai, Tamil Nadu, India - 756562",Oscar Gulati,110,0425269993,2.83,2260,0
+162,Chennai Hut (South Indian),Continental,"Chokshi Ganj, Velachery, Chennai, Tamil Nadu, India - 371473",Forum Sarraf,2,+912153928574,3.29,1350,1
+163,Grand Hut (Thai),North Indian,"Garde Marg, Kodambakkam, Chennai, Tamil Nadu, India - 667943",Anirudh Nayar,64,06111430844,0.67,527,1
+164,Savor Bistro (Italian),North Indian,"Kaur Chowk, T. Nagar, Chennai, Tamil Nadu, India - 196175",Eshana Subramaniam,102,06094834459,4.45,1529,0
+165,Tandoori House (Thai),Chinese,"Dubey Nagar, Adyar, Chennai, Tamil Nadu, India - 138676",Kala Mann,31,0221226740,1.51,2787,1
+166,Classic Grill (Mexican),South Indian,"Muni Road, T. Nagar, Chennai, Tamil Nadu, India - 046803",Varsha Om,44,3071037177,4.51,308,0
+167,Chennai House (Continental),North Indian,"Chawla Zila, Tambaram, Chennai, Tamil Nadu, India - 900056",Ronith Lala,96,09402224932,3.15,2164,0
+168,Spicy Kitchen (French),South Indian,"Uppal Chowk, Kilpauk, Chennai, Tamil Nadu, India - 543208",Upkaar Dugar,73,0014464910,4.61,1641,1
+169,Grand Kitchen (BBQ),North Indian,"Sule Street, T. Nagar, Chennai, Tamil Nadu, India - 349165",Chanakya Sami,95,07840964563,2.14,1640,0
+170,Classic Spot (Cafe),Chinese,"Mitra Nagar, Mylapore, Chennai, Tamil Nadu, India - 600275",Amara Naik,66,+915159400736,4.24,1956,1
+171,Golden Lounge (Cafe),Continental,"Sen Street, Mylapore, Chennai, Tamil Nadu, India - 825096",Ishanvi Murty,116,09088345468,3.53,2420,0
+172,Savor Hut (Cafe),Chinese,"Goel Road, Nungambakkam, Chennai, Tamil Nadu, India - 978917",Chaitanya Narula,74,00441887511,1.84,2444,1
+173,Chennai Cafe (Fast Food),South Indian,"Ramakrishnan Path, Kilpauk, Chennai, Tamil Nadu, India - 603720",Urvashi Grover,45,01478833010,2.91,1787,0
+174,Royal Kitchen (Street Food),Continental,"Kala Street, Velachery, Chennai, Tamil Nadu, India - 757673",Chandresh Barman,73,0606758948,3.76,758,0
+175,Chennai Eatery (BBQ),Italian,"Suresh Road, Chrompet, Chennai, Tamil Nadu, India - 116265",Adya Contractor,109,+912316716063,3.04,1399,0
+176,Authentic Corner (Desserts),Continental,"Char Nagar, Chrompet, Chennai, Tamil Nadu, India - 943951",Vidhi Yadav,34,3271402432,4.22,577,1
+177,Chennai Hut (Continental),Continental,"Swaminathan Chowk, Velachery, Chennai, Tamil Nadu, India - 724483",Kashvi Ramakrishnan,59,+915351081454,3.84,1849,0
+178,Grand Bistro (BBQ),Chinese,"Naidu Circle, Adyar, Chennai, Tamil Nadu, India - 555585",Harita Mangal,29,+914599910301,1.85,2966,0
+179,Savor Diner (Continental),South Indian,"Sengupta Road, Kilpauk, Chennai, Tamil Nadu, India - 536673",Hitesh Purohit,30,7702766869,0.97,2023,1
+180,Grand Eatery (Japanese),North Indian,"Balay Path, Guindy, Chennai, Tamil Nadu, India - 254620",Ethan Desai,14,4508637629,1.49,2069,0
+181,Savor Cafe (French),North Indian,"Mohanty Street, Tambaram, Chennai, Tamil Nadu, India - 726181",Brinda Issac,113,3096167427,1.04,349,1
+182,Madras Eatery (Kerala),Chinese,"Keer Chowk, Velachery, Chennai, Tamil Nadu, India - 661264",Arunima Luthra,100,+916797553192,2.96,1653,0
+183,Royal Bistro (French),Continental,"Verma Chowk, Tambaram, Chennai, Tamil Nadu, India - 150466",Neelima Chhabra,80,6686296977,0.59,827,1
+184,Classic Spot (Desserts),Continental,"Issac Street, Nungambakkam, Chennai, Tamil Nadu, India - 936352",Rayaan Bera,81,01754342151,4.24,508,0
+185,Flavors of Kitchen (Bakery),North Indian,"Sarkar Street, Guindy, Chennai, Tamil Nadu, India - 611399",Advika Nagarajan,31,05407204595,2.43,1880,0
+186,Tandoori Corner (South Indian),Continental,"Baria Street, Kodambakkam, Chennai, Tamil Nadu, India - 007230",Utkarsh Varty,116,4353442646,2.36,2888,1
+187,Royal Hut (BBQ),Italian,"Modi Ganj, T. Nagar, Chennai, Tamil Nadu, India - 720620",Vritti Behl,10,+912841272340,0.88,1695,1
+188,Tandoori Hut (Biryani),North Indian,"Tata Circle, Tambaram, Chennai, Tamil Nadu, India - 523706",Darpan Kibe,97,+916416087742,4.55,550,0
+189,Delicious Grill (BBQ),North Indian,"Saha Chowk, Nungambakkam, Chennai, Tamil Nadu, India - 814448",Oeshi Nair,116,+917989929115,0.68,2145,0
+190,Grand House (Andhra),South Indian,"Choudhary Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 183194",Anita Kalla,106,08251462300,5.00,2889,0
+191,Royal Bistro (South Indian),Chinese,"Keer Zila, Kodambakkam, Chennai, Tamil Nadu, India - 017621",Rushil Chanda,120,01578967249,4.38,54,0
+192,Royal Bistro (Mexican),South Indian,"Bansal Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 344023",Upadhriti Doctor,21,09476809134,3.19,1557,1
+193,Tandoori Diner (Biryani),South Indian,"Madan Ganj, Adyar, Chennai, Tamil Nadu, India - 455880",Vamakshi Bandi,118,2777533641,1.40,1146,1
+194,Savor House (Thai),Chinese,"Kumar Nagar, Guindy, Chennai, Tamil Nadu, India - 621520",Lajita Jayaraman,24,06695717385,0.68,264,0
+195,Classic House (Mediterranean),North Indian,"Uppal Path, Velachery, Chennai, Tamil Nadu, India - 108293",Omisha Devan,68,09197836152,1.12,436,1
+196,Tandoori Spot (Andhra),Continental,"Goyal Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 548771",Jagat Ramanathan,72,+919178353548,0.25,1905,1
+197,Savor Hut (Fast Food),Chinese,"Rout Zila, Kilpauk, Chennai, Tamil Nadu, India - 686114",Onveer Sur,24,6932675714,0.71,1662,1
+198,Delicious Diner (French),Italian,"Luthra Marg, Anna Nagar, Chennai, Tamil Nadu, India - 196197",Balhaar Thaman,66,09431668652,2.21,379,1
+199,Classic Hut (French),South Indian,"Bhalla, T. Nagar, Chennai, Tamil Nadu, India - 863776",Lucky Mutti,79,+918511941126,0.91,1350,1
+200,Royal Cafe (Juice Bar),Continental,"Sodhi Road, Adyar, Chennai, Tamil Nadu, India - 718059",Aadi Kata,103,2084633882,3.24,1888,0

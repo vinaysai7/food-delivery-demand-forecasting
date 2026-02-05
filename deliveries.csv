@@ -1,0 +1,1501 @@
+delivery_id,order_id,delivery_person_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type
+1,1418,104,On the way,40.64,34,58,41.05,Electric Bike
+2,713,400,Delivered,16.53,18,58,9.25,Bike
+3,264,314,Cancelled,9.98,37,65,13.59,Electric Scooter
+4,1015,498,Delivered,30.36,27,69,40.05,Electric Bike
+5,1198,45,Cancelled,35.15,26,32,7.75,Electric Scooter
+6,956,297,Cancelled,7.85,27,59,38.03,Moped
+7,791,498,On the way,21.11,19,48,35.76,Electric Bike
+8,921,471,Delivered,5.09,47,35,28.79,Bike
+9,1044,159,On the way,12.47,48,24,36.12,Electric Bike
+10,1328,498,Cancelled,46.58,24,68,36.82,Electric Scooter
+11,664,53,On the way,46.08,43,67,19.43,Moped
+12,415,106,Delivered,47.18,33,47,40.21,Moped
+13,606,334,Pending,40.91,45,33,22.76,Electric Bike
+14,1442,295,On the way,44.89,37,26,33.99,Scooter
+15,1007,354,Delivered,29.95,22,21,21.56,Scooter
+16,532,382,Cancelled,48.30,28,38,0.46,Scooter
+17,1485,185,Pending,19.32,20,26,39.66,Scooter
+18,1453,150,On the way,30.36,16,26,12.82,Bike
+19,1058,354,Delivered,38.15,29,49,47.24,Electric Scooter
+20,1378,42,Pending,40.81,28,56,18.95,Motorcycle
+21,804,431,Delivered,11.45,40,52,17.93,Scooter
+22,60,413,On the way,43.48,17,38,48.89,Bike
+23,1475,307,Delivered,32.37,23,55,44.35,Moped
+24,414,303,Cancelled,47.19,41,54,29.48,Moped
+25,1165,458,Delivered,6.63,32,23,36.30,Moped
+26,981,357,Delivered,19.40,36,67,41.74,Electric Bike
+27,628,232,Pending,37.76,54,38,37.50,Bike
+28,320,471,On the way,25.11,26,22,28.20,Electric Scooter
+29,440,207,Pending,40.01,50,39,45.67,Electric Bike
+30,706,407,Cancelled,11.91,43,55,6.82,Moped
+31,1426,209,Cancelled,3.31,28,23,18.64,Electric Scooter
+32,604,203,On the way,43.81,26,20,36.09,Scooter
+33,1295,46,Delivered,27.25,45,35,31.36,Moped
+34,1107,316,Pending,29.76,24,43,5.77,Electric Bike
+35,1092,317,Pending,29.85,34,26,15.20,Electric Scooter
+36,958,321,Pending,6.58,19,60,7.76,Motorcycle
+37,1347,141,On the way,40.61,23,40,9.68,Bike
+38,150,339,Cancelled,2.25,34,52,24.48,Electric Scooter
+39,1284,492,Pending,23.65,27,62,31.16,Moped
+40,1272,315,On the way,22.68,44,42,22.49,Motorcycle
+41,12,325,Pending,17.74,54,25,11.11,Scooter
+42,319,40,On the way,49.75,32,34,3.39,Moped
+43,486,125,Delivered,18.21,15,66,19.87,Electric Bike
+44,958,324,Cancelled,35.55,52,34,29.24,Moped
+45,918,469,Cancelled,41.55,57,25,22.74,Electric Bike
+46,1233,341,Pending,22.30,55,53,6.31,Bike
+47,1154,345,Cancelled,24.01,26,64,4.23,Scooter
+48,911,394,On the way,24.27,47,37,4.80,Electric Bike
+49,288,419,Pending,38.33,38,28,25.43,Electric Scooter
+50,1102,88,Delivered,37.41,30,69,45.47,Moped
+51,159,320,Cancelled,46.00,45,50,25.57,Bike
+52,514,194,Delivered,26.82,49,32,37.07,Electric Scooter
+53,876,334,Cancelled,24.55,28,36,16.35,Scooter
+54,1172,152,Delivered,6.00,60,22,33.36,Electric Scooter
+55,1068,5,Cancelled,28.33,34,64,47.77,Motorcycle
+56,54,380,Delivered,29.36,18,30,14.97,Bike
+57,677,248,Delivered,28.65,53,48,21.35,Scooter
+58,330,432,Pending,32.32,35,28,40.69,Electric Bike
+59,1217,68,Pending,8.43,43,55,18.68,Electric Scooter
+60,739,110,Cancelled,31.09,47,44,2.28,Moped
+61,584,276,On the way,46.13,29,31,6.94,Scooter
+62,101,393,Pending,35.95,30,53,48.64,Electric Bike
+63,528,369,Cancelled,12.47,53,24,37.18,Motorcycle
+64,625,473,On the way,33.56,45,20,20.56,Motorcycle
+65,947,222,On the way,20.07,55,55,7.16,Electric Scooter
+66,22,409,Cancelled,2.54,51,24,12.09,Bike
+67,490,225,Pending,15.72,26,39,0.04,Moped
+68,838,341,Cancelled,35.39,23,46,9.61,Scooter
+69,421,282,Cancelled,4.76,33,55,11.92,Electric Scooter
+70,631,261,Cancelled,2.88,17,56,0.88,Electric Bike
+71,1328,472,Cancelled,39.98,44,59,28.51,Electric Scooter
+72,863,7,On the way,42.05,58,45,36.79,Bike
+73,412,421,Pending,41.15,46,59,42.53,Bike
+74,460,384,On the way,43.08,30,38,39.48,Scooter
+75,1439,348,On the way,20.02,48,37,21.54,Electric Scooter
+76,458,215,Cancelled,41.28,25,66,0.86,Motorcycle
+77,862,173,Cancelled,46.31,36,57,49.18,Moped
+78,699,137,On the way,13.57,19,26,2.86,Bike
+79,339,38,Cancelled,43.12,15,26,46.74,Scooter
+80,1367,287,On the way,42.45,34,29,22.50,Motorcycle
+81,1060,311,Delivered,42.57,16,45,33.55,Scooter
+82,366,60,Pending,38.16,37,31,13.80,Electric Bike
+83,157,71,On the way,26.36,60,60,8.15,Electric Scooter
+84,484,91,Pending,17.31,53,63,10.72,Motorcycle
+85,637,201,On the way,3.77,28,22,19.74,Electric Bike
+86,1486,169,Pending,3.05,60,28,49.03,Motorcycle
+87,658,330,On the way,45.11,38,32,9.90,Moped
+88,1130,77,Delivered,7.86,53,37,30.71,Scooter
+89,1092,410,Pending,28.58,44,53,35.39,Electric Scooter
+90,1415,454,Cancelled,42.60,40,44,42.17,Bike
+91,85,312,On the way,29.59,37,66,5.50,Scooter
+92,389,492,Delivered,21.17,47,26,39.86,Scooter
+93,1374,165,On the way,14.26,38,33,9.70,Scooter
+94,764,41,Pending,16.38,60,28,1.64,Motorcycle
+95,1128,205,On the way,31.05,46,61,4.23,Electric Scooter
+96,69,412,Delivered,2.66,19,63,23.64,Electric Scooter
+97,763,479,On the way,49.08,44,53,25.86,Motorcycle
+98,1039,42,On the way,13.07,28,48,46.47,Bike
+99,1060,218,On the way,28.83,44,30,45.82,Bike
+100,565,396,On the way,20.44,49,45,44.14,Scooter
+101,471,264,Cancelled,7.34,41,34,4.22,Bike
+102,1058,89,On the way,31.00,48,60,13.22,Scooter
+103,108,223,Delivered,47.18,48,21,18.78,Scooter
+104,395,80,Delivered,43.05,21,27,16.53,Bike
+105,342,329,Pending,20.66,43,35,35.07,Electric Bike
+106,1199,231,Pending,21.64,52,59,33.12,Scooter
+107,795,44,Delivered,24.14,55,54,8.43,Electric Scooter
+108,1364,360,Pending,8.74,43,49,33.86,Motorcycle
+109,1166,123,Cancelled,19.14,17,55,18.14,Electric Scooter
+110,949,196,On the way,45.82,58,55,6.98,Motorcycle
+111,250,18,Delivered,39.51,53,40,30.20,Scooter
+112,988,388,Pending,1.63,54,60,12.55,Electric Scooter
+113,244,33,Delivered,18.70,32,24,43.46,Bike
+114,167,125,On the way,25.32,20,38,28.55,Motorcycle
+115,1466,199,Cancelled,32.27,50,26,32.19,Moped
+116,997,451,Pending,45.87,52,36,23.95,Scooter
+117,17,120,Cancelled,16.35,25,46,4.07,Motorcycle
+118,1079,108,Delivered,35.87,48,51,22.34,Electric Bike
+119,395,468,Delivered,20.14,16,65,7.73,Electric Scooter
+120,281,463,Delivered,44.11,22,32,19.57,Electric Bike
+121,1344,274,Cancelled,11.62,17,56,29.28,Electric Bike
+122,908,53,On the way,6.73,28,30,9.93,Scooter
+123,885,69,Pending,23.40,45,34,3.51,Scooter
+124,421,159,Pending,36.46,36,27,17.56,Moped
+125,733,188,Cancelled,2.57,50,34,24.98,Electric Bike
+126,230,254,Cancelled,17.95,25,34,26.26,Scooter
+127,681,464,Cancelled,18.83,31,45,3.40,Scooter
+128,354,333,Delivered,42.00,28,31,43.38,Electric Bike
+129,1131,101,Delivered,31.92,23,22,47.13,Electric Bike
+130,1181,348,Cancelled,37.33,24,57,12.66,Electric Scooter
+131,1481,257,Delivered,8.06,50,62,42.75,Electric Scooter
+132,1108,70,Delivered,11.01,30,30,1.09,Scooter
+133,1177,212,Delivered,33.61,23,30,41.55,Electric Bike
+134,415,39,On the way,28.62,37,64,17.37,Scooter
+135,804,357,On the way,13.36,17,24,23.09,Moped
+136,1078,398,Cancelled,33.80,18,32,34.02,Scooter
+137,323,335,Delivered,43.63,40,34,48.60,Electric Scooter
+138,85,388,Cancelled,23.45,40,66,21.09,Scooter
+139,670,244,Cancelled,49.78,38,51,31.40,Moped
+140,658,72,Pending,41.53,21,38,9.53,Moped
+141,186,238,Cancelled,35.73,35,34,16.79,Scooter
+142,1179,221,Cancelled,44.58,48,49,19.22,Scooter
+143,158,105,On the way,47.61,43,54,5.62,Bike
+144,1229,338,Delivered,3.95,37,25,45.93,Bike
+145,1156,424,Pending,47.62,59,44,3.16,Scooter
+146,420,112,On the way,31.56,23,47,26.47,Motorcycle
+147,995,101,Cancelled,23.98,55,70,22.67,Bike
+148,1448,34,Delivered,48.67,42,61,43.64,Electric Bike
+149,1223,233,Delivered,6.93,24,30,24.64,Electric Bike
+150,318,391,Delivered,41.42,33,49,33.81,Scooter
+151,620,427,Delivered,2.19,24,23,19.87,Scooter
+152,642,283,Pending,32.17,36,50,47.01,Electric Scooter
+153,1476,431,Pending,20.00,30,30,27.29,Motorcycle
+154,1429,73,On the way,22.72,37,23,19.61,Bike
+155,1419,168,Delivered,25.76,52,20,39.18,Electric Bike
+156,283,444,Cancelled,43.48,57,31,16.19,Electric Bike
+157,284,471,Cancelled,41.24,52,69,13.06,Motorcycle
+158,56,470,Cancelled,37.62,43,30,31.09,Electric Bike
+159,36,355,Cancelled,28.60,21,39,0.79,Scooter
+160,612,108,Delivered,40.19,58,54,3.86,Moped
+161,183,17,Cancelled,3.16,33,64,4.29,Motorcycle
+162,460,448,Pending,19.35,42,31,40.21,Scooter
+163,805,84,Pending,15.03,59,63,9.30,Electric Scooter
+164,858,44,On the way,21.80,58,47,27.45,Motorcycle
+165,564,165,On the way,4.95,34,29,6.70,Electric Bike
+166,224,379,On the way,37.43,22,57,16.94,Bike
+167,1448,403,On the way,10.38,45,20,15.26,Electric Scooter
+168,517,186,Pending,27.68,42,21,8.63,Electric Bike
+169,1403,85,On the way,15.90,40,68,21.51,Electric Scooter
+170,170,453,Cancelled,44.52,36,30,9.15,Scooter
+171,1017,130,Pending,48.08,17,39,10.63,Motorcycle
+172,482,329,Delivered,1.58,32,59,6.38,Electric Scooter
+173,1395,112,On the way,8.52,48,44,30.44,Moped
+174,1186,6,Cancelled,21.01,20,27,16.49,Bike
+175,31,249,On the way,19.43,36,31,27.32,Electric Bike
+176,1085,475,Cancelled,7.76,43,40,27.19,Electric Bike
+177,841,205,Cancelled,25.32,48,43,0.10,Moped
+178,528,352,Pending,7.76,52,54,23.34,Scooter
+179,841,457,On the way,21.39,26,25,40.57,Electric Scooter
+180,166,491,Delivered,48.05,56,55,26.55,Scooter
+181,1489,471,Cancelled,47.14,44,48,26.49,Moped
+182,977,301,Cancelled,29.87,15,34,41.70,Electric Bike
+183,507,113,On the way,37.28,58,42,14.67,Bike
+184,1151,426,Delivered,35.20,39,20,35.24,Motorcycle
+185,1165,175,Delivered,19.95,55,24,44.93,Bike
+186,1456,220,On the way,6.72,58,55,31.45,Motorcycle
+187,1349,497,Cancelled,13.67,17,44,38.97,Electric Scooter
+188,1200,347,Pending,14.29,21,58,12.13,Bike
+189,126,7,On the way,13.86,48,39,21.29,Motorcycle
+190,705,48,On the way,10.02,35,27,46.93,Scooter
+191,1228,101,On the way,6.80,15,25,22.80,Motorcycle
+192,1089,199,Pending,34.81,45,44,14.84,Bike
+193,960,322,Cancelled,19.97,28,66,43.46,Electric Bike
+194,799,74,On the way,47.49,48,22,13.37,Electric Bike
+195,792,395,Delivered,26.34,15,68,11.50,Electric Bike
+196,343,273,Delivered,20.04,32,60,26.81,Electric Bike
+197,889,42,Delivered,6.76,15,57,28.38,Motorcycle
+198,316,45,On the way,19.40,54,24,10.73,Electric Scooter
+199,1181,127,Cancelled,14.82,45,59,1.71,Scooter
+200,541,79,On the way,10.12,40,38,6.96,Scooter
+201,476,339,Delivered,40.44,50,37,18.28,Electric Bike
+202,1293,257,Delivered,29.15,17,39,7.95,Electric Scooter
+203,1018,295,Pending,11.63,30,38,23.10,Motorcycle
+204,696,135,On the way,35.50,33,39,7.17,Electric Scooter
+205,981,109,Cancelled,45.09,53,27,6.21,Electric Bike
+206,580,222,Cancelled,41.06,19,32,48.58,Moped
+207,1176,294,Pending,14.05,56,24,48.15,Moped
+208,1016,7,Cancelled,9.33,19,49,8.78,Electric Scooter
+209,2,378,Pending,17.21,50,54,32.94,Motorcycle
+210,804,214,Cancelled,38.42,50,25,20.81,Electric Bike
+211,407,269,On the way,42.80,42,47,14.51,Electric Scooter
+212,1368,154,Cancelled,9.40,45,70,13.89,Moped
+213,861,207,Delivered,5.61,19,60,48.15,Electric Bike
+214,670,205,Delivered,6.99,53,57,18.91,Moped
+215,781,167,On the way,9.67,54,24,36.67,Motorcycle
+216,1044,391,Pending,14.35,29,31,47.44,Bike
+217,1006,59,Pending,22.66,43,68,47.32,Electric Bike
+218,400,101,Delivered,44.84,27,51,41.87,Electric Scooter
+219,329,301,Cancelled,48.98,50,60,22.79,Moped
+220,922,437,Pending,3.97,27,41,23.30,Electric Scooter
+221,356,194,Cancelled,4.36,45,58,15.61,Motorcycle
+222,691,412,On the way,24.95,52,44,43.07,Electric Scooter
+223,1162,327,On the way,41.85,15,32,39.21,Motorcycle
+224,1486,70,Delivered,38.70,43,40,11.09,Electric Bike
+225,928,67,Delivered,35.68,41,50,34.02,Moped
+226,1335,269,On the way,36.47,36,35,31.11,Motorcycle
+227,891,185,Delivered,30.56,40,22,15.90,Electric Scooter
+228,201,296,Pending,6.58,19,62,43.83,Scooter
+229,474,169,Pending,38.19,54,36,35.07,Moped
+230,899,325,Delivered,9.56,44,60,13.69,Scooter
+231,1092,178,Pending,12.16,17,48,32.76,Motorcycle
+232,1491,86,Pending,7.58,27,45,29.83,Scooter
+233,829,92,On the way,10.80,33,44,33.32,Electric Scooter
+234,286,326,Pending,46.32,60,22,47.14,Bike
+235,25,71,Pending,16.70,59,28,17.93,Bike
+236,468,416,Cancelled,24.00,16,34,36.88,Moped
+237,1465,425,Pending,43.22,42,57,35.00,Scooter
+238,673,293,Pending,8.25,39,32,47.57,Bike
+239,352,349,Pending,6.26,37,44,8.09,Motorcycle
+240,469,410,Delivered,6.90,46,48,32.11,Scooter
+241,1294,152,On the way,46.37,45,28,22.40,Electric Bike
+242,136,218,Pending,16.23,52,59,17.71,Electric Bike
+243,162,493,Delivered,6.81,17,40,34.30,Electric Bike
+244,338,65,On the way,25.44,23,48,32.20,Motorcycle
+245,316,263,Pending,17.96,15,29,30.77,Moped
+246,252,215,Cancelled,49.91,49,61,30.22,Motorcycle
+247,1175,56,Cancelled,46.17,48,21,41.23,Bike
+248,1336,401,Pending,19.71,22,69,37.83,Bike
+249,364,93,Delivered,31.98,32,64,0.06,Moped
+250,214,134,Cancelled,47.42,24,64,27.79,Electric Scooter
+251,283,139,Cancelled,25.20,44,22,16.59,Scooter
+252,1188,483,Delivered,33.94,48,21,25.66,Electric Bike
+253,190,183,On the way,12.91,22,37,32.87,Bike
+254,404,385,Cancelled,17.38,36,27,46.62,Electric Scooter
+255,524,50,On the way,26.99,25,51,48.72,Bike
+256,798,111,Delivered,35.04,52,41,45.03,Electric Bike
+257,1208,288,Pending,24.93,29,43,37.09,Motorcycle
+258,89,100,Pending,14.49,28,47,41.04,Moped
+259,370,303,On the way,4.15,20,51,31.34,Electric Bike
+260,198,53,On the way,38.27,53,59,33.61,Moped
+261,864,375,Pending,21.26,45,20,7.25,Electric Bike
+262,49,277,Cancelled,30.18,49,59,0.10,Scooter
+263,725,218,Delivered,41.88,17,24,38.79,Electric Bike
+264,1349,474,Cancelled,25.92,38,51,21.20,Bike
+265,615,336,Delivered,33.70,33,39,49.73,Electric Bike
+266,1218,262,Pending,30.51,17,36,8.16,Scooter
+267,1258,483,Delivered,8.73,33,42,32.75,Moped
+268,231,183,On the way,24.24,46,61,41.38,Electric Bike
+269,951,380,Pending,18.48,47,52,39.48,Moped
+270,1467,40,Pending,19.10,54,60,6.92,Electric Scooter
+271,559,98,Delivered,25.82,25,57,33.96,Electric Bike
+272,1240,475,Delivered,33.50,16,30,34.41,Scooter
+273,650,230,Cancelled,27.18,47,57,38.11,Scooter
+274,1155,39,Cancelled,24.15,26,45,15.67,Scooter
+275,8,415,Pending,7.45,56,48,33.92,Scooter
+276,1023,186,Pending,32.84,45,61,33.08,Moped
+277,716,426,Cancelled,49.71,57,38,16.14,Bike
+278,488,224,Cancelled,23.23,36,57,21.65,Motorcycle
+279,94,19,Delivered,23.03,16,40,26.42,Bike
+280,1432,391,On the way,14.69,33,25,49.67,Bike
+281,299,136,Cancelled,14.24,23,44,45.34,Electric Scooter
+282,225,168,Delivered,11.17,25,38,1.28,Scooter
+283,1416,441,Cancelled,32.51,19,50,32.39,Motorcycle
+284,201,291,Pending,16.01,23,54,36.66,Motorcycle
+285,570,2,On the way,11.03,51,49,34.66,Moped
+286,1354,498,Cancelled,21.20,59,41,35.94,Bike
+287,1204,137,Cancelled,11.26,18,65,22.87,Scooter
+288,1020,124,Pending,45.57,16,22,15.29,Motorcycle
+289,100,200,On the way,49.04,50,60,0.00,Bike
+290,966,490,Cancelled,40.26,40,67,14.20,Motorcycle
+291,1043,476,Delivered,43.44,27,43,38.25,Electric Scooter
+292,295,311,Cancelled,22.65,22,33,34.56,Scooter
+293,126,388,Pending,42.76,15,34,38.24,Motorcycle
+294,1280,258,Pending,45.96,31,36,9.83,Electric Bike
+295,116,289,Pending,14.19,29,58,30.79,Electric Scooter
+296,1437,417,Delivered,4.69,17,53,46.89,Motorcycle
+297,510,25,Pending,24.74,48,59,2.97,Bike
+298,57,50,Pending,15.16,58,61,25.08,Moped
+299,903,357,On the way,47.33,44,60,41.94,Motorcycle
+300,461,279,Pending,7.49,27,37,36.00,Electric Bike
+301,1069,364,Cancelled,36.29,57,53,26.76,Scooter
+302,1134,216,Delivered,4.41,56,20,13.68,Electric Scooter
+303,699,422,On the way,4.33,25,54,8.51,Electric Scooter
+304,47,480,Cancelled,38.09,57,61,31.78,Electric Bike
+305,1287,116,Pending,28.79,30,34,48.66,Bike
+306,791,269,On the way,5.49,46,65,46.29,Electric Scooter
+307,209,494,Cancelled,9.92,16,64,0.13,Electric Scooter
+308,766,24,On the way,9.38,30,56,21.24,Electric Bike
+309,1122,411,Cancelled,8.47,16,36,18.41,Electric Scooter
+310,1249,373,Cancelled,33.01,46,36,42.48,Scooter
+311,312,268,On the way,44.14,30,59,15.32,Electric Scooter
+312,637,462,Pending,19.46,45,28,36.16,Motorcycle
+313,94,10,Cancelled,22.06,33,22,44.19,Electric Scooter
+314,889,323,Pending,19.27,22,45,2.66,Moped
+315,719,389,Cancelled,46.41,42,33,18.65,Scooter
+316,386,378,Cancelled,5.63,32,65,30.22,Bike
+317,1263,417,Delivered,21.69,43,58,4.85,Scooter
+318,171,105,Delivered,43.38,27,68,6.01,Electric Bike
+319,1005,251,Pending,33.00,43,60,49.51,Electric Bike
+320,1106,118,Pending,27.53,32,62,28.83,Electric Scooter
+321,352,470,Cancelled,3.78,58,47,21.08,Motorcycle
+322,379,326,Delivered,4.67,52,38,49.61,Moped
+323,1369,338,On the way,14.50,51,54,48.40,Moped
+324,1063,187,Cancelled,24.77,35,44,22.73,Electric Scooter
+325,279,358,Delivered,24.90,25,42,37.60,Bike
+326,195,459,Pending,1.74,32,52,26.57,Motorcycle
+327,633,145,Delivered,27.97,42,24,35.48,Electric Bike
+328,107,94,Pending,47.22,44,50,8.32,Bike
+329,965,243,Pending,48.53,58,43,35.54,Scooter
+330,242,231,Cancelled,49.97,32,50,28.42,Moped
+331,737,61,Pending,46.90,34,40,23.72,Electric Bike
+332,1220,342,Cancelled,12.77,34,53,10.84,Electric Scooter
+333,160,116,Delivered,25.86,20,56,28.96,Electric Bike
+334,159,157,On the way,15.35,57,57,20.50,Bike
+335,463,5,Delivered,19.31,49,62,16.18,Electric Scooter
+336,608,302,On the way,14.47,24,62,23.84,Motorcycle
+337,750,266,Delivered,46.98,46,47,41.36,Electric Bike
+338,887,449,Cancelled,47.28,45,38,47.95,Moped
+339,203,471,Pending,29.47,51,44,5.36,Electric Scooter
+340,341,184,Pending,40.33,25,61,31.01,Bike
+341,742,90,Delivered,4.63,50,48,25.41,Electric Scooter
+342,1258,25,Cancelled,37.01,44,21,26.05,Bike
+343,1373,409,On the way,32.67,38,60,49.63,Scooter
+344,979,8,Delivered,8.21,46,53,32.16,Motorcycle
+345,382,84,On the way,1.94,59,34,33.33,Electric Scooter
+346,1374,498,On the way,2.63,44,61,37.62,Moped
+347,1023,446,Pending,10.32,46,40,19.61,Electric Scooter
+348,1151,363,Pending,3.95,26,67,16.70,Moped
+349,1119,495,Delivered,16.09,23,51,6.60,Motorcycle
+350,749,157,Delivered,47.30,40,43,21.69,Moped
+351,292,31,Cancelled,5.78,54,39,37.59,Scooter
+352,88,348,Delivered,37.50,57,27,20.15,Moped
+353,78,31,Pending,33.00,27,20,38.52,Electric Bike
+354,1299,169,Delivered,23.54,52,29,21.08,Scooter
+355,1255,183,Delivered,10.18,51,69,38.49,Scooter
+356,813,330,Pending,19.17,22,58,2.65,Bike
+357,667,181,Delivered,45.38,31,58,20.27,Moped
+358,354,36,Delivered,15.40,50,25,35.13,Electric Scooter
+359,1239,180,Delivered,4.01,49,65,24.18,Moped
+360,1237,114,Cancelled,15.12,33,23,20.04,Electric Scooter
+361,1210,229,Pending,1.65,39,60,43.29,Motorcycle
+362,360,318,Pending,44.49,38,38,37.59,Motorcycle
+363,255,272,On the way,8.31,45,39,40.02,Moped
+364,335,217,Delivered,39.11,23,21,1.38,Electric Bike
+365,1066,60,Pending,48.27,22,26,17.41,Motorcycle
+366,1182,318,Delivered,14.70,26,61,2.48,Moped
+367,1328,493,Cancelled,4.61,48,68,18.80,Moped
+368,1246,222,Pending,29.86,56,29,31.56,Motorcycle
+369,1037,304,On the way,5.80,37,68,26.46,Electric Scooter
+370,584,282,Pending,34.25,46,39,29.40,Motorcycle
+371,92,428,Cancelled,44.84,45,22,9.91,Motorcycle
+372,1417,4,Cancelled,36.97,19,59,18.02,Electric Bike
+373,1417,260,On the way,49.66,56,49,13.20,Bike
+374,1054,98,Delivered,4.40,30,46,0.03,Moped
+375,509,140,Delivered,38.80,40,44,49.60,Electric Scooter
+376,728,142,Pending,8.28,39,23,27.18,Bike
+377,15,348,Cancelled,42.99,20,70,25.71,Motorcycle
+378,713,174,Pending,41.35,15,33,8.55,Electric Scooter
+379,1141,342,Cancelled,48.07,41,27,11.57,Electric Scooter
+380,1421,442,Cancelled,14.42,36,23,27.87,Bike
+381,1496,492,On the way,31.40,55,27,5.75,Scooter
+382,726,61,Delivered,11.30,49,43,15.44,Electric Bike
+383,881,425,Cancelled,44.83,37,64,11.50,Scooter
+384,290,414,Pending,5.16,19,51,38.07,Electric Scooter
+385,1314,118,Delivered,30.28,46,43,6.79,Bike
+386,853,210,On the way,38.82,41,68,30.00,Electric Bike
+387,671,317,Pending,36.57,40,36,15.54,Scooter
+388,753,477,On the way,40.74,41,60,47.13,Scooter
+389,1250,301,On the way,48.03,52,24,1.47,Moped
+390,509,368,Cancelled,15.85,41,33,40.06,Motorcycle
+391,525,384,On the way,49.70,33,70,15.98,Scooter
+392,1050,408,Delivered,36.51,17,57,5.31,Scooter
+393,1092,435,Delivered,38.31,52,25,34.35,Electric Scooter
+394,200,37,Delivered,3.56,29,38,16.23,Moped
+395,1342,497,Delivered,33.41,42,47,31.57,Motorcycle
+396,1253,321,Delivered,42.65,32,39,37.95,Scooter
+397,432,242,Cancelled,34.90,21,24,38.02,Motorcycle
+398,340,153,On the way,1.80,20,24,17.17,Motorcycle
+399,365,452,On the way,18.99,38,23,21.45,Scooter
+400,1201,91,Pending,35.78,25,59,47.60,Scooter
+401,1208,189,Cancelled,36.82,19,34,31.80,Scooter
+402,1332,492,On the way,21.50,39,52,35.78,Electric Bike
+403,970,318,Cancelled,11.22,40,56,43.17,Electric Scooter
+404,710,369,Pending,33.55,57,34,14.39,Electric Bike
+405,1398,458,Delivered,43.30,30,66,3.85,Scooter
+406,263,462,On the way,43.63,41,29,9.56,Electric Scooter
+407,206,485,Cancelled,29.33,20,46,5.55,Moped
+408,179,139,On the way,11.26,42,28,1.79,Motorcycle
+409,953,229,Pending,32.06,42,70,25.95,Moped
+410,60,61,Delivered,30.31,41,46,41.04,Bike
+411,462,367,Cancelled,10.12,25,68,26.08,Scooter
+412,757,395,On the way,45.49,28,28,16.18,Motorcycle
+413,594,107,On the way,35.80,30,50,40.38,Bike
+414,319,343,On the way,49.46,30,31,19.20,Bike
+415,1033,230,Delivered,43.13,30,28,15.50,Bike
+416,489,249,Delivered,17.48,50,51,8.19,Bike
+417,889,212,On the way,10.69,41,53,19.68,Motorcycle
+418,1426,43,Delivered,10.90,24,42,46.33,Electric Scooter
+419,646,87,Cancelled,6.86,31,24,30.85,Moped
+420,725,482,Delivered,41.67,24,58,13.09,Scooter
+421,1092,88,Delivered,40.37,54,36,44.50,Moped
+422,1376,25,Delivered,29.65,43,67,33.84,Bike
+423,81,22,Cancelled,21.82,47,25,41.05,Scooter
+424,165,458,On the way,19.17,38,39,0.44,Bike
+425,382,134,Delivered,47.69,19,50,21.76,Electric Bike
+426,383,96,Pending,29.04,55,56,37.62,Bike
+427,3,183,Cancelled,24.47,23,22,48.21,Electric Bike
+428,827,313,Cancelled,17.25,47,50,19.05,Scooter
+429,1193,396,Delivered,32.97,46,55,17.03,Scooter
+430,361,464,Pending,12.56,31,40,25.81,Bike
+431,211,328,Pending,23.38,49,48,38.25,Electric Bike
+432,794,432,Pending,29.76,34,42,39.94,Electric Bike
+433,97,416,On the way,39.25,27,57,2.24,Moped
+434,249,35,Pending,49.30,53,54,38.86,Moped
+435,20,297,Delivered,7.50,54,45,37.75,Bike
+436,646,217,Pending,3.38,35,59,24.46,Scooter
+437,1296,32,Cancelled,36.25,58,29,4.35,Electric Scooter
+438,677,396,Cancelled,6.58,45,53,36.05,Scooter
+439,1442,87,On the way,21.70,28,32,32.80,Electric Bike
+440,1268,65,Delivered,26.88,16,48,47.11,Electric Bike
+441,944,60,Cancelled,34.59,41,62,42.79,Bike
+442,814,402,On the way,33.81,31,20,16.26,Motorcycle
+443,930,52,Pending,29.60,49,48,22.85,Scooter
+444,678,50,On the way,49.05,37,43,13.93,Bike
+445,1020,36,Delivered,19.95,60,53,9.78,Moped
+446,1478,16,On the way,49.58,45,65,37.77,Scooter
+447,121,118,Delivered,29.93,28,57,41.47,Scooter
+448,1429,210,Pending,36.69,38,68,38.50,Bike
+449,577,231,Delivered,27.63,31,47,46.20,Electric Scooter
+450,1234,317,Pending,39.37,38,67,24.30,Moped
+451,449,231,On the way,27.40,58,25,14.84,Electric Bike
+452,1319,308,Cancelled,37.31,42,65,43.25,Moped
+453,597,217,On the way,6.03,16,46,13.33,Motorcycle
+454,638,53,Cancelled,18.74,55,39,12.98,Moped
+455,788,157,Delivered,48.80,32,51,13.18,Bike
+456,922,171,Cancelled,25.82,53,32,23.41,Scooter
+457,742,396,Cancelled,31.98,33,56,28.51,Scooter
+458,370,352,On the way,18.29,35,20,10.46,Motorcycle
+459,360,171,Cancelled,25.14,44,69,4.12,Motorcycle
+460,373,365,Cancelled,45.74,43,34,26.00,Bike
+461,1349,402,Pending,34.26,37,43,17.87,Electric Bike
+462,598,203,Pending,22.89,28,21,38.69,Electric Bike
+463,294,126,On the way,42.17,55,34,40.66,Motorcycle
+464,344,310,On the way,11.97,29,64,30.32,Bike
+465,1203,10,Cancelled,15.44,36,54,3.28,Moped
+466,808,438,Cancelled,13.37,20,23,39.12,Motorcycle
+467,766,472,On the way,19.12,46,21,17.62,Moped
+468,421,151,Cancelled,30.01,35,40,42.61,Electric Bike
+469,1383,38,On the way,26.97,31,62,47.20,Scooter
+470,1490,336,On the way,28.73,40,64,43.49,Moped
+471,508,112,On the way,1.13,45,53,19.00,Moped
+472,1177,116,Cancelled,34.86,25,26,43.06,Scooter
+473,710,306,Cancelled,42.03,22,29,44.49,Electric Scooter
+474,1243,312,Delivered,7.24,31,35,39.32,Electric Bike
+475,1247,219,Delivered,18.61,25,21,30.69,Motorcycle
+476,1168,205,Pending,22.19,53,39,17.09,Motorcycle
+477,564,319,Delivered,44.89,55,31,9.56,Electric Scooter
+478,1479,481,On the way,42.05,24,62,16.23,Bike
+479,758,389,Cancelled,1.04,58,28,14.58,Bike
+480,85,415,Delivered,7.65,19,38,27.50,Motorcycle
+481,1301,122,Delivered,29.71,34,61,28.21,Scooter
+482,235,436,Cancelled,35.67,43,60,39.81,Scooter
+483,736,1,Delivered,7.20,42,61,16.19,Scooter
+484,791,224,Delivered,20.88,49,68,12.01,Motorcycle
+485,1483,123,On the way,6.25,31,34,42.00,Moped
+486,1227,339,Pending,27.53,19,39,24.21,Electric Bike
+487,201,295,Cancelled,11.55,32,51,42.44,Moped
+488,1047,281,Delivered,33.02,36,23,36.46,Electric Bike
+489,996,480,Pending,41.02,15,49,1.61,Scooter
+490,231,448,Pending,1.32,53,69,25.45,Electric Scooter
+491,1197,342,Delivered,27.12,45,51,35.39,Electric Scooter
+492,1277,221,Cancelled,38.06,44,58,49.13,Motorcycle
+493,631,375,Pending,1.49,27,29,33.37,Electric Bike
+494,1384,295,Cancelled,33.72,36,52,44.99,Bike
+495,445,121,Pending,23.14,30,30,9.59,Electric Bike
+496,1105,98,On the way,36.64,25,52,49.01,Bike
+497,791,204,Delivered,6.19,17,47,15.87,Motorcycle
+498,1220,250,Cancelled,2.84,49,35,38.80,Moped
+499,512,315,On the way,28.38,43,64,8.89,Electric Scooter
+500,255,45,Pending,27.70,20,30,28.64,Motorcycle
+501,655,381,Pending,30.76,35,30,47.99,Motorcycle
+502,632,379,Delivered,22.11,24,21,12.85,Scooter
+503,455,154,Pending,41.36,53,41,11.74,Electric Bike
+504,532,386,Pending,3.81,28,34,41.88,Electric Bike
+505,1135,349,Cancelled,9.19,54,65,7.65,Scooter
+506,674,142,Delivered,27.36,34,44,28.07,Scooter
+507,59,51,On the way,33.70,58,33,46.44,Bike
+508,728,431,Cancelled,11.63,36,59,19.71,Moped
+509,1071,76,Delivered,40.56,51,26,48.39,Moped
+510,684,476,Cancelled,10.94,33,46,1.41,Motorcycle
+511,198,123,Delivered,30.26,45,50,38.06,Electric Scooter
+512,258,172,Cancelled,48.01,46,22,48.95,Scooter
+513,242,148,On the way,37.24,41,28,40.04,Electric Bike
+514,1435,79,Delivered,49.53,18,55,13.42,Electric Scooter
+515,1317,189,Pending,25.26,48,35,16.37,Electric Scooter
+516,535,166,Delivered,26.76,39,30,39.18,Bike
+517,1311,434,Pending,41.87,15,25,19.94,Electric Bike
+518,544,407,On the way,34.10,41,36,22.98,Scooter
+519,1453,103,Delivered,15.23,25,51,5.08,Scooter
+520,1405,283,Pending,25.62,59,54,18.55,Motorcycle
+521,160,73,Cancelled,39.84,44,24,36.10,Bike
+522,913,240,Delivered,27.21,32,44,22.14,Motorcycle
+523,1199,359,Cancelled,38.62,33,58,36.12,Bike
+524,659,478,Pending,38.66,42,44,12.12,Scooter
+525,284,4,Cancelled,41.74,23,53,22.60,Bike
+526,150,100,Delivered,17.44,55,56,48.56,Motorcycle
+527,861,223,On the way,11.80,36,56,2.05,Electric Scooter
+528,914,153,Cancelled,46.95,30,62,37.25,Bike
+529,386,448,Delivered,38.99,19,49,20.26,Scooter
+530,1378,258,On the way,37.14,23,46,29.88,Scooter
+531,1026,52,On the way,47.43,19,64,3.47,Electric Bike
+532,867,302,Cancelled,16.51,42,40,34.72,Moped
+533,1058,252,Delivered,26.33,55,59,1.02,Moped
+534,664,317,Cancelled,14.09,51,55,13.48,Electric Scooter
+535,497,156,Delivered,2.14,29,62,10.73,Motorcycle
+536,864,461,On the way,43.74,23,29,35.81,Motorcycle
+537,761,93,Pending,36.65,57,25,39.98,Scooter
+538,1043,108,Cancelled,47.83,46,57,17.38,Motorcycle
+539,265,226,Cancelled,26.89,54,38,28.15,Electric Scooter
+540,972,368,Pending,6.37,54,29,5.71,Motorcycle
+541,1326,459,Pending,17.03,41,38,8.36,Electric Scooter
+542,85,422,Delivered,30.89,33,40,24.06,Scooter
+543,630,109,Delivered,7.06,34,39,18.59,Bike
+544,1286,290,On the way,12.63,59,56,13.84,Scooter
+545,381,80,Pending,5.46,18,40,28.72,Motorcycle
+546,1423,260,Delivered,12.05,45,67,16.29,Moped
+547,1234,134,Delivered,11.20,55,47,34.41,Scooter
+548,459,145,Cancelled,7.41,44,45,0.88,Scooter
+549,507,467,On the way,37.33,54,30,2.69,Electric Scooter
+550,1127,42,Delivered,32.97,20,51,14.00,Electric Bike
+551,736,59,Cancelled,15.99,24,45,6.04,Motorcycle
+552,74,60,On the way,44.59,18,29,49.28,Scooter
+553,1455,120,Cancelled,2.66,36,61,46.69,Motorcycle
+554,1484,40,Pending,30.08,42,41,11.45,Moped
+555,1212,199,On the way,29.16,47,53,40.32,Bike
+556,1239,259,Delivered,48.93,58,48,7.45,Scooter
+557,986,76,Pending,37.55,57,63,9.47,Scooter
+558,309,248,Delivered,46.41,15,54,40.80,Moped
+559,1137,307,On the way,10.39,58,65,24.27,Motorcycle
+560,222,16,On the way,4.57,40,39,24.89,Electric Bike
+561,649,323,Cancelled,25.69,53,34,40.28,Electric Bike
+562,638,136,Cancelled,17.68,15,65,0.19,Electric Scooter
+563,680,412,Pending,23.27,20,59,2.40,Electric Scooter
+564,564,36,Pending,32.75,29,28,10.13,Electric Bike
+565,901,156,Delivered,2.38,34,69,6.88,Moped
+566,1041,141,Pending,43.76,25,44,9.99,Motorcycle
+567,228,432,Delivered,7.47,23,63,44.60,Bike
+568,70,10,Pending,25.30,22,33,18.53,Scooter
+569,1309,14,Delivered,28.12,49,56,12.99,Moped
+570,137,385,On the way,12.54,39,21,47.83,Scooter
+571,641,30,Cancelled,33.53,20,40,27.54,Electric Scooter
+572,846,308,On the way,38.21,36,27,8.27,Electric Scooter
+573,1438,468,Pending,2.76,60,54,44.35,Electric Scooter
+574,252,485,Delivered,10.04,34,35,18.19,Electric Scooter
+575,567,154,Cancelled,36.38,17,35,46.56,Motorcycle
+576,225,460,Cancelled,3.75,40,40,18.56,Scooter
+577,753,219,On the way,2.11,49,47,46.18,Bike
+578,64,69,Delivered,36.02,33,53,39.44,Scooter
+579,338,264,Pending,3.62,47,42,19.11,Scooter
+580,1143,250,Delivered,6.48,60,60,19.94,Electric Bike
+581,437,208,On the way,28.62,26,29,22.50,Motorcycle
+582,771,180,On the way,26.32,45,54,34.28,Moped
+583,1368,354,Delivered,36.26,44,47,20.11,Moped
+584,1204,249,Delivered,25.75,15,58,32.69,Bike
+585,157,123,Cancelled,13.04,37,33,46.01,Electric Bike
+586,1246,182,Cancelled,16.38,22,47,28.95,Bike
+587,477,184,Pending,39.13,35,35,1.58,Bike
+588,949,308,Pending,1.80,23,61,40.24,Motorcycle
+589,23,192,On the way,48.88,55,27,8.39,Motorcycle
+590,210,396,Delivered,49.09,19,49,12.76,Scooter
+591,1390,378,Cancelled,20.68,44,20,42.62,Electric Bike
+592,204,447,On the way,23.67,20,47,38.89,Scooter
+593,441,137,Delivered,1.61,18,33,39.20,Motorcycle
+594,9,239,On the way,34.02,57,37,13.08,Electric Scooter
+595,1181,313,Cancelled,9.78,59,53,23.49,Bike
+596,805,366,Cancelled,47.59,52,41,33.27,Bike
+597,384,210,On the way,43.63,22,62,34.52,Bike
+598,882,480,On the way,20.25,47,31,25.26,Electric Scooter
+599,1113,229,Pending,39.80,28,62,31.36,Electric Bike
+600,679,406,Pending,29.12,44,54,36.17,Motorcycle
+601,228,449,On the way,14.23,47,27,8.03,Electric Bike
+602,235,90,Delivered,10.50,34,68,3.14,Motorcycle
+603,961,96,Cancelled,45.81,25,29,26.11,Electric Bike
+604,623,421,Pending,28.96,44,65,32.95,Motorcycle
+605,1378,500,On the way,47.69,54,30,32.88,Motorcycle
+606,80,266,Cancelled,9.54,40,62,41.40,Bike
+607,903,18,Delivered,29.49,16,48,22.59,Bike
+608,1484,216,Delivered,11.89,29,56,2.76,Motorcycle
+609,152,92,On the way,28.08,49,57,30.31,Motorcycle
+610,1457,370,Pending,46.44,40,62,15.96,Scooter
+611,253,86,Cancelled,46.59,21,51,40.13,Bike
+612,1315,151,Delivered,14.01,36,35,2.42,Scooter
+613,1364,469,Pending,35.29,58,54,42.20,Scooter
+614,693,257,On the way,16.94,48,25,39.81,Electric Scooter
+615,849,404,On the way,42.85,38,46,7.20,Motorcycle
+616,5,123,Delivered,29.56,16,55,40.99,Bike
+617,932,470,Delivered,16.04,18,31,22.23,Bike
+618,56,8,On the way,23.76,18,36,4.73,Motorcycle
+619,765,331,Pending,18.60,49,65,47.11,Moped
+620,1135,38,Pending,47.47,60,66,43.33,Electric Scooter
+621,474,177,Delivered,14.79,49,39,5.35,Electric Scooter
+622,648,269,Delivered,44.90,22,65,35.29,Motorcycle
+623,1312,285,Pending,19.71,42,42,10.82,Electric Bike
+624,606,203,Delivered,2.91,19,57,17.50,Motorcycle
+625,1146,140,Pending,40.25,46,43,49.21,Scooter
+626,1320,30,On the way,37.17,22,42,1.64,Motorcycle
+627,1092,246,Delivered,26.66,24,68,30.22,Bike
+628,176,222,Pending,2.11,24,40,0.79,Electric Bike
+629,1343,227,Cancelled,28.25,23,36,47.74,Motorcycle
+630,391,28,On the way,1.43,44,25,7.20,Scooter
+631,154,140,Cancelled,6.69,16,33,1.73,Electric Bike
+632,1136,380,Delivered,33.71,29,67,21.90,Moped
+633,88,176,Pending,16.42,36,66,6.03,Scooter
+634,857,381,Delivered,40.39,40,25,41.47,Scooter
+635,495,385,Cancelled,31.89,25,66,8.14,Motorcycle
+636,117,287,Delivered,48.88,50,47,0.55,Electric Scooter
+637,947,4,On the way,44.23,57,53,15.76,Bike
+638,52,49,On the way,25.06,43,69,33.98,Motorcycle
+639,206,156,Delivered,41.47,56,47,14.65,Moped
+640,1167,397,Cancelled,14.96,43,30,37.32,Motorcycle
+641,1309,187,Pending,11.26,33,44,26.71,Electric Bike
+642,741,23,Delivered,33.80,58,42,5.37,Moped
+643,350,495,On the way,46.75,25,43,11.73,Moped
+644,924,381,Pending,6.00,48,66,7.93,Bike
+645,912,474,Cancelled,4.01,39,68,37.21,Moped
+646,384,247,Delivered,23.18,39,61,40.21,Scooter
+647,534,273,Delivered,11.63,24,56,2.67,Moped
+648,134,429,Pending,7.15,60,52,49.70,Bike
+649,146,207,On the way,46.38,33,60,22.45,Moped
+650,732,323,Pending,33.95,39,45,0.19,Scooter
+651,448,157,Delivered,30.33,29,52,8.17,Scooter
+652,174,102,Delivered,29.65,20,37,20.79,Scooter
+653,1386,351,Pending,32.09,56,49,23.48,Electric Bike
+654,745,20,Cancelled,26.04,23,21,11.29,Scooter
+655,459,301,Pending,40.99,55,66,25.94,Moped
+656,811,486,Cancelled,44.76,46,48,42.69,Scooter
+657,978,33,Cancelled,6.19,55,44,8.30,Moped
+658,1143,187,Delivered,11.02,51,69,16.59,Electric Scooter
+659,273,206,Cancelled,17.57,33,22,0.53,Bike
+660,1196,134,Pending,3.71,44,57,48.81,Scooter
+661,919,296,Delivered,15.72,34,29,47.90,Scooter
+662,1026,404,On the way,17.14,45,61,41.06,Electric Bike
+663,874,212,Delivered,45.96,57,57,33.66,Electric Bike
+664,1190,154,Cancelled,28.13,24,41,6.91,Motorcycle
+665,316,122,Delivered,40.96,44,66,24.75,Motorcycle
+666,1309,392,On the way,25.98,36,40,18.86,Electric Scooter
+667,1145,256,On the way,17.87,30,57,23.47,Bike
+668,1399,248,Pending,44.82,40,59,12.09,Moped
+669,738,46,On the way,35.67,41,57,30.82,Electric Bike
+670,886,270,Delivered,8.15,41,45,30.30,Electric Bike
+671,511,368,On the way,28.56,33,66,48.84,Electric Scooter
+672,1369,181,Delivered,25.77,56,45,29.86,Bike
+673,1398,302,Pending,41.55,22,60,8.38,Motorcycle
+674,1091,150,Pending,20.97,56,53,39.78,Electric Bike
+675,1052,184,Pending,25.75,53,24,27.07,Motorcycle
+676,300,460,Cancelled,29.34,53,28,31.21,Electric Bike
+677,1236,61,Cancelled,1.39,41,35,42.10,Electric Scooter
+678,852,330,Cancelled,8.36,45,23,11.77,Bike
+679,355,75,Delivered,37.70,46,67,15.50,Scooter
+680,620,166,Delivered,40.34,42,54,32.84,Moped
+681,1342,69,Pending,24.26,58,70,7.69,Scooter
+682,117,151,Pending,45.53,43,50,7.93,Bike
+683,481,43,Cancelled,35.38,55,29,26.62,Electric Scooter
+684,591,407,On the way,39.60,27,56,22.16,Bike
+685,586,468,Cancelled,29.81,17,59,47.66,Scooter
+686,1374,6,Cancelled,18.18,51,40,1.11,Electric Bike
+687,243,382,Pending,23.25,15,47,47.33,Scooter
+688,895,152,Pending,29.33,34,58,4.82,Electric Bike
+689,1473,450,Pending,40.49,37,23,12.24,Electric Bike
+690,1000,337,On the way,2.15,59,70,35.07,Scooter
+691,875,71,Pending,15.57,40,44,46.49,Electric Bike
+692,499,19,Cancelled,30.70,27,64,19.11,Motorcycle
+693,1236,436,Cancelled,43.36,50,36,11.14,Bike
+694,262,445,On the way,10.36,36,49,40.29,Bike
+695,614,352,On the way,15.30,60,67,10.14,Moped
+696,543,244,Cancelled,9.06,53,28,6.36,Moped
+697,880,100,Cancelled,26.76,50,60,14.52,Electric Scooter
+698,1494,179,Delivered,31.70,58,54,21.62,Bike
+699,687,304,Delivered,10.78,59,23,2.86,Electric Bike
+700,235,80,Pending,39.07,16,65,37.52,Electric Scooter
+701,1429,67,Pending,29.31,42,40,41.96,Moped
+702,1314,112,Pending,9.87,56,21,3.93,Bike
+703,1476,188,On the way,24.62,55,25,33.05,Moped
+704,1495,312,Pending,29.08,55,32,0.41,Electric Bike
+705,611,421,On the way,45.14,21,25,48.70,Electric Scooter
+706,768,198,Delivered,38.13,34,47,6.96,Bike
+707,1056,4,Pending,48.03,38,56,27.81,Motorcycle
+708,172,292,On the way,49.74,48,35,18.01,Electric Scooter
+709,1194,381,On the way,47.32,20,20,9.21,Electric Bike
+710,847,418,On the way,12.22,26,48,27.06,Moped
+711,1347,360,Delivered,12.82,56,35,18.09,Electric Scooter
+712,117,119,Pending,15.81,41,60,25.31,Scooter
+713,1236,184,On the way,33.87,21,61,44.60,Electric Scooter
+714,800,322,Pending,12.70,41,56,20.27,Electric Bike
+715,1250,63,Pending,47.51,40,29,49.85,Motorcycle
+716,1291,347,Cancelled,9.63,48,62,31.32,Moped
+717,790,238,On the way,33.17,30,54,35.84,Bike
+718,249,166,Delivered,24.48,24,54,41.04,Scooter
+719,96,500,Pending,34.57,40,64,44.31,Electric Bike
+720,461,279,Delivered,28.47,36,47,28.99,Electric Scooter
+721,41,268,On the way,11.39,58,62,12.58,Electric Bike
+722,981,104,Pending,31.08,58,59,45.34,Scooter
+723,556,128,On the way,5.95,31,57,41.17,Scooter
+724,1054,81,Pending,35.96,30,23,32.28,Motorcycle
+725,1062,350,Pending,10.31,48,23,43.73,Electric Bike
+726,1082,12,Cancelled,47.03,18,46,44.21,Electric Bike
+727,1155,465,Pending,19.13,31,37,23.27,Electric Scooter
+728,459,288,On the way,1.49,43,55,33.50,Electric Bike
+729,1202,284,Pending,23.41,23,69,24.82,Bike
+730,1083,115,Pending,30.22,48,54,5.57,Electric Scooter
+731,98,438,On the way,4.65,59,64,21.77,Moped
+732,653,56,Cancelled,41.51,19,60,17.93,Scooter
+733,895,309,On the way,48.26,52,69,23.28,Scooter
+734,912,11,On the way,5.29,30,66,31.40,Electric Bike
+735,256,156,Cancelled,13.38,26,54,1.09,Scooter
+736,1206,234,Pending,45.34,40,52,26.62,Scooter
+737,773,279,Cancelled,12.84,48,45,49.26,Scooter
+738,888,12,On the way,44.92,17,56,18.41,Electric Bike
+739,398,84,On the way,38.61,48,50,14.06,Moped
+740,480,224,Pending,33.96,43,32,26.70,Scooter
+741,996,194,Cancelled,27.33,37,29,32.11,Electric Bike
+742,1422,212,Cancelled,12.96,16,53,44.41,Electric Scooter
+743,570,440,On the way,49.31,31,23,0.86,Electric Scooter
+744,991,6,Pending,33.43,49,45,33.86,Scooter
+745,1132,220,Cancelled,18.54,47,47,44.98,Scooter
+746,313,494,Pending,3.45,49,32,16.07,Electric Bike
+747,523,209,Cancelled,30.48,34,24,37.50,Moped
+748,1007,266,On the way,41.75,53,41,12.76,Motorcycle
+749,863,231,Cancelled,5.75,22,66,24.54,Bike
+750,510,2,Cancelled,29.22,44,27,20.05,Motorcycle
+751,413,497,Delivered,31.07,43,30,13.59,Scooter
+752,937,309,On the way,20.85,35,46,33.99,Motorcycle
+753,1405,297,Cancelled,25.40,35,59,13.54,Electric Bike
+754,907,47,Cancelled,5.58,38,30,34.72,Electric Bike
+755,1455,153,On the way,29.34,47,32,19.68,Scooter
+756,852,483,On the way,11.84,40,67,16.35,Electric Bike
+757,259,158,Pending,47.78,46,45,49.14,Bike
+758,273,110,Delivered,24.88,42,66,4.32,Motorcycle
+759,450,493,Cancelled,46.50,36,66,16.53,Bike
+760,429,7,Pending,40.63,27,50,40.94,Bike
+761,293,388,Delivered,21.05,34,54,25.53,Moped
+762,1343,215,Cancelled,2.52,58,48,9.21,Electric Scooter
+763,1399,61,Cancelled,47.40,41,67,28.85,Bike
+764,1305,21,Cancelled,26.91,49,41,45.78,Electric Scooter
+765,21,388,On the way,47.32,31,20,19.78,Motorcycle
+766,1016,316,Cancelled,6.85,57,39,3.29,Bike
+767,577,399,Pending,25.99,19,57,36.01,Electric Scooter
+768,1283,367,Cancelled,29.58,21,64,48.11,Scooter
+769,6,172,Delivered,16.43,49,63,25.38,Scooter
+770,857,301,Cancelled,36.00,26,29,8.73,Electric Scooter
+771,36,152,Delivered,1.46,49,68,28.06,Electric Scooter
+772,521,111,On the way,26.33,19,64,15.85,Motorcycle
+773,402,288,On the way,10.47,36,38,6.87,Motorcycle
+774,208,242,Delivered,39.42,30,69,21.63,Electric Bike
+775,5,300,Delivered,33.50,40,38,48.79,Electric Bike
+776,971,127,Delivered,11.96,24,68,22.77,Bike
+777,68,472,Cancelled,46.05,19,58,2.22,Moped
+778,183,236,Delivered,28.89,58,31,12.54,Electric Scooter
+779,756,273,Cancelled,9.93,44,24,44.20,Bike
+780,152,343,On the way,23.38,38,21,13.48,Motorcycle
+781,1030,224,Cancelled,30.49,17,44,0.42,Moped
+782,1374,169,On the way,42.25,29,61,36.92,Electric Scooter
+783,550,327,Pending,39.68,38,31,24.42,Electric Bike
+784,491,44,On the way,43.85,24,65,46.95,Moped
+785,531,151,Delivered,11.88,23,38,4.19,Electric Bike
+786,1182,16,On the way,47.61,38,38,29.71,Scooter
+787,602,303,Pending,49.94,38,61,35.82,Electric Bike
+788,304,314,Cancelled,20.49,15,45,22.59,Electric Scooter
+789,613,207,On the way,46.58,55,48,38.97,Moped
+790,933,427,Pending,32.72,56,28,48.27,Electric Scooter
+791,1009,378,Cancelled,40.09,30,54,36.98,Electric Bike
+792,1467,268,On the way,26.65,38,28,12.31,Motorcycle
+793,1410,137,Cancelled,42.86,41,34,21.99,Electric Bike
+794,954,80,On the way,24.98,15,23,10.56,Electric Scooter
+795,399,183,On the way,47.76,44,28,49.32,Motorcycle
+796,920,393,Delivered,19.02,48,38,4.47,Electric Scooter
+797,1212,51,Delivered,28.56,16,24,3.94,Electric Scooter
+798,582,98,On the way,8.09,43,36,20.88,Motorcycle
+799,839,416,Delivered,22.54,30,25,40.71,Moped
+800,897,345,Pending,17.40,41,32,2.44,Moped
+801,1447,419,Delivered,1.92,22,27,16.12,Motorcycle
+802,950,129,Cancelled,45.76,33,36,43.36,Bike
+803,22,87,Cancelled,33.69,31,47,47.53,Moped
+804,191,375,On the way,27.53,43,22,25.90,Bike
+805,858,309,On the way,24.23,18,38,26.29,Motorcycle
+806,591,324,Cancelled,24.68,39,31,8.06,Scooter
+807,654,394,Cancelled,26.08,54,56,40.26,Electric Scooter
+808,410,372,Delivered,10.63,40,20,43.79,Motorcycle
+809,632,156,Delivered,41.43,50,40,32.86,Electric Scooter
+810,1133,414,Pending,38.08,46,45,4.34,Moped
+811,197,409,Pending,35.76,51,70,25.10,Moped
+812,321,250,On the way,20.64,55,25,8.87,Electric Bike
+813,68,357,Pending,20.53,18,60,2.14,Motorcycle
+814,1168,102,Delivered,1.73,46,63,41.04,Electric Scooter
+815,1303,7,Cancelled,42.52,20,23,1.54,Moped
+816,160,23,Pending,12.93,33,53,31.49,Bike
+817,928,433,On the way,49.87,59,62,2.88,Scooter
+818,531,219,Pending,45.00,55,34,15.39,Electric Bike
+819,1251,75,On the way,6.12,34,63,36.14,Bike
+820,350,2,Pending,34.74,34,30,18.43,Scooter
+821,152,403,Cancelled,1.15,28,54,43.31,Electric Bike
+822,1463,405,Delivered,20.00,28,35,11.93,Moped
+823,570,411,Pending,3.59,49,27,12.96,Motorcycle
+824,682,252,On the way,14.32,39,69,4.12,Bike
+825,807,39,Delivered,11.52,38,62,18.81,Moped
+826,1225,270,Delivered,4.17,41,38,22.49,Bike
+827,1239,415,On the way,34.04,50,70,9.81,Motorcycle
+828,339,261,Cancelled,37.84,55,70,37.63,Motorcycle
+829,1424,140,On the way,3.51,45,59,29.26,Bike
+830,832,455,Pending,41.91,28,24,21.12,Scooter
+831,741,452,Pending,13.96,15,22,46.03,Moped
+832,440,136,Delivered,36.43,57,59,32.71,Moped
+833,1165,319,On the way,13.26,49,59,3.44,Bike
+834,659,473,On the way,43.77,38,34,42.67,Moped
+835,1060,283,Cancelled,49.19,21,20,17.02,Scooter
+836,333,303,Pending,3.11,39,49,47.52,Electric Bike
+837,1353,381,Delivered,13.33,19,40,37.31,Motorcycle
+838,1078,156,On the way,37.10,38,33,43.16,Bike
+839,132,413,On the way,23.04,52,39,23.83,Moped
+840,1334,432,Cancelled,43.73,58,68,22.42,Motorcycle
+841,615,36,Pending,30.65,31,68,11.90,Motorcycle
+842,296,483,Delivered,39.43,26,58,1.07,Moped
+843,1289,343,On the way,45.33,41,51,44.89,Scooter
+844,1111,392,Pending,10.25,36,44,46.03,Scooter
+845,778,40,Pending,40.33,37,50,26.05,Bike
+846,974,202,On the way,26.98,44,50,13.82,Bike
+847,1052,405,Delivered,31.47,33,45,38.29,Electric Bike
+848,1172,251,Cancelled,29.84,16,64,35.88,Bike
+849,146,374,Delivered,18.22,26,33,14.51,Bike
+850,1149,219,Delivered,30.74,60,41,22.63,Electric Scooter
+851,809,289,Pending,20.28,15,56,29.75,Moped
+852,963,405,Delivered,24.37,48,37,37.39,Motorcycle
+853,482,376,On the way,38.50,22,31,29.75,Moped
+854,31,421,On the way,42.89,20,46,40.11,Motorcycle
+855,777,426,Cancelled,42.36,54,28,12.93,Scooter
+856,840,144,Pending,21.44,56,46,30.96,Electric Scooter
+857,404,90,Pending,46.84,56,28,4.99,Moped
+858,526,472,Cancelled,19.83,40,29,4.83,Motorcycle
+859,856,405,Pending,31.01,60,61,11.04,Electric Bike
+860,481,437,Delivered,4.47,32,39,9.90,Motorcycle
+861,823,197,Cancelled,20.07,47,53,9.82,Motorcycle
+862,434,205,Pending,10.34,53,25,46.04,Motorcycle
+863,725,282,Delivered,45.75,51,47,15.35,Bike
+864,1185,451,On the way,47.45,43,20,22.44,Electric Scooter
+865,731,15,On the way,25.09,28,54,40.66,Scooter
+866,1362,404,Pending,20.00,54,24,38.04,Motorcycle
+867,825,323,Cancelled,29.62,40,21,39.56,Electric Bike
+868,448,277,Pending,26.83,26,57,15.36,Scooter
+869,595,248,On the way,43.87,34,57,34.13,Electric Bike
+870,1002,189,Pending,26.65,55,36,19.51,Electric Scooter
+871,389,130,Cancelled,6.84,21,67,16.53,Electric Bike
+872,483,420,On the way,21.13,17,31,6.64,Electric Scooter
+873,1270,288,Cancelled,16.97,39,65,37.04,Motorcycle
+874,580,277,On the way,17.28,15,69,2.62,Motorcycle
+875,1052,343,Delivered,5.86,32,65,36.61,Moped
+876,726,482,On the way,42.78,58,24,26.49,Electric Bike
+877,728,91,Delivered,46.13,58,57,36.29,Electric Bike
+878,1353,415,On the way,3.88,28,70,34.77,Electric Scooter
+879,906,19,Pending,43.85,57,50,35.61,Bike
+880,1073,16,Delivered,31.95,40,64,17.07,Scooter
+881,658,289,Delivered,2.59,39,26,8.77,Electric Scooter
+882,149,29,On the way,29.69,28,37,8.38,Bike
+883,497,417,Cancelled,42.96,16,23,23.02,Bike
+884,606,113,Pending,36.73,44,41,12.12,Moped
+885,1171,387,Pending,27.02,41,47,42.11,Bike
+886,123,380,Delivered,46.85,48,20,29.66,Motorcycle
+887,1212,224,Pending,5.65,39,51,11.56,Electric Scooter
+888,97,380,Cancelled,34.23,37,52,44.55,Moped
+889,1150,253,Pending,21.10,36,45,43.83,Moped
+890,370,32,Delivered,1.72,30,62,9.15,Motorcycle
+891,368,456,Pending,34.89,59,60,15.23,Electric Scooter
+892,526,240,Pending,40.83,57,53,25.35,Electric Scooter
+893,565,171,On the way,35.28,47,24,9.71,Electric Bike
+894,714,30,Pending,35.39,19,60,29.24,Moped
+895,326,476,Delivered,32.53,45,34,36.33,Electric Bike
+896,815,212,Pending,46.45,21,33,16.24,Electric Bike
+897,1186,212,On the way,16.45,33,23,33.76,Electric Bike
+898,409,325,Cancelled,21.83,26,61,15.44,Scooter
+899,823,177,Pending,13.56,30,21,7.91,Bike
+900,361,210,Delivered,17.50,36,63,27.50,Electric Bike
+901,36,427,Pending,20.71,44,65,20.16,Scooter
+902,1428,79,On the way,37.36,15,56,11.54,Motorcycle
+903,939,363,On the way,1.93,48,61,36.90,Bike
+904,1256,470,Pending,9.06,47,69,45.68,Electric Bike
+905,595,192,Pending,13.03,19,38,19.45,Electric Scooter
+906,284,396,Pending,16.49,49,28,18.32,Bike
+907,835,465,On the way,35.84,25,50,5.94,Motorcycle
+908,798,401,Pending,46.13,59,43,16.27,Moped
+909,582,463,Pending,4.41,53,23,9.84,Moped
+910,983,171,Delivered,32.88,49,48,21.45,Moped
+911,903,425,On the way,41.87,25,67,43.77,Bike
+912,415,247,Cancelled,46.60,48,62,2.09,Electric Scooter
+913,276,9,Delivered,24.67,28,29,20.33,Electric Scooter
+914,747,428,Cancelled,23.06,15,25,6.92,Scooter
+915,349,392,On the way,9.05,59,68,39.32,Scooter
+916,97,82,Cancelled,48.41,31,40,10.21,Electric Bike
+917,88,490,On the way,11.93,41,47,10.45,Motorcycle
+918,1311,18,On the way,47.25,47,66,11.89,Moped
+919,1062,452,On the way,14.42,22,33,37.98,Motorcycle
+920,534,61,Pending,30.69,20,57,5.87,Electric Bike
+921,162,14,Delivered,14.03,54,41,17.28,Motorcycle
+922,1457,474,Pending,23.79,36,50,24.10,Electric Bike
+923,606,460,Delivered,34.48,50,55,26.03,Electric Bike
+924,141,138,Cancelled,46.91,48,58,30.37,Electric Scooter
+925,692,316,Delivered,47.40,60,40,37.78,Motorcycle
+926,1185,37,Delivered,3.48,34,40,21.18,Moped
+927,395,1,On the way,15.04,21,49,21.09,Moped
+928,937,200,Delivered,10.39,17,66,40.31,Motorcycle
+929,49,129,On the way,16.47,60,30,14.46,Motorcycle
+930,47,185,Delivered,21.86,21,57,10.07,Motorcycle
+931,1413,217,Pending,41.50,50,64,47.85,Electric Scooter
+932,438,199,Pending,5.40,37,54,32.43,Motorcycle
+933,150,460,Delivered,28.32,23,20,11.81,Bike
+934,1345,317,Delivered,23.41,21,25,11.71,Electric Bike
+935,68,456,Delivered,43.12,46,65,30.03,Scooter
+936,1370,7,Pending,22.84,27,44,26.54,Scooter
+937,883,416,Cancelled,36.97,30,57,17.09,Electric Scooter
+938,995,302,Delivered,16.67,28,39,29.81,Moped
+939,1065,99,Cancelled,24.22,37,45,6.14,Electric Bike
+940,612,27,Cancelled,30.23,37,51,16.73,Motorcycle
+941,465,459,Delivered,42.95,37,55,39.27,Electric Bike
+942,801,156,Delivered,31.58,50,38,11.73,Electric Bike
+943,282,1,On the way,3.28,18,25,34.24,Motorcycle
+944,1399,379,Pending,39.09,35,55,33.65,Electric Bike
+945,198,264,Delivered,25.89,27,54,11.16,Moped
+946,261,169,Delivered,3.97,18,62,46.76,Moped
+947,256,333,Cancelled,7.36,58,64,22.07,Bike
+948,270,45,Cancelled,46.66,16,26,40.93,Electric Scooter
+949,1250,242,Cancelled,49.45,50,42,11.28,Scooter
+950,1322,99,Cancelled,35.97,48,30,21.25,Electric Bike
+951,1420,274,On the way,19.28,22,62,16.60,Motorcycle
+952,1124,48,Cancelled,21.52,45,41,12.11,Moped
+953,1290,107,On the way,16.73,39,38,8.62,Motorcycle
+954,1398,36,Pending,41.79,37,64,0.07,Electric Scooter
+955,706,142,Pending,32.12,46,31,3.62,Scooter
+956,1107,185,On the way,22.14,27,66,13.09,Motorcycle
+957,436,488,Delivered,14.95,31,49,9.08,Moped
+958,52,389,Cancelled,18.89,43,35,17.81,Scooter
+959,1398,298,Delivered,40.43,26,28,43.58,Electric Scooter
+960,277,339,On the way,15.68,56,41,14.79,Scooter
+961,1275,196,Cancelled,35.61,25,27,18.32,Electric Bike
+962,1314,109,Cancelled,46.94,15,51,46.48,Electric Scooter
+963,657,258,Pending,44.15,38,55,24.29,Scooter
+964,455,329,Pending,7.83,46,35,0.90,Motorcycle
+965,701,326,Delivered,5.24,23,32,30.91,Electric Scooter
+966,1468,448,Cancelled,4.01,21,58,12.31,Moped
+967,1435,392,Delivered,27.97,31,50,3.87,Moped
+968,647,67,Cancelled,3.89,28,35,45.97,Moped
+969,1180,324,On the way,24.86,52,37,21.58,Moped
+970,1298,186,Pending,41.36,31,50,33.84,Electric Scooter
+971,34,451,Delivered,12.68,51,20,13.06,Scooter
+972,456,487,Delivered,42.65,60,40,7.00,Electric Bike
+973,127,224,On the way,11.90,56,53,14.98,Electric Scooter
+974,1172,487,Pending,39.37,34,52,25.17,Electric Bike
+975,361,202,Cancelled,41.53,55,40,30.43,Scooter
+976,501,471,Pending,21.05,58,62,16.90,Scooter
+977,1046,202,On the way,33.10,22,27,10.17,Bike
+978,1292,293,On the way,6.32,39,21,10.82,Bike
+979,470,288,On the way,9.59,32,33,6.83,Moped
+980,968,326,Delivered,40.26,57,68,19.38,Electric Scooter
+981,505,330,Pending,10.41,21,50,2.90,Moped
+982,1500,410,Delivered,9.67,16,58,27.20,Bike
+983,160,44,Pending,1.77,39,65,17.19,Moped
+984,987,236,Cancelled,29.02,46,44,12.37,Moped
+985,933,84,Delivered,28.79,17,70,15.12,Scooter
+986,453,77,Cancelled,45.16,43,40,36.82,Electric Bike
+987,851,126,On the way,11.59,46,56,41.17,Scooter
+988,1191,237,On the way,7.18,57,60,15.77,Electric Scooter
+989,295,496,Delivered,30.44,56,26,28.69,Bike
+990,50,21,Pending,31.51,22,38,45.22,Scooter
+991,1102,319,Delivered,18.42,21,61,14.96,Scooter
+992,1482,225,Pending,37.62,23,39,3.33,Electric Bike
+993,280,205,On the way,22.99,51,54,49.60,Motorcycle
+994,992,152,On the way,1.44,29,45,23.04,Electric Bike
+995,1211,51,Cancelled,41.51,47,53,16.52,Motorcycle
+996,792,34,Pending,16.99,38,36,1.68,Electric Scooter
+997,652,230,Pending,34.39,54,48,34.05,Electric Bike
+998,840,424,Delivered,39.16,16,58,45.93,Motorcycle
+999,1446,98,Pending,30.44,35,32,43.90,Motorcycle
+1000,798,447,On the way,32.62,52,40,28.35,Scooter
+1001,801,244,Cancelled,35.38,37,50,4.93,Scooter
+1002,378,377,Cancelled,32.44,41,61,25.91,Motorcycle
+1003,1477,348,On the way,39.19,55,66,36.40,Bike
+1004,1355,473,Pending,6.84,46,64,28.63,Motorcycle
+1005,605,206,On the way,18.36,50,63,29.91,Moped
+1006,343,153,On the way,25.66,16,36,23.32,Scooter
+1007,1077,46,Delivered,35.17,37,56,3.98,Electric Bike
+1008,64,248,On the way,28.03,53,57,9.37,Scooter
+1009,1196,94,On the way,22.94,18,29,38.81,Electric Bike
+1010,1413,453,Cancelled,40.12,26,32,46.55,Electric Scooter
+1011,884,300,On the way,11.59,28,31,25.96,Electric Bike
+1012,383,15,Delivered,45.47,57,44,13.33,Electric Scooter
+1013,894,439,Delivered,6.44,27,52,12.51,Scooter
+1014,95,50,Cancelled,33.49,17,31,16.72,Electric Bike
+1015,1477,433,On the way,44.49,49,59,2.65,Electric Scooter
+1016,1062,449,Pending,31.04,19,42,48.80,Electric Scooter
+1017,963,74,On the way,27.15,24,42,39.89,Electric Bike
+1018,127,260,Delivered,2.42,58,29,25.70,Moped
+1019,881,324,Pending,44.80,15,43,45.63,Electric Scooter
+1020,331,463,On the way,11.99,51,61,12.50,Motorcycle
+1021,576,498,Cancelled,1.25,60,28,5.43,Electric Scooter
+1022,676,135,Cancelled,27.33,30,46,37.07,Scooter
+1023,1410,241,Delivered,5.98,43,39,40.24,Motorcycle
+1024,804,120,Pending,29.50,52,60,34.25,Scooter
+1025,650,367,On the way,1.97,50,20,6.59,Electric Bike
+1026,766,254,Cancelled,41.45,39,54,36.71,Bike
+1027,1224,295,On the way,31.79,56,25,36.00,Bike
+1028,342,68,Delivered,11.34,52,48,12.82,Electric Bike
+1029,922,430,Cancelled,48.53,23,56,7.63,Scooter
+1030,1345,286,Pending,33.10,44,23,48.91,Electric Scooter
+1031,52,341,On the way,4.26,49,35,4.61,Electric Scooter
+1032,391,491,Delivered,4.07,20,25,36.83,Moped
+1033,125,177,Delivered,32.12,15,66,29.91,Bike
+1034,375,478,Pending,49.78,60,48,16.29,Motorcycle
+1035,47,354,Cancelled,9.20,41,55,23.63,Scooter
+1036,1340,194,Delivered,34.55,33,26,0.98,Moped
+1037,315,436,On the way,9.56,22,51,7.93,Scooter
+1038,703,455,Delivered,7.43,33,36,25.09,Electric Bike
+1039,360,19,Delivered,21.47,18,51,35.88,Electric Scooter
+1040,204,268,Pending,29.33,25,64,41.04,Scooter
+1041,1325,34,Delivered,35.69,16,33,4.20,Scooter
+1042,1047,202,On the way,19.30,45,59,43.51,Moped
+1043,277,125,Delivered,44.88,49,64,0.59,Bike
+1044,246,111,Delivered,45.30,53,42,48.75,Scooter
+1045,967,216,On the way,11.99,38,29,16.98,Bike
+1046,1360,183,On the way,48.32,57,44,18.85,Moped
+1047,871,297,Delivered,24.26,58,49,42.74,Electric Bike
+1048,847,193,Pending,13.38,37,65,40.99,Scooter
+1049,733,455,Pending,45.09,48,62,31.11,Moped
+1050,1247,364,On the way,3.34,57,67,41.00,Scooter
+1051,978,370,Cancelled,35.57,28,39,14.67,Bike
+1052,981,474,Pending,29.84,36,32,8.26,Scooter
+1053,77,299,On the way,4.05,21,70,48.39,Electric Scooter
+1054,506,114,On the way,23.09,59,37,42.39,Bike
+1055,669,270,Delivered,20.39,44,37,46.93,Motorcycle
+1056,1117,112,Pending,19.47,24,32,26.21,Moped
+1057,638,448,On the way,18.40,40,46,16.22,Scooter
+1058,1173,47,Pending,46.09,33,50,49.60,Motorcycle
+1059,456,83,Cancelled,26.90,32,32,31.64,Scooter
+1060,1422,161,Pending,2.41,40,45,13.69,Bike
+1061,385,384,On the way,5.14,22,64,3.17,Bike
+1062,726,139,Cancelled,20.33,57,41,25.52,Moped
+1063,72,278,On the way,30.92,41,50,21.62,Motorcycle
+1064,1095,477,Pending,3.14,34,41,6.55,Motorcycle
+1065,958,268,On the way,25.88,56,69,23.20,Electric Scooter
+1066,1139,340,On the way,34.61,22,62,4.72,Scooter
+1067,733,279,Pending,35.94,30,42,13.50,Electric Bike
+1068,1081,28,Delivered,28.42,34,65,14.00,Electric Scooter
+1069,1152,250,Delivered,11.47,40,28,44.16,Motorcycle
+1070,33,378,Cancelled,48.83,51,37,14.82,Bike
+1071,1046,380,Cancelled,44.90,58,62,22.15,Moped
+1072,148,148,On the way,48.30,20,65,11.23,Bike
+1073,330,183,Pending,10.11,53,36,26.33,Electric Bike
+1074,269,176,On the way,29.14,41,59,47.45,Bike
+1075,338,457,On the way,46.17,22,42,4.54,Bike
+1076,417,375,Delivered,43.38,20,67,9.67,Motorcycle
+1077,131,99,On the way,4.97,32,67,25.00,Electric Bike
+1078,1447,224,Delivered,2.44,29,24,41.22,Bike
+1079,1061,123,Pending,12.16,22,45,37.16,Bike
+1080,1093,112,On the way,20.86,40,32,2.88,Electric Bike
+1081,365,69,Pending,18.35,21,61,12.02,Scooter
+1082,267,27,Delivered,24.00,35,36,41.82,Electric Bike
+1083,295,382,On the way,33.83,28,65,35.99,Motorcycle
+1084,1108,288,Pending,14.54,23,40,2.12,Electric Scooter
+1085,1189,489,On the way,12.56,48,50,5.89,Electric Scooter
+1086,94,123,Delivered,29.99,48,39,40.99,Scooter
+1087,621,301,Pending,46.19,60,30,22.88,Electric Bike
+1088,1386,137,On the way,9.21,26,28,35.12,Electric Scooter
+1089,1403,300,Pending,4.77,33,49,39.36,Electric Scooter
+1090,1378,131,Cancelled,6.04,53,21,10.02,Moped
+1091,1214,411,Cancelled,2.62,19,65,4.85,Scooter
+1092,229,143,Cancelled,38.52,46,58,8.65,Scooter
+1093,225,434,Cancelled,25.33,52,45,15.42,Scooter
+1094,392,27,Pending,32.41,22,35,11.68,Bike
+1095,669,443,On the way,10.51,16,56,33.81,Bike
+1096,746,89,Cancelled,31.35,49,65,42.89,Scooter
+1097,433,265,Cancelled,11.47,18,58,24.79,Electric Bike
+1098,1447,116,Pending,25.07,16,50,32.19,Moped
+1099,709,438,On the way,36.32,50,51,36.12,Electric Bike
+1100,914,110,Delivered,26.71,46,39,47.05,Scooter
+1101,235,191,On the way,48.80,21,66,24.01,Bike
+1102,93,186,On the way,48.19,47,60,21.81,Bike
+1103,1372,273,Delivered,35.18,17,50,10.89,Motorcycle
+1104,819,231,Delivered,22.83,45,34,37.45,Motorcycle
+1105,171,332,Pending,3.57,48,27,27.31,Motorcycle
+1106,410,421,On the way,11.56,40,25,17.54,Motorcycle
+1107,740,443,Delivered,19.90,34,36,45.15,Bike
+1108,575,478,Delivered,9.62,56,59,44.38,Motorcycle
+1109,1327,263,Delivered,49.57,25,51,8.17,Moped
+1110,1335,447,On the way,46.84,15,36,23.99,Bike
+1111,1194,372,Pending,34.13,22,66,5.66,Electric Scooter
+1112,1150,18,On the way,11.15,53,26,34.35,Moped
+1113,996,292,On the way,43.91,42,69,17.12,Electric Scooter
+1114,1194,382,Pending,14.03,19,36,16.69,Scooter
+1115,163,464,Pending,17.74,45,30,49.44,Moped
+1116,642,282,Pending,35.30,60,52,25.07,Scooter
+1117,618,432,Delivered,16.12,55,65,45.39,Electric Bike
+1118,1460,151,Pending,23.33,21,39,19.72,Electric Bike
+1119,135,75,Delivered,49.57,15,65,28.40,Electric Bike
+1120,1,143,Pending,32.11,24,61,47.41,Motorcycle
+1121,1431,222,Delivered,37.29,58,32,6.76,Electric Scooter
+1122,653,184,Pending,11.55,39,54,22.88,Moped
+1123,384,317,Pending,34.01,47,40,28.78,Bike
+1124,1258,418,On the way,11.60,59,69,14.35,Scooter
+1125,359,208,Cancelled,4.34,59,21,21.87,Electric Scooter
+1126,1216,233,Delivered,44.62,48,51,22.43,Electric Scooter
+1127,1248,419,Pending,32.61,51,55,16.38,Motorcycle
+1128,1270,136,On the way,31.56,54,29,32.04,Motorcycle
+1129,1104,103,Delivered,23.66,26,38,11.28,Motorcycle
+1130,508,179,Delivered,2.35,21,69,27.72,Electric Bike
+1131,1043,196,On the way,34.01,41,34,49.31,Electric Bike
+1132,1357,251,Delivered,20.54,44,29,38.77,Motorcycle
+1133,1054,367,Delivered,25.99,39,53,19.70,Electric Scooter
+1134,355,48,Delivered,38.27,24,21,47.73,Electric Bike
+1135,280,264,On the way,6.64,28,40,6.14,Moped
+1136,1096,52,Cancelled,38.76,24,31,18.25,Bike
+1137,1307,297,Delivered,36.58,43,34,3.37,Electric Bike
+1138,818,175,Delivered,8.81,49,61,16.96,Scooter
+1139,1351,465,On the way,39.90,54,39,6.85,Electric Scooter
+1140,934,486,Delivered,9.96,50,26,37.03,Electric Bike
+1141,310,113,Pending,40.64,55,53,40.97,Scooter
+1142,239,119,Pending,42.84,35,49,41.76,Scooter
+1143,636,427,On the way,13.17,49,27,49.98,Motorcycle
+1144,155,23,On the way,8.51,41,61,33.01,Electric Scooter
+1145,1092,296,Pending,41.37,56,20,40.19,Electric Bike
+1146,103,78,Pending,46.41,43,60,22.69,Electric Bike
+1147,497,233,Cancelled,28.87,39,43,16.51,Motorcycle
+1148,584,420,Delivered,7.90,26,43,0.84,Electric Scooter
+1149,671,144,Delivered,42.05,28,42,2.60,Electric Scooter
+1150,102,200,Cancelled,46.48,59,61,1.48,Electric Scooter
+1151,521,169,Delivered,49.57,58,47,0.68,Motorcycle
+1152,1178,57,On the way,29.18,28,49,25.16,Bike
+1153,919,173,On the way,20.32,15,40,2.30,Scooter
+1154,163,335,On the way,45.59,22,27,48.89,Electric Bike
+1155,970,93,Cancelled,11.60,54,67,22.28,Electric Bike
+1156,186,357,On the way,7.19,54,30,45.23,Scooter
+1157,23,414,On the way,4.91,45,51,21.83,Bike
+1158,447,33,Cancelled,19.25,19,30,46.30,Scooter
+1159,733,367,On the way,42.65,59,70,10.01,Electric Bike
+1160,519,497,Delivered,30.05,38,43,22.44,Scooter
+1161,435,83,On the way,13.63,51,31,41.54,Scooter
+1162,649,54,Cancelled,27.84,31,22,41.81,Electric Bike
+1163,205,403,Delivered,7.86,60,22,4.12,Electric Bike
+1164,187,469,On the way,20.50,34,23,30.19,Electric Bike
+1165,997,285,Cancelled,44.17,58,52,31.39,Electric Bike
+1166,1277,101,Pending,5.91,51,49,22.90,Moped
+1167,181,127,Pending,31.32,38,38,26.70,Scooter
+1168,694,393,Delivered,8.36,37,31,18.77,Motorcycle
+1169,877,258,On the way,6.91,55,36,36.53,Motorcycle
+1170,815,348,Pending,33.32,27,43,4.46,Scooter
+1171,484,7,Pending,45.29,38,42,7.97,Bike
+1172,804,432,Pending,12.58,21,44,0.34,Electric Bike
+1173,1450,459,Delivered,11.24,26,36,14.63,Scooter
+1174,1374,99,On the way,42.13,30,55,40.78,Scooter
+1175,1492,180,Delivered,26.87,47,51,39.36,Electric Scooter
+1176,872,432,Pending,10.80,42,68,9.01,Electric Bike
+1177,589,77,Delivered,21.78,33,31,29.93,Bike
+1178,429,17,On the way,11.82,53,21,45.13,Motorcycle
+1179,631,255,Cancelled,11.70,32,41,31.53,Scooter
+1180,1,302,Cancelled,1.00,22,31,40.72,Motorcycle
+1181,374,353,Delivered,45.69,44,60,10.72,Electric Bike
+1182,122,232,Delivered,8.54,17,54,47.42,Electric Bike
+1183,269,61,Cancelled,16.83,17,49,3.98,Electric Bike
+1184,1330,353,Delivered,20.81,40,60,34.37,Motorcycle
+1185,1309,68,Delivered,23.12,48,66,45.77,Electric Scooter
+1186,797,463,On the way,6.70,58,38,40.51,Electric Scooter
+1187,814,84,Cancelled,5.86,51,22,23.77,Electric Scooter
+1188,231,253,On the way,8.32,18,36,35.60,Scooter
+1189,1423,283,Cancelled,32.47,52,33,49.43,Bike
+1190,452,192,On the way,23.73,59,68,9.08,Scooter
+1191,55,3,Pending,27.99,48,33,3.96,Scooter
+1192,1015,139,On the way,9.00,42,43,14.79,Moped
+1193,658,57,On the way,29.54,36,48,26.04,Scooter
+1194,294,263,Cancelled,5.56,29,65,12.09,Scooter
+1195,1359,475,Pending,48.12,35,48,21.91,Scooter
+1196,878,116,Cancelled,16.72,57,64,44.26,Electric Scooter
+1197,1427,290,Cancelled,8.57,26,50,4.96,Electric Scooter
+1198,923,356,Delivered,20.76,30,60,49.23,Electric Scooter
+1199,128,162,Cancelled,32.75,40,31,23.59,Scooter
+1200,93,280,Pending,39.45,16,63,0.80,Electric Bike
+1201,516,93,Pending,18.29,32,45,29.09,Scooter
+1202,1040,223,Delivered,23.55,31,51,46.71,Electric Bike
+1203,763,56,On the way,25.35,31,66,23.97,Moped
+1204,471,14,On the way,13.84,38,40,12.85,Moped
+1205,1076,125,Cancelled,45.64,20,49,20.70,Scooter
+1206,381,78,Delivered,19.75,26,29,23.99,Electric Bike
+1207,1026,295,Cancelled,21.20,44,25,38.15,Electric Scooter
+1208,1262,305,On the way,23.12,46,52,15.45,Electric Bike
+1209,257,19,Delivered,26.78,31,30,23.40,Moped
+1210,405,293,On the way,4.75,43,66,36.63,Electric Bike
+1211,17,275,On the way,7.79,40,35,18.32,Electric Bike
+1212,794,136,Cancelled,10.75,16,67,12.83,Moped
+1213,51,237,Pending,11.43,16,55,45.18,Bike
+1214,67,267,Delivered,1.79,30,30,14.70,Scooter
+1215,738,149,Cancelled,3.31,28,34,11.87,Bike
+1216,872,486,Pending,15.54,22,27,42.14,Motorcycle
+1217,1247,240,Delivered,35.38,52,34,18.12,Electric Scooter
+1218,1470,97,Pending,14.07,53,57,30.00,Scooter
+1219,873,311,Pending,46.43,43,41,0.28,Electric Bike
+1220,182,89,On the way,9.16,52,36,49.67,Motorcycle
+1221,573,432,Pending,15.81,44,45,3.67,Motorcycle
+1222,114,401,Delivered,38.07,52,41,25.46,Electric Scooter
+1223,1232,64,On the way,17.23,40,44,17.94,Bike
+1224,1092,333,On the way,14.93,28,38,23.56,Electric Bike
+1225,1381,425,Delivered,41.27,25,60,22.18,Electric Bike
+1226,1371,452,Cancelled,43.70,41,70,40.37,Moped
+1227,718,51,Delivered,31.59,41,55,17.19,Moped
+1228,1315,155,On the way,5.91,33,70,46.71,Motorcycle
+1229,455,467,On the way,24.51,36,62,46.06,Electric Bike
+1230,1302,174,Pending,10.61,16,51,24.35,Bike
+1231,1486,418,Cancelled,13.20,37,26,40.16,Motorcycle
+1232,1492,117,On the way,43.47,51,46,3.02,Moped
+1233,891,265,Pending,44.77,41,20,21.70,Motorcycle
+1234,1334,364,Cancelled,14.48,48,56,16.71,Scooter
+1235,611,188,Cancelled,23.64,27,55,7.49,Bike
+1236,233,112,Cancelled,46.02,15,37,16.21,Scooter
+1237,12,420,On the way,27.97,36,32,42.21,Scooter
+1238,1496,118,Delivered,23.77,24,67,46.36,Moped
+1239,308,92,On the way,40.90,45,28,28.03,Moped
+1240,375,28,Pending,14.60,22,69,34.88,Motorcycle
+1241,683,125,Delivered,37.67,49,54,15.87,Moped
+1242,764,239,Cancelled,24.10,38,53,44.78,Bike
+1243,101,288,Pending,42.92,27,61,28.27,Motorcycle
+1244,89,256,Cancelled,6.83,55,35,33.48,Bike
+1245,338,432,Delivered,30.98,20,40,31.85,Electric Bike
+1246,1035,384,Delivered,34.92,34,36,44.12,Electric Bike
+1247,1196,162,Delivered,24.24,53,51,17.80,Bike
+1248,994,150,Delivered,19.63,32,48,45.21,Motorcycle
+1249,125,313,On the way,24.24,21,33,26.48,Motorcycle
+1250,100,284,Pending,40.03,42,59,34.15,Moped
+1251,266,94,Delivered,4.11,26,25,37.80,Scooter
+1252,286,449,Cancelled,16.17,28,70,20.70,Electric Bike
+1253,1264,29,Pending,49.97,15,38,41.53,Electric Bike
+1254,1438,74,Delivered,25.70,19,38,43.88,Motorcycle
+1255,687,39,Delivered,41.04,41,42,2.48,Scooter
+1256,38,386,Delivered,23.50,20,41,37.20,Moped
+1257,195,388,Delivered,42.57,57,20,24.62,Moped
+1258,644,140,Cancelled,34.15,32,66,18.24,Scooter
+1259,557,239,Cancelled,6.02,36,64,10.79,Electric Bike
+1260,1054,136,Cancelled,41.64,50,40,1.60,Moped
+1261,190,338,Delivered,42.38,15,64,39.45,Bike
+1262,1405,116,Delivered,1.86,46,44,39.14,Electric Scooter
+1263,662,373,Pending,23.44,19,26,22.45,Electric Bike
+1264,280,408,Pending,21.64,34,67,1.55,Bike
+1265,65,256,Pending,2.87,17,66,39.25,Bike
+1266,75,449,Cancelled,45.16,37,34,11.32,Motorcycle
+1267,1230,271,Pending,26.50,20,65,29.80,Electric Bike
+1268,1344,17,On the way,14.15,48,66,44.30,Motorcycle
+1269,688,227,Pending,20.67,45,66,20.81,Electric Bike
+1270,1012,320,Cancelled,49.48,25,57,18.20,Electric Bike
+1271,1326,217,Delivered,29.50,55,50,38.77,Motorcycle
+1272,1223,414,Delivered,26.65,29,42,6.12,Motorcycle
+1273,1460,8,Delivered,13.81,49,50,23.69,Moped
+1274,404,485,Pending,19.14,18,41,30.72,Moped
+1275,705,186,Pending,44.30,30,53,7.20,Scooter
+1276,1096,303,On the way,44.80,47,54,46.70,Motorcycle
+1277,448,311,Cancelled,32.11,42,69,26.22,Motorcycle
+1278,147,37,Delivered,43.51,45,27,24.74,Electric Scooter
+1279,795,125,Cancelled,36.88,25,52,42.90,Bike
+1280,288,241,Delivered,2.52,30,55,46.75,Moped
+1281,77,331,Cancelled,13.08,37,52,37.97,Scooter
+1282,173,44,Delivered,41.71,31,43,33.98,Motorcycle
+1283,1443,52,Delivered,46.11,45,29,25.64,Moped
+1284,578,150,Delivered,8.81,37,46,22.38,Scooter
+1285,362,99,Pending,31.15,50,51,8.14,Electric Scooter
+1286,1275,158,Delivered,29.91,57,61,6.98,Scooter
+1287,461,185,Pending,35.34,22,39,43.24,Bike
+1288,104,134,Pending,15.89,26,54,2.47,Scooter
+1289,608,15,Pending,43.49,49,24,12.01,Scooter
+1290,970,478,Cancelled,32.31,23,33,34.79,Motorcycle
+1291,856,226,On the way,17.78,58,70,39.86,Bike
+1292,748,381,Pending,1.38,18,63,49.58,Scooter
+1293,1147,187,Pending,10.04,21,50,14.33,Electric Bike
+1294,1015,387,Cancelled,43.84,50,34,10.00,Electric Scooter
+1295,628,331,Cancelled,14.14,35,69,44.04,Scooter
+1296,1463,491,On the way,36.83,34,56,36.40,Motorcycle
+1297,1357,91,On the way,20.73,18,55,37.34,Bike
+1298,1213,464,Delivered,42.95,55,60,20.51,Electric Bike
+1299,24,481,Pending,1.37,25,31,27.67,Electric Bike
+1300,620,120,Pending,21.35,35,24,28.73,Motorcycle
+1301,1360,45,Pending,6.79,58,22,37.24,Motorcycle
+1302,321,80,On the way,23.28,34,35,43.10,Electric Scooter
+1303,919,122,On the way,15.40,45,36,47.76,Electric Scooter
+1304,206,124,Cancelled,39.97,42,51,1.98,Bike
+1305,591,436,Cancelled,27.59,43,29,48.59,Motorcycle
+1306,1024,44,On the way,8.27,18,42,49.71,Bike
+1307,816,177,On the way,2.16,23,34,3.42,Bike
+1308,1191,216,Delivered,33.20,19,28,3.53,Electric Scooter
+1309,1420,273,Cancelled,11.31,60,60,13.44,Scooter
+1310,745,254,Delivered,22.64,41,34,44.61,Moped
+1311,675,225,Pending,30.27,31,25,49.80,Electric Bike
+1312,980,237,On the way,32.14,45,33,14.77,Moped
+1313,517,123,Pending,6.88,30,57,14.91,Electric Bike
+1314,1053,393,Pending,42.28,37,30,42.57,Electric Scooter
+1315,251,383,Cancelled,34.54,38,41,30.73,Electric Scooter
+1316,1024,268,On the way,12.90,58,55,35.14,Electric Bike
+1317,1266,306,Pending,12.99,26,31,26.32,Scooter
+1318,279,332,Pending,23.20,23,22,4.82,Moped
+1319,6,107,Cancelled,49.32,16,22,22.35,Electric Scooter
+1320,23,31,Cancelled,15.58,45,27,11.21,Scooter
+1321,76,136,Delivered,4.96,43,63,49.29,Scooter
+1322,359,328,Cancelled,37.05,56,55,16.86,Scooter
+1323,142,99,Pending,45.27,39,22,26.60,Electric Bike
+1324,1126,89,On the way,25.98,16,35,24.86,Scooter
+1325,1214,290,On the way,15.10,31,65,10.14,Electric Bike
+1326,385,249,Cancelled,15.09,22,27,18.71,Scooter
+1327,468,431,Pending,19.35,18,37,35.20,Motorcycle
+1328,264,88,Pending,29.09,29,56,36.01,Scooter
+1329,502,344,On the way,35.02,58,62,19.96,Electric Scooter
+1330,293,313,Cancelled,10.12,38,58,9.70,Scooter
+1331,1138,492,Delivered,26.36,32,29,27.42,Motorcycle
+1332,499,301,Pending,41.05,30,51,44.04,Scooter
+1333,1016,33,On the way,25.01,26,68,22.36,Electric Bike
+1334,467,353,Pending,15.43,59,47,30.45,Bike
+1335,922,147,On the way,28.01,32,24,36.27,Bike
+1336,779,151,Delivered,38.27,36,44,12.11,Motorcycle
+1337,458,205,Pending,5.75,30,21,0.85,Scooter
+1338,1421,56,On the way,19.14,18,41,1.63,Electric Scooter
+1339,399,437,Pending,10.89,54,37,2.36,Scooter
+1340,233,500,Delivered,5.57,47,35,27.78,Moped
+1341,444,261,Pending,16.04,59,23,29.31,Motorcycle
+1342,54,36,Cancelled,32.14,43,49,13.52,Bike
+1343,619,327,On the way,48.01,29,68,29.37,Electric Scooter
+1344,1189,36,Pending,7.28,55,50,25.99,Moped
+1345,139,471,On the way,38.77,46,48,11.74,Electric Scooter
+1346,58,176,Cancelled,10.86,43,40,32.15,Bike
+1347,339,317,Cancelled,35.98,28,70,3.33,Bike
+1348,114,94,Cancelled,33.86,21,46,33.44,Scooter
+1349,104,410,Delivered,1.16,37,35,8.26,Electric Scooter
+1350,457,327,Cancelled,4.90,41,38,8.28,Motorcycle
+1351,623,113,Delivered,12.31,20,25,49.32,Electric Scooter
+1352,130,123,On the way,43.54,57,43,5.03,Scooter
+1353,1209,481,Cancelled,47.26,35,69,27.97,Electric Scooter
+1354,225,289,On the way,32.92,23,36,3.06,Moped
+1355,805,14,Delivered,44.29,52,56,17.01,Scooter
+1356,494,353,Cancelled,12.82,36,57,24.95,Moped
+1357,787,282,Pending,41.94,17,41,46.75,Motorcycle
+1358,1266,191,Delivered,38.33,46,46,10.03,Moped
+1359,1059,273,On the way,26.56,56,55,48.33,Motorcycle
+1360,1127,235,On the way,17.52,37,68,8.77,Scooter
+1361,457,62,Pending,30.87,55,28,30.41,Bike
+1362,994,255,On the way,31.83,34,49,15.72,Electric Scooter
+1363,1087,401,Delivered,27.08,17,46,12.66,Electric Scooter
+1364,955,299,Cancelled,40.96,26,29,0.71,Bike
+1365,410,102,Pending,6.35,60,51,2.77,Moped
+1366,1479,390,Delivered,10.07,27,40,37.29,Moped
+1367,688,491,Pending,17.99,54,43,17.41,Motorcycle
+1368,26,460,On the way,34.16,56,24,7.82,Bike
+1369,222,255,Cancelled,45.50,58,57,9.05,Bike
+1370,669,219,Cancelled,25.19,42,23,6.22,Bike
+1371,1075,228,Cancelled,2.95,19,38,43.37,Motorcycle
+1372,279,331,On the way,46.80,36,60,24.55,Moped
+1373,1108,267,Cancelled,15.17,27,62,44.77,Scooter
+1374,870,253,Pending,12.51,38,58,46.83,Motorcycle
+1375,232,469,Cancelled,32.02,29,24,2.17,Scooter
+1376,164,394,On the way,36.38,54,45,17.49,Electric Bike
+1377,210,76,On the way,12.02,36,60,49.70,Scooter
+1378,1118,372,Delivered,22.79,41,22,6.30,Moped
+1379,1081,123,Delivered,15.33,53,54,31.35,Electric Bike
+1380,1293,327,Delivered,6.33,24,27,6.50,Bike
+1381,477,370,Cancelled,3.38,48,34,38.23,Bike
+1382,336,243,Pending,19.86,48,42,14.20,Scooter
+1383,1408,34,Cancelled,2.56,41,55,42.70,Scooter
+1384,1163,374,Delivered,32.55,52,55,18.25,Scooter
+1385,1485,122,On the way,24.12,42,35,9.59,Motorcycle
+1386,612,147,Delivered,45.84,41,41,3.53,Electric Bike
+1387,277,223,Cancelled,35.56,15,70,9.02,Moped
+1388,610,207,Delivered,13.92,44,49,11.04,Electric Scooter
+1389,698,383,Cancelled,1.91,38,43,21.03,Electric Bike
+1390,1230,66,On the way,34.16,24,41,1.72,Electric Bike
+1391,37,459,Pending,37.71,60,43,48.05,Electric Scooter
+1392,175,345,On the way,32.54,47,57,5.83,Scooter
+1393,655,432,Pending,14.15,56,49,32.19,Motorcycle
+1394,1487,322,Cancelled,23.12,37,41,29.37,Electric Scooter
+1395,1196,56,Delivered,25.96,17,58,42.28,Electric Scooter
+1396,1260,194,On the way,11.17,35,26,16.29,Scooter
+1397,934,60,Delivered,37.07,40,37,48.41,Electric Scooter
+1398,814,9,On the way,8.57,44,57,0.53,Electric Scooter
+1399,956,441,Delivered,6.51,58,28,43.63,Moped
+1400,309,303,Delivered,49.19,22,43,6.79,Moped
+1401,1394,344,Cancelled,45.31,32,48,38.34,Electric Scooter
+1402,779,74,Cancelled,23.90,26,44,29.95,Electric Bike
+1403,177,94,Cancelled,7.62,44,35,20.32,Moped
+1404,1024,306,On the way,12.26,46,54,8.50,Bike
+1405,1010,425,Cancelled,34.53,42,43,38.16,Bike
+1406,1038,7,Pending,20.87,53,48,45.16,Moped
+1407,1055,255,On the way,9.58,15,32,22.61,Scooter
+1408,1239,499,On the way,38.99,23,34,11.22,Electric Bike
+1409,827,274,On the way,30.29,35,41,17.95,Moped
+1410,1144,29,On the way,32.72,36,37,14.26,Electric Scooter
+1411,1496,100,On the way,22.76,34,35,33.50,Electric Scooter
+1412,585,102,Cancelled,46.65,19,26,4.82,Scooter
+1413,1096,81,On the way,4.80,32,33,27.99,Moped
+1414,551,145,Delivered,27.57,41,20,26.15,Moped
+1415,1349,78,On the way,35.07,29,48,42.65,Bike
+1416,136,314,Cancelled,1.98,22,30,40.91,Electric Bike
+1417,850,40,Delivered,3.23,43,65,24.20,Motorcycle
+1418,1451,174,On the way,49.85,56,57,25.86,Bike
+1419,268,438,Pending,37.75,50,55,23.56,Bike
+1420,1098,40,Pending,38.38,56,31,23.07,Electric Scooter
+1421,194,144,Delivered,24.54,22,61,13.54,Scooter
+1422,1345,266,Delivered,14.62,36,34,23.48,Moped
+1423,322,199,Delivered,8.80,60,56,26.12,Bike
+1424,606,34,Pending,24.85,28,56,40.39,Motorcycle
+1425,1237,78,Pending,41.23,59,49,19.96,Electric Scooter
+1426,105,308,Pending,26.54,49,60,37.89,Bike
+1427,289,213,Delivered,42.47,32,24,47.46,Scooter
+1428,441,112,Delivered,21.82,20,28,5.83,Electric Bike
+1429,564,5,Pending,9.22,25,30,43.67,Bike
+1430,219,31,On the way,16.20,47,37,24.90,Moped
+1431,1337,302,Delivered,2.13,27,63,44.29,Motorcycle
+1432,1478,28,On the way,25.27,36,59,2.16,Electric Bike
+1433,328,137,Cancelled,6.75,60,56,48.79,Electric Scooter
+1434,59,130,On the way,11.12,57,65,36.53,Scooter
+1435,172,137,Delivered,31.69,55,62,32.92,Electric Scooter
+1436,1403,353,Cancelled,4.11,41,67,49.40,Electric Scooter
+1437,1027,120,Cancelled,34.05,48,42,10.36,Motorcycle
+1438,1173,254,Delivered,42.05,45,69,47.10,Moped
+1439,891,467,On the way,24.37,24,49,30.11,Electric Scooter
+1440,422,32,Delivered,32.24,19,33,47.93,Electric Bike
+1441,1269,5,On the way,13.02,37,24,47.55,Motorcycle
+1442,285,12,On the way,32.98,30,37,15.73,Electric Scooter
+1443,765,246,Delivered,30.49,53,54,36.71,Motorcycle
+1444,499,73,Cancelled,12.62,27,68,5.11,Moped
+1445,1302,286,Pending,35.58,22,57,33.49,Moped
+1446,271,162,On the way,41.84,19,56,41.21,Motorcycle
+1447,481,314,Pending,31.28,52,58,27.91,Bike
+1448,997,337,On the way,37.43,23,61,41.93,Motorcycle
+1449,995,382,Cancelled,33.70,37,34,16.54,Electric Bike
+1450,1452,14,Pending,41.53,21,65,24.04,Moped
+1451,1096,144,Pending,27.28,26,40,39.41,Bike
+1452,276,310,On the way,22.94,22,67,39.04,Electric Bike
+1453,1429,231,Delivered,39.65,55,20,20.17,Motorcycle
+1454,1062,356,On the way,15.04,57,52,33.74,Electric Bike
+1455,81,431,Cancelled,37.09,51,21,5.12,Moped
+1456,258,355,On the way,40.12,60,21,22.39,Electric Scooter
+1457,484,98,Delivered,33.13,25,22,21.76,Moped
+1458,1200,234,Cancelled,12.21,57,20,19.00,Moped
+1459,491,300,Pending,6.33,24,24,17.31,Electric Bike
+1460,1264,267,On the way,18.22,28,53,1.95,Moped
+1461,764,194,Delivered,20.94,20,45,49.22,Motorcycle
+1462,395,121,Pending,40.10,23,29,0.09,Scooter
+1463,297,35,On the way,7.23,40,50,13.74,Moped
+1464,483,424,Delivered,13.41,18,47,3.42,Scooter
+1465,529,2,Pending,30.02,47,69,2.81,Bike
+1466,117,247,Cancelled,39.25,58,43,3.84,Moped
+1467,172,401,Cancelled,21.41,41,41,27.85,Electric Bike
+1468,1486,101,Delivered,12.78,20,70,46.10,Electric Bike
+1469,561,462,Cancelled,30.54,18,47,13.65,Electric Scooter
+1470,967,327,Cancelled,49.64,27,49,43.19,Moped
+1471,1381,259,Delivered,32.10,28,29,31.36,Motorcycle
+1472,751,181,On the way,4.38,46,36,10.89,Scooter
+1473,1437,260,Delivered,47.30,40,58,36.98,Electric Scooter
+1474,834,217,On the way,23.06,46,46,32.01,Bike
+1475,1141,78,Delivered,2.23,31,41,45.49,Bike
+1476,1497,101,On the way,15.26,30,44,11.50,Moped
+1477,1155,365,Delivered,5.87,34,66,38.00,Moped
+1478,1053,302,Pending,23.29,42,43,36.39,Moped
+1479,595,86,Pending,45.71,47,42,10.18,Electric Bike
+1480,785,304,Delivered,20.50,52,64,40.08,Motorcycle
+1481,55,438,Cancelled,14.45,20,23,49.65,Electric Scooter
+1482,531,331,Pending,24.28,30,24,1.01,Electric Bike
+1483,661,118,On the way,33.78,50,49,45.95,Scooter
+1484,1144,271,Delivered,47.96,17,63,17.74,Scooter
+1485,1277,493,Pending,32.78,26,21,24.05,Electric Scooter
+1486,472,42,On the way,41.71,42,41,38.57,Moped
+1487,688,351,On the way,46.96,18,23,24.45,Electric Scooter
+1488,892,155,Delivered,1.52,42,40,43.21,Electric Bike
+1489,1341,99,Delivered,20.91,56,23,20.81,Moped
+1490,1230,91,Cancelled,37.04,40,59,24.93,Scooter
+1491,1438,98,Cancelled,45.32,51,62,12.00,Bike
+1492,355,109,Delivered,28.13,54,21,41.58,Electric Scooter
+1493,1101,470,Cancelled,34.07,18,69,48.55,Motorcycle
+1494,1478,409,Cancelled,24.82,43,69,8.98,Electric Bike
+1495,1185,215,Delivered,7.48,48,65,42.23,Motorcycle
+1496,1469,160,On the way,44.29,21,27,24.76,Bike
+1497,486,400,Delivered,28.13,37,21,18.72,Electric Scooter
+1498,565,22,Cancelled,5.47,56,59,11.47,Motorcycle
+1499,1130,173,Cancelled,8.78,37,41,38.49,Motorcycle
+1500,595,369,Pending,42.23,44,64,34.54,Motorcycle

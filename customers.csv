@@ -1,0 +1,501 @@
+customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+1,Chatresh Chacko,veergupta@example.org,2580224556,"Bhargava Ganj, Mylapore, Chennai, Tamil Nadu, India - 513679",2020-08-17,0,North Indian,29,0.91
+2,Jason Bhattacharyya,kai10@example.com,+918086735244,"Kale Road, Mylapore, Chennai, Tamil Nadu, India - 155029",2022-05-30,1,Continental,90,4.08
+3,Fariq Vora,manthanbrar@example.org,+918751477020,"Choudhary Marg, Kodambakkam, Chennai, Tamil Nadu, India - 809465",2020-01-20,0,South Indian,61,4.37
+4,Anmol Viswanathan,bahadurjitdesai@example.com,+912487388841,"Rama Path, Mylapore, Chennai, Tamil Nadu, India - 007160",2020-01-02,0,Continental,23,2.64
+5,Neel Gokhale,chadaekaja@example.org,+914996146191,"Magar Street, Mylapore, Chennai, Tamil Nadu, India - 956529",2025-02-17,1,North Indian,34,1.32
+6,Arjun Dhaliwal,triveni98@example.com,+912487353808,"Bhat Road, Velachery, Chennai, Tamil Nadu, India - 333292",2022-12-26,0,Continental,8,2.98
+7,Upma Wali,om01@example.com,7293548271,"Garg Path, Chrompet, Chennai, Tamil Nadu, India - 434737",2024-09-26,1,Continental,29,3.21
+8,Jeremiah Kaur,ccheema@example.com,+912638198938,"Chakraborty Nagar, Chrompet, Chennai, Tamil Nadu, India - 252794",2022-06-09,1,South Indian,68,1.31
+9,Pratyush Yogi,kritika55@example.com,6460591121,"Dewan Nagar, Anna Nagar, Chennai, Tamil Nadu, India - 124839",2021-10-12,0,South Indian,99,4.54
+10,Anusha Arora,henrywason@example.com,+919875150122,"Sangha Chowk, Adyar, Chennai, Tamil Nadu, India - 782335",2020-02-14,0,Continental,89,4.67
+11,Warda Sant,sainireva@example.org,03060595637,"Sani Ganj, Guindy, Chennai, Tamil Nadu, India - 646703",2021-12-27,1,North Indian,93,2.43
+12,Chameli Thaman,reyanshramachandran@example.net,05918522653,"Prabhu Ganj, Tambaram, Chennai, Tamil Nadu, India - 675175",2020-11-03,0,South Indian,42,3.77
+13,Pooja Pau,matthew03@example.net,8679458736,"Dhillon, Mylapore, Chennai, Tamil Nadu, India - 211720",2020-06-27,1,Chinese,71,4.75
+14,Warhi Kannan,xavierpalan@example.com,01698523936,"Mohan Path, Nungambakkam, Chennai, Tamil Nadu, India - 680104",2024-09-11,0,Chinese,14,3.59
+15,Azad Chopra,harinakshigoda@example.net,+917713505925,"Aurora Path, Anna Nagar, Chennai, Tamil Nadu, India - 097847",2021-05-20,0,Italian,72,0.90
+16,Rachit Shere,vasudhanarain@example.net,+911415741768,"Batta Zila, Guindy, Chennai, Tamil Nadu, India - 086176",2025-07-08,1,Chinese,36,4.85
+17,Rajeshri Shukla,imodi@example.com,9775307056,"Om Street, Nungambakkam, Chennai, Tamil Nadu, India - 517375",2022-09-12,1,Continental,92,2.26
+18,Falguni Agarwal,pandyajasmit@example.org,+914561209725,"Goyal, T. Nagar, Chennai, Tamil Nadu, India - 616092",2024-02-21,0,South Indian,44,1.51
+19,Yamini Som,ridhi54@example.org,05639645871,"Walla Zila, Perungudi, Chennai, Tamil Nadu, India - 080615",2022-12-07,0,Chinese,48,0.32
+20,Xalak Modi,arjundora@example.org,09307317985,"Nath Marg, Kodambakkam, Chennai, Tamil Nadu, India - 215350",2020-11-06,1,Italian,6,2.78
+21,Qadim Comar,aahanaedwin@example.org,+916145227824,"Tata Nagar, Nungambakkam, Chennai, Tamil Nadu, India - 647136",2020-06-03,1,Continental,65,4.25
+22,Krish Basak,obhardwaj@example.net,00143792745,"Kala Marg, Velachery, Chennai, Tamil Nadu, India - 883011",2025-06-06,1,North Indian,13,2.61
+23,Agastya More,tsingh@example.net,07056395698,"Mani Chowk, Tambaram, Chennai, Tamil Nadu, India - 632761",2020-11-27,0,North Indian,97,2.53
+24,Chasmum Sodhi,joshuataneja@example.net,+919247972162,"Borah Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 028790",2022-09-26,1,South Indian,88,0.78
+25,Jagat Vora,egera@example.com,00962115653,"Patla Chowk, Velachery, Chennai, Tamil Nadu, India - 367782",2022-02-16,1,Italian,1,2.01
+26,Tarak Rout,bbala@example.org,1511336226,"Dyal Circle, Guindy, Chennai, Tamil Nadu, India - 685815",2020-05-26,1,Continental,4,3.52
+27,Amrita Om,sai34@example.net,9568296350,"Dhillon Nagar, T. Nagar, Chennai, Tamil Nadu, India - 955571",2022-08-26,0,Continental,52,4.39
+28,Charan De,idalia@example.com,6429083298,"Das Marg, Adyar, Chennai, Tamil Nadu, India - 036066",2020-12-12,1,Chinese,24,3.44
+29,Ishwar Desai,dugarmadhavi@example.com,+915909621366,"Grewal Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 957206",2022-01-14,1,Italian,35,0.79
+30,Vedika Rai,pandeyucchal@example.org,+911027045237,"Mand Nagar, Velachery, Chennai, Tamil Nadu, India - 164652",2022-06-08,1,North Indian,85,4.89
+31,Bhanumati Barad,uchoudhry@example.net,08843725620,"Balay Circle, T. Nagar, Chennai, Tamil Nadu, India - 245262",2024-12-24,0,South Indian,41,1.26
+32,Ekapad Madan,yuvraj19@example.net,+911699887225,"Kamdar Zila, Anna Nagar, Chennai, Tamil Nadu, India - 219172",2020-01-04,0,Chinese,14,4.10
+33,Aarav Agarwal,vidhi99@example.net,00101275970,"Manne Zila, Velachery, Chennai, Tamil Nadu, India - 971533",2020-10-01,0,South Indian,19,4.47
+34,Zayyan Madan,upadhriti35@example.net,01187700494,"Bassi Road, Kilpauk, Chennai, Tamil Nadu, India - 337642",2024-10-14,1,South Indian,72,3.01
+35,Omaja Sahota,rcherian@example.org,+910616609579,"Mahajan Road, Adyar, Chennai, Tamil Nadu, India - 404695",2023-12-16,0,South Indian,44,0.78
+36,Ekaja Bobal,mohini41@example.org,+916968406151,"Parekh Ganj, T. Nagar, Chennai, Tamil Nadu, India - 808981",2024-04-15,1,Chinese,7,2.13
+37,Aditya Dass,eesha77@example.net,06125786487,"Nair Zila, Nungambakkam, Chennai, Tamil Nadu, India - 399048",2023-10-13,1,Chinese,95,2.82
+38,Gopal Mand,gthaman@example.net,05383333318,"Rattan Zila, Tambaram, Chennai, Tamil Nadu, India - 839763",2024-07-03,1,Continental,18,1.02
+39,Dhruv Kala,rohankuruvilla@example.net,1765622831,"Sachdeva Ganj, Nungambakkam, Chennai, Tamil Nadu, India - 296461",2024-01-12,0,South Indian,36,2.64
+40,Upkaar Lalla,ladlaban@example.org,+917692613544,"Bansal Chowk, Perungudi, Chennai, Tamil Nadu, India - 559306",2024-10-10,0,North Indian,86,1.76
+41,Jeevika Garde,xpillay@example.com,4641757459,"Thakur Zila, T. Nagar, Chennai, Tamil Nadu, India - 242536",2022-08-11,0,North Indian,8,0.22
+42,Zansi Walia,daksheshsawhney@example.net,+910612122733,"Deo Nagar, Chrompet, Chennai, Tamil Nadu, India - 658754",2021-07-05,1,North Indian,26,2.93
+43,Falan Kuruvilla,chardhriti@example.com,3174967452,"Narang Circle, Adyar, Chennai, Tamil Nadu, India - 960791",2025-05-06,1,Continental,82,1.37
+44,Eesha Chandra,binamall@example.com,04198156574,"Bala Zila, T. Nagar, Chennai, Tamil Nadu, India - 404877",2021-12-08,1,Chinese,99,2.55
+45,Jeevika Sama,timothydatta@example.org,+916982689849,"Edwin Marg, Anna Nagar, Chennai, Tamil Nadu, India - 428728",2023-08-20,0,Chinese,38,4.73
+46,Sai Bumb,veer52@example.net,+916211460992,"Lata Circle, Guindy, Chennai, Tamil Nadu, India - 956400",2022-04-19,1,Chinese,66,1.85
+47,Ishwar Chahal,jyotibiswas@example.org,5853075368,"Khalsa Road, Mylapore, Chennai, Tamil Nadu, India - 964477",2021-02-19,1,North Indian,78,0.20
+48,Advaith Devan,twable@example.com,+918740726658,"Kothari, Guindy, Chennai, Tamil Nadu, India - 644494",2020-12-17,1,Chinese,93,4.14
+49,Kala Kaur,triya33@example.com,04355608199,"Mahal, Nungambakkam, Chennai, Tamil Nadu, India - 006124",2022-08-16,1,South Indian,41,2.03
+50,Abhiram Dubey,watika26@example.net,+918575530239,"Sheth Circle, Chrompet, Chennai, Tamil Nadu, India - 115597",2021-10-17,0,Chinese,50,3.63
+51,Ridhi Gera,auroraxalak@example.net,0519750401,"Sidhu Nagar, Tambaram, Chennai, Tamil Nadu, India - 097165",2022-11-30,0,Chinese,97,4.04
+52,Rushil Gulati,jeet17@example.org,00974849614,"Rajan Street, Anna Nagar, Chennai, Tamil Nadu, India - 192462",2020-08-05,1,Continental,32,0.49
+53,Viraj Kannan,jeremiah14@example.com,4942636623,"Bawa Path, Perungudi, Chennai, Tamil Nadu, India - 614694",2024-07-14,1,Continental,93,3.88
+54,Gaurav Prasad,yatin42@example.org,02591961001,"Ram, Kilpauk, Chennai, Tamil Nadu, India - 073803",2021-07-23,0,South Indian,5,0.89
+55,Darsh Seth,sviswanathan@example.net,05177159459,"Rau Zila, Kodambakkam, Chennai, Tamil Nadu, India - 407560",2022-02-14,1,Continental,86,4.78
+56,Urvashi Mittal,grewalsaanvi@example.org,05156236196,"Jha Road, Perungudi, Chennai, Tamil Nadu, India - 684760",2020-12-07,1,Chinese,100,1.81
+57,Isaiah Shetty,triya41@example.net,08744657955,"Rattan Road, Chrompet, Chennai, Tamil Nadu, India - 183816",2023-01-23,0,South Indian,54,1.81
+58,Daksh Vala,janyasarraf@example.com,+912453511084,"Sinha Circle, Tambaram, Chennai, Tamil Nadu, India - 586021",2024-09-28,0,South Indian,85,4.53
+59,Idika Hegde,kalarachit@example.net,+914314981233,"Shetty Path, Guindy, Chennai, Tamil Nadu, India - 758662",2023-01-31,1,Chinese,28,3.62
+60,Wahab Chawla,ridhi85@example.com,2447313895,"Saini, Anna Nagar, Chennai, Tamil Nadu, India - 238966",2022-02-26,0,Chinese,28,3.80
+61,Jeevika Sharma,neel44@example.org,+912548114637,"Prakash Marg, Kilpauk, Chennai, Tamil Nadu, India - 686635",2025-04-16,0,Chinese,68,2.26
+62,Pratyush Mutti,echopra@example.com,05742860078,"Chauhan Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 777775",2025-01-29,1,Italian,50,2.73
+63,Naveen Agate,basusanya@example.org,06865503054,"Thaman, Kodambakkam, Chennai, Tamil Nadu, India - 365722",2025-04-28,1,South Indian,88,4.87
+64,Waida Sen,karankashvi@example.org,9967091884,"Kala, Kodambakkam, Chennai, Tamil Nadu, India - 785230",2024-06-05,0,North Indian,14,0.39
+65,Damyanti Chowdhury,fdoshi@example.net,9950723762,"Saini Circle, Guindy, Chennai, Tamil Nadu, India - 800393",2025-04-29,1,Continental,89,2.96
+66,Zaitra Mukhopadhyay,msaran@example.com,2138060773,"Mahal Road, T. Nagar, Chennai, Tamil Nadu, India - 773261",2020-08-23,1,Continental,5,0.20
+67,Ikbal Char,wazirpalla@example.net,06297886665,"Venkataraman Road, Adyar, Chennai, Tamil Nadu, India - 396121",2020-11-17,1,Chinese,1,2.67
+68,Abdul Balan,bthakkar@example.net,06122471722,"Sinha Nagar, Kilpauk, Chennai, Tamil Nadu, India - 766472",2022-06-26,1,Italian,43,1.58
+69,Isha Balay,aachal61@example.net,+915163108715,"Prabhu Chowk, Velachery, Chennai, Tamil Nadu, India - 067325",2021-09-10,0,Italian,59,2.17
+70,Aarna Mani,lohitchaudhary@example.com,01228588295,"Loke Marg, T. Nagar, Chennai, Tamil Nadu, India - 264453",2023-09-05,0,North Indian,41,2.51
+71,Ishwar Seshadri,fdube@example.org,+918054366456,"Venkatesh Chowk, Kilpauk, Chennai, Tamil Nadu, India - 090223",2020-02-21,1,Italian,75,4.14
+72,Finn Pillay,libnisehgal@example.org,+911794590002,"Devi Path, Kilpauk, Chennai, Tamil Nadu, India - 662601",2021-07-07,0,Continental,12,0.78
+73,Falguni Bali,sbhandari@example.org,+919099097076,"Chandran Ganj, Perungudi, Chennai, Tamil Nadu, India - 777470",2024-08-09,0,Continental,41,4.49
+74,Sudiksha Sangha,ttoor@example.com,1058732527,"Johal, Kilpauk, Chennai, Tamil Nadu, India - 650512",2022-09-06,1,Chinese,64,1.19
+75,William Setty,chaitalyiyer@example.com,+918590575489,"Keer Marg, Adyar, Chennai, Tamil Nadu, India - 835593",2021-03-06,1,Chinese,27,1.94
+76,Timothy Iyengar,zsachar@example.org,08103487356,"Ray Path, Mylapore, Chennai, Tamil Nadu, India - 525106",2024-10-18,1,South Indian,16,0.85
+77,Bachittar Nayar,kalewahab@example.com,04588295941,"Rama, Perungudi, Chennai, Tamil Nadu, India - 083500",2023-04-02,1,Continental,41,0.19
+78,Tanmayi Zacharia,hemanisharma@example.com,1472198650,"Bandi Road, Tambaram, Chennai, Tamil Nadu, India - 241193",2024-10-25,0,Continental,62,3.78
+79,Aayush Bhalla,auroraamol@example.net,02555233077,"Jaggi Street, Perungudi, Chennai, Tamil Nadu, India - 796381",2024-09-24,1,Continental,27,4.37
+80,Om Apte,balazayyan@example.com,6908762062,"Purohit Path, Kodambakkam, Chennai, Tamil Nadu, India - 505820",2020-08-22,0,Italian,47,4.96
+81,Ishita Sami,lohit90@example.net,6332006697,"Batra Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 688072",2023-09-21,0,Chinese,19,0.60
+82,Xiti Chaudhuri,abhiram43@example.com,+915943399789,"Das Marg, Perungudi, Chennai, Tamil Nadu, India - 560105",2023-06-13,0,North Indian,81,4.41
+83,Meghana Wali,cheriankaran@example.org,09870512804,"Choudhry Circle, Nungambakkam, Chennai, Tamil Nadu, India - 172105",2021-08-15,0,North Indian,81,1.57
+84,Ayaan Goda,singhalgaurav@example.org,7032513840,"Bhargava Nagar, Kilpauk, Chennai, Tamil Nadu, India - 012602",2022-03-26,0,South Indian,69,0.73
+85,Upkaar Sheth,nandaabhimanyu@example.net,07761116815,"Lanka Zila, Chrompet, Chennai, Tamil Nadu, India - 586695",2023-01-07,1,Continental,26,4.59
+86,Varenya Sankar,tripti14@example.org,03301031630,"Chacko Street, Tambaram, Chennai, Tamil Nadu, India - 608792",2023-12-05,1,Chinese,35,4.33
+87,Elijah Mukhopadhyay,yashicamanne@example.org,02371993469,"Rau, Perungudi, Chennai, Tamil Nadu, India - 940207",2022-11-30,1,Italian,37,1.02
+88,Omisha Srinivasan,oscardhar@example.com,06456188871,"Sodhi Path, Mylapore, Chennai, Tamil Nadu, India - 487409",2023-08-08,1,Continental,68,2.02
+89,Ryan Peri,schander@example.com,00293939776,"Bhavsar, Anna Nagar, Chennai, Tamil Nadu, India - 959787",2024-05-03,0,North Indian,31,1.81
+90,Aryan Sehgal,ria76@example.com,07832016336,"Ratti Road, Kilpauk, Chennai, Tamil Nadu, India - 003207",2021-01-16,0,North Indian,83,0.50
+91,Baghyawati Vohra,rakshadada@example.com,05186817487,"Dhar Street, Nungambakkam, Chennai, Tamil Nadu, India - 201080",2024-09-21,1,North Indian,4,2.10
+92,Anjali Dara,ladvarsha@example.org,+918595892613,"Sastry Marg, Anna Nagar, Chennai, Tamil Nadu, India - 492934",2023-02-04,0,South Indian,19,2.79
+93,Widisha Vohra,mahaldayamai@example.org,+917201210746,"Kaur Nagar, Adyar, Chennai, Tamil Nadu, India - 483214",2025-01-04,0,Continental,25,0.71
+94,Nilima Patil,owable@example.net,4230671418,"Contractor Circle, Guindy, Chennai, Tamil Nadu, India - 674414",2021-06-15,1,South Indian,34,4.15
+95,Geetika Khanna,veer82@example.org,08466839629,"Dua Street, Guindy, Chennai, Tamil Nadu, India - 633052",2021-09-09,1,North Indian,1,2.37
+96,Garima Tella,nicholasoommen@example.net,+914133543929,"Cherian Street, Mylapore, Chennai, Tamil Nadu, India - 917826",2022-10-25,1,Chinese,3,1.86
+97,Ishaan Chaudry,rameshrajata@example.org,03692812633,"Mutti Zila, Chrompet, Chennai, Tamil Nadu, India - 023511",2021-12-21,1,South Indian,1,2.05
+98,Eshana Chander,opandit@example.com,8802580687,"Batra Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 868618",2023-06-15,1,South Indian,39,3.52
+99,Dalbir Magar,wasonazad@example.org,05403966399,"Varkey Street, Perungudi, Chennai, Tamil Nadu, India - 677012",2020-11-03,1,South Indian,57,0.66
+100,Nakul Agarwal,uvenkataraman@example.com,06430955946,"Dhawan Marg, Kodambakkam, Chennai, Tamil Nadu, India - 552274",2023-04-03,0,Continental,80,2.35
+101,Atharv Varughese,bhattacharyyaanusha@example.org,1914498431,"Pandit Chowk, T. Nagar, Chennai, Tamil Nadu, India - 989681",2020-05-25,0,Chinese,25,2.30
+102,Yash Varkey,ranbirmajumdar@example.org,4098051093,"Sant Ganj, Mylapore, Chennai, Tamil Nadu, India - 458905",2021-08-13,1,South Indian,47,4.92
+103,Viraj Sampath,isama@example.net,01680550155,"Parsa Zila, Guindy, Chennai, Tamil Nadu, India - 450243",2022-02-21,1,Continental,86,3.92
+104,Qadim Vasa,panchallavanya@example.com,04786310473,"Sur Zila, Nungambakkam, Chennai, Tamil Nadu, India - 881009",2022-01-29,0,Italian,29,4.69
+105,Reyansh Oommen,bhagatshaurya@example.net,09838596781,"Narayan Marg, Nungambakkam, Chennai, Tamil Nadu, India - 393682",2023-01-21,1,North Indian,31,4.30
+106,Tripti Gara,zcontractor@example.com,5567685851,"Garg Chowk, Nungambakkam, Chennai, Tamil Nadu, India - 483015",2021-05-03,1,South Indian,62,1.81
+107,Ekiya Devan,magaranamika@example.org,07213113583,"Verma Marg, Kilpauk, Chennai, Tamil Nadu, India - 325741",2024-02-06,0,South Indian,35,2.58
+108,Ojas Kannan,hbava@example.com,01926798789,"Bora Zila, Kodambakkam, Chennai, Tamil Nadu, India - 149704",2021-08-25,1,Italian,73,2.10
+109,Advik Sridhar,devangarima@example.net,7164577965,"Kumer Chowk, Guindy, Chennai, Tamil Nadu, India - 229829",2024-01-05,1,South Indian,23,2.31
+110,Christopher Morar,jnarasimhan@example.net,5160973780,"Bhasin Marg, Kodambakkam, Chennai, Tamil Nadu, India - 047648",2021-11-04,0,Chinese,89,0.73
+111,Ekaraj Krish,xsampath@example.com,+918308730768,"Kamdar Path, Mylapore, Chennai, Tamil Nadu, India - 141145",2025-07-11,0,Continental,3,1.30
+112,Yashawini Mall,ayushmanprabhu@example.org,8175943774,"Raja Road, Adyar, Chennai, Tamil Nadu, India - 949350",2021-09-19,1,Continental,47,1.72
+113,Nisha Ganguly,hbora@example.org,6768268113,"Singh Road, Chrompet, Chennai, Tamil Nadu, India - 033213",2023-04-07,1,South Indian,0,4.67
+114,Hredhaan Vyas,kashyapsara@example.com,04471732565,"Chaudhry Chowk, Kilpauk, Chennai, Tamil Nadu, India - 619940",2023-01-26,0,Continental,11,0.21
+115,Eesha Thaman,ypatel@example.org,+910187173261,"Sharma Chowk, T. Nagar, Chennai, Tamil Nadu, India - 685557",2020-01-17,0,South Indian,99,1.63
+116,Chandresh Samra,deviyochana@example.org,2723055042,"Thakur Chowk, Velachery, Chennai, Tamil Nadu, India - 933759",2020-04-26,1,Continental,18,2.41
+117,Yasti Barman,wgala@example.net,+917152871496,"Salvi Nagar, Guindy, Chennai, Tamil Nadu, India - 486306",2025-04-25,1,South Indian,25,4.43
+118,Xavier Natt,xganguly@example.org,+917436086082,"Kapadia, Nungambakkam, Chennai, Tamil Nadu, India - 115941",2023-08-30,1,Chinese,44,2.55
+119,Ethan D’Alia,amangal@example.com,+917404251726,"Datta Path, T. Nagar, Chennai, Tamil Nadu, India - 719576",2022-05-06,1,North Indian,71,0.55
+120,Ati Vohra,januja82@example.net,+912782384972,"Chad Street, Chrompet, Chennai, Tamil Nadu, India - 342183",2024-06-18,0,Italian,23,4.96
+121,Atharv Upadhyay,jshetty@example.org,+913344740564,"Chada Marg, T. Nagar, Chennai, Tamil Nadu, India - 196037",2021-04-27,0,Continental,33,0.45
+122,Damini Mann,ebassi@example.com,+917155486646,"Kalla Ganj, Perungudi, Chennai, Tamil Nadu, India - 881245",2025-01-27,0,Italian,81,1.49
+123,Isaiah Lad,praj@example.org,0697640810,"Mistry Circle, Perungudi, Chennai, Tamil Nadu, India - 801435",2020-07-12,1,North Indian,14,2.51
+124,Anirudh Mand,shivansh46@example.com,+914689168937,"Cheema Path, Nungambakkam, Chennai, Tamil Nadu, India - 974862",2021-12-21,0,North Indian,78,3.09
+125,Anthony Borah,gyadav@example.org,+914160412765,"Dutta Street, Velachery, Chennai, Tamil Nadu, India - 238893",2022-08-06,1,South Indian,100,2.24
+126,Oviya Madan,edhingra@example.org,+916773880895,"Muni Marg, Nungambakkam, Chennai, Tamil Nadu, India - 471522",2025-04-22,0,Chinese,50,0.65
+127,Victor Mitra,majumdargautam@example.com,08465664092,"Kala Ganj, Perungudi, Chennai, Tamil Nadu, India - 856245",2025-02-04,0,South Indian,78,2.29
+128,Orinder Chakrabarti,patrickrattan@example.net,0305185870,"Grover Street, Adyar, Chennai, Tamil Nadu, India - 157693",2021-02-08,1,Italian,2,1.39
+129,Bhavika Bobal,krish37@example.net,+917948257285,"Chaudry Circle, Tambaram, Chennai, Tamil Nadu, India - 893231",2023-08-16,0,Chinese,55,2.60
+130,Parth Kurian,jatinkaur@example.net,+916853234541,"Andra Path, Adyar, Chennai, Tamil Nadu, India - 791786",2025-04-06,1,North Indian,10,3.45
+131,Henry Kala,tchokshi@example.net,2595404914,"Bhatnagar Zila, Guindy, Chennai, Tamil Nadu, India - 515236",2025-05-28,1,Chinese,78,2.13
+132,Krish Bhandari,ayushmangoda@example.org,07763031778,"Warrior Nagar, Mylapore, Chennai, Tamil Nadu, India - 996910",2024-12-18,0,Continental,17,0.10
+133,Lohit Pradhan,dasyagnesh@example.net,09235504606,"Sankaran Zila, Tambaram, Chennai, Tamil Nadu, India - 799179",2024-06-03,1,North Indian,19,4.01
+134,Aarush Toor,nitaravig@example.org,07317223770,"Bava Circle, Anna Nagar, Chennai, Tamil Nadu, India - 472707",2023-05-10,1,Italian,50,0.90
+135,Jagrati Thakur,chaudharigeetika@example.com,+914342309273,"Gokhale Zila, Perungudi, Chennai, Tamil Nadu, India - 440234",2023-08-06,1,North Indian,72,4.72
+136,Ekani Pillai,robert07@example.org,5571902054,"Kanda Street, T. Nagar, Chennai, Tamil Nadu, India - 369495",2020-12-15,1,Italian,20,0.26
+137,Chaaya Bhatti,agastyachandra@example.com,+916211068190,"Sen Path, Chrompet, Chennai, Tamil Nadu, India - 049362",2025-07-06,0,South Indian,27,1.23
+138,Jackson Goel,vgulati@example.com,09846642244,"Narayan Chowk, Chrompet, Chennai, Tamil Nadu, India - 528857",2023-03-20,1,Continental,61,3.23
+139,Samaksh Murty,jradhakrishnan@example.com,5765534749,"Deshpande Path, Kodambakkam, Chennai, Tamil Nadu, India - 379417",2023-10-22,0,South Indian,97,2.82
+140,Mahika Raj,elijah39@example.net,7160761894,"Panchal Ganj, Mylapore, Chennai, Tamil Nadu, India - 358656",2024-12-01,0,Chinese,27,3.21
+141,Girik Iyer,pratyushmane@example.org,8992726023,"Nagar Zila, Nungambakkam, Chennai, Tamil Nadu, India - 999695",2023-07-16,1,South Indian,6,2.42
+142,Gunbir Vaidya,periryan@example.com,2484660136,"Oommen, Velachery, Chennai, Tamil Nadu, India - 672070",2023-06-29,0,Italian,46,3.51
+143,Chanchal Patla,lipikachaudhuri@example.org,4609480620,"Ramanathan Chowk, Velachery, Chennai, Tamil Nadu, India - 075771",2025-06-27,0,Continental,30,0.83
+144,Mekhala Mohan,faraj94@example.org,04111297853,"Dar Chowk, T. Nagar, Chennai, Tamil Nadu, India - 174275",2024-10-14,1,North Indian,75,2.52
+145,Samesh Shanker,choudharyadvay@example.org,03846506042,"Parmar Road, Chrompet, Chennai, Tamil Nadu, India - 921419",2022-08-22,1,South Indian,38,1.20
+146,Xiti Lanka,hmodi@example.org,4882517177,"Mann Street, Kodambakkam, Chennai, Tamil Nadu, India - 155171",2020-03-17,0,South Indian,89,2.72
+147,Nandini Thaman,mananarya@example.net,05786708718,"Dass Nagar, Tambaram, Chennai, Tamil Nadu, India - 197774",2021-11-18,1,North Indian,82,0.53
+148,Pallavi Deep,ode@example.net,6178191579,"Kapur Circle, Anna Nagar, Chennai, Tamil Nadu, India - 028742",2020-03-11,1,Italian,57,0.01
+149,Faraj Gole,zansidatta@example.net,04187147922,"Bhandari Road, Velachery, Chennai, Tamil Nadu, India - 127985",2020-07-17,0,North Indian,59,0.82
+150,Jack Bhalla,madanrayaan@example.com,9299823538,"Dhar Path, Anna Nagar, Chennai, Tamil Nadu, India - 716707",2025-02-08,0,South Indian,30,2.31
+151,Baghyawati Hayre,baljiwan24@example.com,+919995751036,"Bobal, Adyar, Chennai, Tamil Nadu, India - 924715",2022-03-14,0,Continental,80,1.05
+152,Priya Chopra,jaimorar@example.net,9669608879,"Kara Circle, Kilpauk, Chennai, Tamil Nadu, India - 315084",2020-05-24,0,North Indian,18,0.69
+153,Lavanya Narula,sawhneyfalan@example.net,8649479264,"Naidu Street, Perungudi, Chennai, Tamil Nadu, India - 697344",2021-07-01,0,South Indian,68,2.97
+154,Nidra Sane,gabrielmittal@example.com,6099529738,"Bhandari Marg, Kilpauk, Chennai, Tamil Nadu, India - 864187",2023-06-01,0,South Indian,72,2.40
+155,Indrajit Setty,isha37@example.org,+911133598197,"Nori Marg, Nungambakkam, Chennai, Tamil Nadu, India - 653420",2020-01-09,1,South Indian,54,3.58
+156,Manbir Bail,diptakala@example.org,4272279318,"Mitra Path, T. Nagar, Chennai, Tamil Nadu, India - 151497",2020-01-30,1,Italian,8,1.58
+157,Naveen Bobal,veer58@example.net,06110104842,"Viswanathan Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 526734",2024-05-06,1,North Indian,3,2.37
+158,Ojasvi Bandi,yutikasandal@example.com,4748561176,"Vyas Road, Velachery, Chennai, Tamil Nadu, India - 744630",2024-11-01,1,Italian,17,4.46
+159,Neel Chakrabarti,arinmemon@example.com,3955794342,"Sarma Circle, Perungudi, Chennai, Tamil Nadu, India - 012917",2024-04-09,1,North Indian,66,3.91
+160,Watika Narain,upma52@example.net,4732332183,"Babu Ganj, Tambaram, Chennai, Tamil Nadu, India - 171791",2024-06-22,0,Italian,75,3.98
+161,Vedika Thakkar,aayushshan@example.net,+917484879907,"Konda Street, Guindy, Chennai, Tamil Nadu, India - 630252",2020-02-04,1,South Indian,28,1.58
+162,Januja Palla,balasubramaniannaveen@example.com,06002797708,"Bhandari Nagar, Adyar, Chennai, Tamil Nadu, India - 850281",2024-11-07,0,Italian,53,4.97
+163,Chaaya Magar,mitterchandani@example.net,6157010229,"Dada Ganj, Chrompet, Chennai, Tamil Nadu, India - 410924",2024-10-31,1,North Indian,11,1.25
+164,Anusha Varughese,jatinsura@example.com,7025096786,"Bora Street, Guindy, Chennai, Tamil Nadu, India - 071373",2022-12-16,0,South Indian,20,4.10
+165,Zashil Tara,gandhiakshay@example.com,0194436485,"Choudhry Road, Perungudi, Chennai, Tamil Nadu, India - 699983",2021-06-13,1,Chinese,21,4.64
+166,Mohini Venkataraman,warhimittal@example.net,+917295315901,"Thaker Street, Adyar, Chennai, Tamil Nadu, India - 278382",2022-12-25,0,Continental,97,1.74
+167,Samarth Sandal,dalbir62@example.net,+912954737450,"Prabhakar Chowk, Guindy, Chennai, Tamil Nadu, India - 645347",2020-05-06,0,Italian,55,0.02
+168,Daksha Sood,dugalpooja@example.com,8940793519,"Ben Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 216322",2021-09-05,1,North Indian,74,2.76
+169,Thomas Batta,hmahajan@example.net,+910645303429,"Barad Path, Chrompet, Chennai, Tamil Nadu, India - 602997",2020-04-23,1,South Indian,47,3.31
+170,Vanya Goda,sachimani@example.org,4751435346,"Datta Circle, Chrompet, Chennai, Tamil Nadu, India - 489256",2023-08-07,0,Continental,22,0.61
+171,Aryan Palla,masterowen@example.org,09623105297,"Palla Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 624438",2024-06-21,0,North Indian,94,4.59
+172,Ganga Uppal,contractoraradhana@example.org,09282447923,"Mukhopadhyay Circle, Tambaram, Chennai, Tamil Nadu, India - 254231",2022-04-14,1,North Indian,50,4.39
+173,Advay Minhas,somanmaya@example.com,+918712900328,"Hayer Path, Nungambakkam, Chennai, Tamil Nadu, India - 496730",2022-05-14,0,Continental,75,2.86
+174,Yadavi Balakrishnan,diyengar@example.com,3745042860,"Borde Street, Kilpauk, Chennai, Tamil Nadu, India - 291559",2024-05-17,0,North Indian,21,1.55
+175,Zinal Khosla,nayakdayita@example.com,05989285994,"Kapoor Zila, Kodambakkam, Chennai, Tamil Nadu, India - 075978",2023-03-23,0,Italian,97,4.60
+176,Tanish Iyengar,wazirchahal@example.net,05212568113,"Devan Path, Mylapore, Chennai, Tamil Nadu, India - 348998",2021-04-06,0,South Indian,50,1.67
+177,Jackson Saini,indrajitsibal@example.net,+917766079269,"Balay Street, Chrompet, Chennai, Tamil Nadu, India - 143257",2025-01-05,1,South Indian,15,2.05
+178,Avi Sangha,ndevi@example.net,+913137155673,"Krish Marg, Perungudi, Chennai, Tamil Nadu, India - 096990",2024-03-23,0,Chinese,39,4.76
+179,Elijah Guha,yashoda67@example.com,+917529238126,"Kulkarni Road, Mylapore, Chennai, Tamil Nadu, India - 717707",2022-07-19,1,South Indian,74,0.13
+180,Gaurika Minhas,yauvani42@example.com,+919952712112,"Swamy Ganj, Adyar, Chennai, Tamil Nadu, India - 979232",2023-04-01,1,Italian,98,2.69
+181,Saksham Karnik,edhillon@example.com,+916695245919,"Bahl Circle, Anna Nagar, Chennai, Tamil Nadu, India - 649210",2021-09-23,1,South Indian,16,3.44
+182,Ethan Chand,raaginiverma@example.org,4088847458,"Walia Nagar, Anna Nagar, Chennai, Tamil Nadu, India - 184115",2025-01-28,0,Continental,8,1.86
+183,Jonathan Reddy,arjun12@example.com,5198067830,"Dyal Chowk, Velachery, Chennai, Tamil Nadu, India - 480616",2021-09-12,1,Italian,60,2.20
+184,Neelima Naik,xpuri@example.net,+917354357329,"Gaba Road, Velachery, Chennai, Tamil Nadu, India - 844316",2024-10-12,0,North Indian,77,0.77
+185,Pranav Saran,ymalhotra@example.com,06015694866,"Morar Marg, Perungudi, Chennai, Tamil Nadu, India - 654796",2022-03-20,1,Continental,16,0.48
+186,Dhriti Bala,bhallawahab@example.com,07930710933,"Chaudhary Street, Kilpauk, Chennai, Tamil Nadu, India - 688910",2020-09-06,1,Chinese,15,2.21
+187,Lohit Prashad,deshpandejairaj@example.org,04465123552,"Bir Circle, Perungudi, Chennai, Tamil Nadu, India - 658077",2023-05-14,0,Continental,74,1.30
+188,Elijah Shukla,christopher01@example.com,08718340403,"Contractor Path, T. Nagar, Chennai, Tamil Nadu, India - 941789",2024-12-13,0,Chinese,37,0.03
+189,Logan Randhawa,patlawazir@example.com,8570496632,"Vora Circle, Guindy, Chennai, Tamil Nadu, India - 214967",2020-04-28,0,South Indian,11,1.74
+190,Ubika Mahal,prisha27@example.org,+915296836655,"Saha Marg, Chrompet, Chennai, Tamil Nadu, India - 649369",2021-04-12,1,Continental,22,4.71
+191,Champak Badal,dubeyug@example.com,3810667024,"Karan Ganj, Mylapore, Chennai, Tamil Nadu, India - 966470",2022-11-26,1,North Indian,39,3.71
+192,Robert Lad,yashica96@example.com,+910067751285,"Sengupta, T. Nagar, Chennai, Tamil Nadu, India - 269890",2020-12-12,0,Italian,13,1.73
+193,Divya Raval,kashishchaudhuri@example.org,+916667047113,"Nair, Anna Nagar, Chennai, Tamil Nadu, India - 590731",2023-05-14,0,South Indian,79,3.25
+194,Azaan Vohra,bhallacaleb@example.org,05218189965,"Seth Road, Nungambakkam, Chennai, Tamil Nadu, India - 353195",2020-10-16,0,Italian,54,3.52
+195,Waida Jhaveri,ladli85@example.net,05151812613,"Som Nagar, T. Nagar, Chennai, Tamil Nadu, India - 584446",2021-10-20,0,North Indian,97,1.51
+196,Girindra Khanna,tmemon@example.net,+917472388725,"Bhatnagar Street, Nungambakkam, Chennai, Tamil Nadu, India - 897461",2022-03-11,1,Chinese,8,2.13
+197,Gaurika Wali,meghabal@example.net,+918805801617,"Mukhopadhyay, Nungambakkam, Chennai, Tamil Nadu, India - 631206",2022-10-19,1,South Indian,5,2.86
+198,Wyatt Thakur,anmol73@example.org,01874251823,"Chacko, Velachery, Chennai, Tamil Nadu, India - 843063",2020-07-23,0,Chinese,83,2.67
+199,Bhavika Shah,anthonymutti@example.net,+912982661718,"Gupta Path, T. Nagar, Chennai, Tamil Nadu, India - 407446",2021-09-21,0,Continental,87,3.57
+200,Pranav Reddy,routekanta@example.com,05343651067,"Nagi Road, Chrompet, Chennai, Tamil Nadu, India - 131019",2020-04-09,1,South Indian,75,1.32
+201,Noah Bhatt,bshetty@example.org,03702536587,"Narang Circle, Kodambakkam, Chennai, Tamil Nadu, India - 006837",2020-09-23,1,Chinese,95,2.08
+202,Veer Kaul,kapadiaamaira@example.com,6218377167,"Balakrishnan Ganj, Nungambakkam, Chennai, Tamil Nadu, India - 223135",2022-05-19,1,Italian,52,0.05
+203,Ishanvi Dhar,mugdhasathe@example.net,01818755057,"Gopal Ganj, Guindy, Chennai, Tamil Nadu, India - 225062",2021-05-05,1,Italian,63,2.00
+204,Yagnesh Contractor,edhithabadal@example.com,+918325613408,"Chaudhry Road, Adyar, Chennai, Tamil Nadu, India - 937019",2022-10-27,0,Continental,50,1.97
+205,Hemang Sarin,lakshmichoudhary@example.net,02596755124,"Sridhar, Kodambakkam, Chennai, Tamil Nadu, India - 335296",2022-07-09,0,Italian,4,3.23
+206,Rushil Loyal,dalbir24@example.org,+911502199058,"Mammen Chowk, T. Nagar, Chennai, Tamil Nadu, India - 248392",2025-03-22,1,Continental,0,1.90
+207,Chatura Sandal,daniel86@example.com,+915617237705,"Tiwari Circle, Nungambakkam, Chennai, Tamil Nadu, India - 984595",2020-03-26,1,North Indian,83,2.42
+208,Hemang Sarna,kalitavincent@example.net,+912244734617,"Sanghvi Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 425615",2023-12-19,1,North Indian,88,3.41
+209,Chatresh Balay,luke95@example.org,8581246173,"De Nagar, Nungambakkam, Chennai, Tamil Nadu, India - 882245",2023-09-18,1,Italian,83,4.68
+210,Unni Bhakta,omishaissac@example.net,09727883554,"Reddy Zila, T. Nagar, Chennai, Tamil Nadu, India - 134891",2020-03-09,0,Continental,97,3.97
+211,Vaishnavi Goda,raviomkaar@example.org,01006006746,"Chawla Road, Velachery, Chennai, Tamil Nadu, India - 631564",2025-06-13,1,Continental,14,3.91
+212,Advika Natarajan,pranit71@example.net,3752258412,"Kuruvilla Street, Anna Nagar, Chennai, Tamil Nadu, India - 094719",2025-04-22,1,South Indian,3,3.45
+213,Sai Kari,kharelopa@example.org,06344234069,"Rajagopal Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 163060",2025-05-08,0,North Indian,90,1.09
+214,Faras Kalla,bahadurjit94@example.net,3944102785,"Prashad, Mylapore, Chennai, Tamil Nadu, India - 618285",2021-01-28,1,North Indian,55,3.35
+215,Sudiksha Sha,abdulmukherjee@example.net,02059250240,"Bora Ganj, Kilpauk, Chennai, Tamil Nadu, India - 692598",2024-01-14,1,South Indian,43,3.82
+216,Ayaan Varkey,sanghvidipta@example.org,+910355155000,"Wali Zila, Mylapore, Chennai, Tamil Nadu, India - 504609",2020-01-17,1,Italian,76,4.17
+217,Chatresh Ramanathan,bansalyatin@example.org,8598177619,"Babu Path, Kodambakkam, Chennai, Tamil Nadu, India - 780103",2021-08-03,0,Continental,77,2.66
+218,Dhriti Ram,osachdev@example.net,+914939982485,"Borde Ganj, Mylapore, Chennai, Tamil Nadu, India - 705223",2020-02-19,0,Chinese,86,4.17
+219,Nakul Shukla,ykale@example.net,+917251802034,"Kade Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 800848",2022-06-21,0,Chinese,32,2.37
+220,Fariq Chaudhari,karan97@example.net,06640580245,"Shukla Nagar, Perungudi, Chennai, Tamil Nadu, India - 863947",2025-03-08,1,Chinese,38,2.83
+221,Mohini Sridhar,tamanna89@example.net,04487156630,"Nair Circle, Mylapore, Chennai, Tamil Nadu, India - 918374",2021-08-07,1,Continental,73,0.68
+222,Daniel Majumdar,panini42@example.org,09545279739,"Pant Zila, Mylapore, Chennai, Tamil Nadu, India - 350254",2022-11-04,0,Continental,37,2.00
+223,Ekavir Chada,pranav11@example.net,0150093447,"Dayal, Kodambakkam, Chennai, Tamil Nadu, India - 056736",2024-08-19,1,Continental,20,4.27
+224,Teerth Taneja,cchauhan@example.org,05834101020,"Bajaj Road, Velachery, Chennai, Tamil Nadu, India - 044690",2024-03-26,1,South Indian,29,4.43
+225,Jhalak Kapur,advaithdixit@example.net,05045497216,"Karnik Circle, Tambaram, Chennai, Tamil Nadu, India - 087793",2024-08-08,0,Chinese,28,4.56
+226,Bhavika Wason,varsha54@example.net,5268029865,"Behl Circle, Velachery, Chennai, Tamil Nadu, India - 158035",2021-06-21,1,North Indian,63,4.23
+227,Hitesh Pathak,garima03@example.com,9654212687,"Kashyap, Guindy, Chennai, Tamil Nadu, India - 550922",2022-05-31,0,Chinese,48,2.96
+228,Anjali Palan,krishamall@example.com,06595095766,"Vyas Circle, Kilpauk, Chennai, Tamil Nadu, India - 601743",2020-06-06,0,South Indian,4,0.19
+229,Vasudha Balay,sgour@example.org,08452262029,"Kale Road, Mylapore, Chennai, Tamil Nadu, India - 165563",2024-01-30,0,Chinese,48,4.53
+230,Libni Saha,ggrewal@example.net,9569539585,"Iyer Street, Mylapore, Chennai, Tamil Nadu, India - 076965",2023-08-09,0,Chinese,14,4.46
+231,Aayush Pau,mitraurvashi@example.com,05323222694,"Prabhakar Street, Guindy, Chennai, Tamil Nadu, India - 351873",2025-04-10,0,North Indian,3,1.00
+232,Falan Chaudhry,asharaf@example.org,6838065451,"Dhingra Road, Kodambakkam, Chennai, Tamil Nadu, India - 335013",2025-05-23,0,Continental,88,3.18
+233,Thomas Grover,onkarhora@example.net,00130375251,"Malhotra Path, Mylapore, Chennai, Tamil Nadu, India - 722926",2022-07-15,1,South Indian,2,2.87
+234,Suhani Panchal,rajata58@example.com,03327296857,"Khalsa Ganj, Perungudi, Chennai, Tamil Nadu, India - 398693",2021-11-13,0,South Indian,37,1.59
+235,Ekaja Chand,ghosefrado@example.com,8323576639,"Parmer Zila, Mylapore, Chennai, Tamil Nadu, India - 658315",2024-08-26,0,Continental,45,0.66
+236,Ishanvi Gopal,sibalwarinder@example.net,01132732173,"Merchant Path, Velachery, Chennai, Tamil Nadu, India - 704534",2022-12-25,0,North Indian,6,3.69
+237,Jason Raval,sridharbrijesh@example.net,+917324851601,"Kibe Road, Nungambakkam, Chennai, Tamil Nadu, India - 486218",2022-11-17,1,Chinese,77,1.82
+238,Upkaar Soni,dramachandran@example.com,3957701492,"Prashad Path, Adyar, Chennai, Tamil Nadu, India - 151633",2024-06-20,1,Chinese,23,1.35
+239,Omya Rajagopalan,urmi86@example.org,01407315970,"Dani Road, Mylapore, Chennai, Tamil Nadu, India - 552213",2023-12-26,1,North Indian,49,4.21
+240,Saanvi Dhar,saneveda@example.net,+911698959278,"Jayaraman Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 182283",2022-11-25,0,North Indian,52,0.67
+241,Upasna Khare,arya67@example.com,+915074086224,"Kumar, Perungudi, Chennai, Tamil Nadu, India - 424908",2024-12-12,0,South Indian,8,1.74
+242,Anusha Ramakrishnan,ekani21@example.com,06037623594,"Bhatt Circle, Anna Nagar, Chennai, Tamil Nadu, India - 712430",2020-08-28,0,Chinese,83,2.66
+243,Unni Soni,peter56@example.com,04282661529,"Koshy Ganj, Adyar, Chennai, Tamil Nadu, India - 319225",2020-08-07,0,South Indian,33,2.55
+244,Isaac Balasubramanian,yauvani67@example.com,5948446084,"Sinha Marg, Tambaram, Chennai, Tamil Nadu, India - 911869",2022-07-27,0,Chinese,71,3.06
+245,Aashi Kadakia,pmenon@example.org,1494374967,"Shroff Path, Mylapore, Chennai, Tamil Nadu, India - 087767",2024-04-24,0,Continental,79,4.34
+246,Mekhala Mand,sanghanandini@example.org,07763811139,"Bail Ganj, Guindy, Chennai, Tamil Nadu, India - 387826",2024-07-30,1,Chinese,41,0.72
+247,Barkha Sethi,gcontractor@example.net,+918529478139,"Varkey Street, Kodambakkam, Chennai, Tamil Nadu, India - 047787",2022-04-26,1,Chinese,37,3.21
+248,Ayush Mannan,faqidsunder@example.net,03600375955,"Ganesh Marg, Kodambakkam, Chennai, Tamil Nadu, India - 073714",2024-06-26,1,Chinese,27,4.68
+249,Urishilla Soman,radhikabhakta@example.net,02040700596,"Chauhan Nagar, Kilpauk, Chennai, Tamil Nadu, India - 723293",2021-05-31,1,Continental,57,4.86
+250,Qasim Cheema,vidhidua@example.net,06132784123,"Luthra Chowk, Guindy, Chennai, Tamil Nadu, India - 758241",2024-08-24,0,Chinese,64,2.33
+251,Ojas Madan,vmunshi@example.net,+919779704075,"Gopal, T. Nagar, Chennai, Tamil Nadu, India - 178875",2023-12-23,1,South Indian,70,0.05
+252,Owen Sodhi,georgeganesan@example.org,+910485289379,"Raja Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 046510",2023-08-11,1,Continental,47,3.53
+253,Eesha Dugar,munihemang@example.org,2332540223,"Ahluwalia Road, Velachery, Chennai, Tamil Nadu, India - 702120",2021-12-01,0,South Indian,77,1.41
+254,Nikita Kanda,upasna52@example.org,+910240302417,"Sundaram Path, Perungudi, Chennai, Tamil Nadu, India - 963176",2025-04-08,0,South Indian,29,2.69
+255,Zaid Gupta,chandrannihal@example.com,+916644909262,"Gandhi Nagar, Anna Nagar, Chennai, Tamil Nadu, India - 054955",2023-01-13,1,Chinese,71,2.21
+256,Zinal Ahuja,anandnirja@example.com,08097828067,"Pandey Street, Nungambakkam, Chennai, Tamil Nadu, India - 235116",2021-05-01,1,North Indian,64,1.31
+257,Anya Kar,duttaadvay@example.org,7780184778,"Tella Street, Nungambakkam, Chennai, Tamil Nadu, India - 834013",2023-01-12,0,Italian,49,2.04
+258,Aayush Iyer,hsahota@example.org,+915739166174,"Pathak Road, Tambaram, Chennai, Tamil Nadu, India - 243814",2021-11-15,0,North Indian,5,3.97
+259,Nisha Kumar,janya66@example.net,02029899411,"Chokshi Nagar, Kilpauk, Chennai, Tamil Nadu, India - 550613",2022-09-03,0,South Indian,24,3.76
+260,Tanish De,nikita86@example.net,+919966026161,"Dave Path, T. Nagar, Chennai, Tamil Nadu, India - 652487",2023-01-23,1,Italian,50,0.59
+261,Fitan Borra,jack19@example.net,+910537521005,"Shukla Zila, Kodambakkam, Chennai, Tamil Nadu, India - 621174",2024-05-01,1,South Indian,42,0.17
+262,Suhani Choudhury,jagdishbalasubramanian@example.org,1503910617,"Salvi Nagar, Adyar, Chennai, Tamil Nadu, India - 619513",2024-04-19,0,Chinese,60,1.46
+263,Harinakshi Kapoor,dwable@example.org,6677085562,"Wali Nagar, Velachery, Chennai, Tamil Nadu, India - 496651",2023-08-24,1,Chinese,33,2.16
+264,Nitesh Soman,henrydeshpande@example.com,0950750089,"Banik Road, Nungambakkam, Chennai, Tamil Nadu, India - 002528",2025-03-02,1,South Indian,59,1.81
+265,Wakeeta Issac,ekapad13@example.org,03113419027,"Warrior Circle, Nungambakkam, Chennai, Tamil Nadu, India - 822415",2023-04-04,1,Chinese,92,2.17
+266,Ekaraj Suri,warjassunder@example.org,1933813151,"Kamdar Nagar, T. Nagar, Chennai, Tamil Nadu, India - 356178",2021-11-25,1,North Indian,31,2.36
+267,Ayush Modi,bavajoshua@example.net,+915911279302,"Sengupta Circle, Chrompet, Chennai, Tamil Nadu, India - 712976",2020-03-08,1,Chinese,97,4.91
+268,Kabir Chahal,usani@example.org,4345908100,"Dutta Path, Mylapore, Chennai, Tamil Nadu, India - 712840",2021-01-24,1,North Indian,93,0.16
+269,Ayaan Ramesh,faqid84@example.net,00930062486,"Dhingra Zila, Chrompet, Chennai, Tamil Nadu, India - 364789",2022-12-03,0,South Indian,18,2.06
+270,Hemani Dara,devika75@example.net,4387624365,"Babu Marg, Chrompet, Chennai, Tamil Nadu, India - 795275",2024-09-16,1,Italian,58,1.13
+271,Yauvani Bora,doshijyoti@example.net,5091709092,"Tiwari Zila, T. Nagar, Chennai, Tamil Nadu, India - 400457",2022-09-20,0,South Indian,39,3.45
+272,Bishakha Jayaraman,lajitasastry@example.org,+910320575349,"Padmanabhan Zila, Kilpauk, Chennai, Tamil Nadu, India - 629730",2024-10-13,1,Chinese,72,3.61
+273,Aarna Saraf,wasonidika@example.org,+913863710674,"Gole Zila, Chrompet, Chennai, Tamil Nadu, India - 690445",2022-08-10,1,South Indian,87,2.79
+274,Varsha Kale,vdevan@example.net,09883786665,"Rattan Ganj, Nungambakkam, Chennai, Tamil Nadu, India - 507116",2021-04-21,0,Chinese,42,1.58
+275,Dayita Ratta,ikbaldutta@example.net,06927318883,"Singh, Nungambakkam, Chennai, Tamil Nadu, India - 469978",2022-08-18,1,Continental,57,0.71
+276,Abdul Dua,bhavyabhargava@example.org,6392958943,"Datta Chowk, Adyar, Chennai, Tamil Nadu, India - 308426",2023-10-14,1,North Indian,70,1.01
+277,Daniel Ben,kadelila@example.org,05365107917,"Kalla Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 680552",2022-11-29,0,Chinese,28,4.54
+278,Sai Nagarajan,aahanabhatia@example.com,+915674760976,"More Street, Anna Nagar, Chennai, Tamil Nadu, India - 053677",2021-10-07,1,North Indian,61,2.08
+279,Theodore Karan,wkadakia@example.com,6005273495,"Uppal Path, Adyar, Chennai, Tamil Nadu, India - 673891",2024-12-29,1,Continental,52,0.67
+280,Jackson Badal,qpant@example.net,1991776791,"Kala Circle, Nungambakkam, Chennai, Tamil Nadu, India - 614553",2025-01-01,0,South Indian,77,1.20
+281,Mason Misra,craman@example.com,0700684193,"Chokshi Chowk, Kilpauk, Chennai, Tamil Nadu, India - 105029",2024-07-23,1,Continental,58,0.66
+282,Chanakya Puri,jshan@example.org,02000842292,"Loyal Marg, Nungambakkam, Chennai, Tamil Nadu, India - 698353",2023-09-21,0,South Indian,91,2.10
+283,Falak Devan,qsamra@example.com,+911492250879,"Tella Zila, T. Nagar, Chennai, Tamil Nadu, India - 178524",2021-01-14,1,Chinese,34,3.21
+284,Nitesh Balay,rauchampak@example.com,02181923200,"Suri Zila, Anna Nagar, Chennai, Tamil Nadu, India - 684481",2023-08-10,0,Italian,51,1.87
+285,Ronith Nagi,irya28@example.com,08199561366,"Sathe Nagar, Kilpauk, Chennai, Tamil Nadu, India - 277900",2023-09-08,1,Italian,75,2.03
+286,Ganga Ravel,darsh75@example.net,+917001985625,"Ganguly Path, Mylapore, Chennai, Tamil Nadu, India - 610482",2023-08-26,0,South Indian,83,1.22
+287,Girindra Purohit,jagvisehgal@example.net,+911160658470,"Karpe Chowk, Guindy, Chennai, Tamil Nadu, India - 716537",2025-03-27,1,Continental,93,2.72
+288,Kevin Mukherjee,snehaamble@example.org,03820855818,"Ravel Street, Nungambakkam, Chennai, Tamil Nadu, India - 500033",2021-09-11,0,Continental,87,0.16
+289,Panini Soman,kohlipallavi@example.com,09310341929,"Sehgal Path, Anna Nagar, Chennai, Tamil Nadu, India - 941795",2021-01-25,1,Chinese,66,3.29
+290,Panini Samra,nilima48@example.net,8101674637,"Gole Nagar, Velachery, Chennai, Tamil Nadu, India - 717855",2025-03-22,0,Italian,83,2.20
+291,Yatan Ramesh,adya03@example.org,04573017917,"Mani Zila, Anna Nagar, Chennai, Tamil Nadu, India - 476905",2024-11-28,1,South Indian,31,0.59
+292,Priya Viswanathan,ramachandrandhriti@example.com,02990238995,"Pau Circle, Velachery, Chennai, Tamil Nadu, India - 611761",2022-06-09,1,North Indian,27,0.29
+293,Chanchal Bhardwaj,odhingra@example.com,06112068515,"Kar, Velachery, Chennai, Tamil Nadu, India - 621104",2020-05-16,1,North Indian,9,4.48
+294,Akshay Karan,turviverma@example.com,9973605209,"Chada Marg, Adyar, Chennai, Tamil Nadu, India - 570447",2022-03-29,0,North Indian,76,4.35
+295,Gaurika Dalal,uchauhan@example.net,2395286251,"Mistry, Guindy, Chennai, Tamil Nadu, India - 612620",2020-12-05,0,Continental,44,2.63
+296,Wriddhish Dey,galaturvi@example.net,+919163350655,"Buch Circle, Velachery, Chennai, Tamil Nadu, India - 013215",2022-09-26,0,Chinese,55,0.48
+297,Xalak Sarna,nathanielkhare@example.net,+915177432205,"Wadhwa, T. Nagar, Chennai, Tamil Nadu, India - 715086",2021-04-20,0,Continental,47,3.29
+298,Lakshit Koshy,janani46@example.org,9354601980,"Solanki Chowk, Chrompet, Chennai, Tamil Nadu, India - 708870",2020-10-18,1,South Indian,2,3.41
+299,Ansh Konda,omya03@example.com,00526589949,"Kota Road, T. Nagar, Chennai, Tamil Nadu, India - 049800",2022-11-19,0,Chinese,36,4.69
+300,Hemang Mandal,aadimangal@example.org,04258446729,"Raghavan Path, Tambaram, Chennai, Tamil Nadu, India - 932490",2020-04-01,0,Continental,17,1.14
+301,Chaitaly Comar,oeshi89@example.com,8408946030,"Dani Ganj, Velachery, Chennai, Tamil Nadu, India - 996959",2020-01-26,0,Chinese,20,2.47
+302,Tanay Devan,bajwaxavier@example.net,2211675832,"Gopal Zila, T. Nagar, Chennai, Tamil Nadu, India - 431839",2023-03-10,0,Continental,74,4.02
+303,Meera Sidhu,urishilla11@example.com,7859446599,"Gill Zila, Mylapore, Chennai, Tamil Nadu, India - 429171",2025-02-09,1,Chinese,40,1.61
+304,Rayaan Ravi,panchalqabil@example.org,+914900273258,"Goel Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 601209",2022-02-15,1,North Indian,79,4.87
+305,Idika Tailor,rayaan33@example.com,+916779484848,"Balay Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 959990",2024-08-31,0,Continental,22,1.69
+306,Vanya Ratti,kamala09@example.net,+914960617028,"Madan Path, Kodambakkam, Chennai, Tamil Nadu, India - 872930",2024-12-15,1,South Indian,19,1.52
+307,Charan Taneja,goak@example.org,+912355239506,"Sabharwal Road, T. Nagar, Chennai, Tamil Nadu, India - 690201",2021-12-22,0,Continental,93,0.62
+308,Saanvi Konda,misradarsh@example.net,08861537747,"Guha Circle, Perungudi, Chennai, Tamil Nadu, India - 572115",2023-03-29,0,North Indian,59,4.48
+309,Qushi Swamy,aishani69@example.org,8464259602,"Varty Circle, Adyar, Chennai, Tamil Nadu, India - 102733",2021-06-19,0,Continental,40,4.90
+310,Naveen Goyal,tmanda@example.net,08309988842,"Khalsa Road, Nungambakkam, Chennai, Tamil Nadu, India - 531065",2024-08-28,1,South Indian,46,4.14
+311,Hamsini Saini,chadhakevin@example.net,+915502546471,"Bora Path, Kilpauk, Chennai, Tamil Nadu, India - 145542",2023-07-01,1,South Indian,27,0.97
+312,Lavanya Bava,kamdarharita@example.net,08764076227,"Mahal Marg, Kodambakkam, Chennai, Tamil Nadu, India - 650608",2023-09-03,0,Chinese,83,2.55
+313,Daksh Vala,tsastry@example.com,4012646475,"Pandit Circle, Anna Nagar, Chennai, Tamil Nadu, India - 735039",2020-04-06,0,North Indian,1,0.71
+314,Naksh Chaudhary,qchandran@example.com,09095114177,"Lall Ganj, Kilpauk, Chennai, Tamil Nadu, India - 623077",2021-09-12,0,Italian,71,4.23
+315,Onveer Mukherjee,ytaneja@example.org,+915556134878,"Khare Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 063641",2024-01-04,0,South Indian,26,2.17
+316,Vritti Nadig,wsengupta@example.com,+915868324925,"Sanghvi Ganj, T. Nagar, Chennai, Tamil Nadu, India - 013917",2022-05-17,0,Continental,17,2.28
+317,Upasna Varughese,rmurty@example.com,2941340015,"Sharma, Anna Nagar, Chennai, Tamil Nadu, India - 045647",2023-05-14,0,Chinese,81,3.24
+318,Bhavna Sethi,vdate@example.org,6810768827,"Sen Ganj, Chrompet, Chennai, Tamil Nadu, India - 097272",2020-07-21,1,North Indian,35,4.49
+319,Jagdish Dutta,onazareth@example.net,09298112501,"Chatterjee Path, Mylapore, Chennai, Tamil Nadu, India - 714038",2024-12-06,0,Italian,13,2.69
+320,Parth Borde,pandeyakshay@example.net,1440065005,"Sur Ganj, Guindy, Chennai, Tamil Nadu, India - 645721",2023-06-23,1,Continental,18,0.21
+321,Leela Bakshi,nathaniellad@example.com,4982231732,"De Chowk, Perungudi, Chennai, Tamil Nadu, India - 157835",2021-07-15,1,Italian,26,2.52
+322,Finn Kala,revamurthy@example.com,5299066411,"Naidu Zila, Guindy, Chennai, Tamil Nadu, India - 473013",2020-07-13,1,Italian,50,2.30
+323,Dipta Kamdar,theodore14@example.com,+915326812431,"Jani Circle, Chrompet, Chennai, Tamil Nadu, India - 658638",2024-06-30,0,Italian,75,0.78
+324,Nisha Palan,nperi@example.net,+913014826503,"Nazareth, Kilpauk, Chennai, Tamil Nadu, India - 023973",2024-11-09,0,South Indian,47,3.38
+325,Indira Bal,lsidhu@example.org,5699974218,"Balakrishnan Path, Chrompet, Chennai, Tamil Nadu, India - 106827",2023-01-15,1,Continental,81,4.36
+326,Jasmit Kaul,pahalaurora@example.org,08982891572,"Magar Nagar, Tambaram, Chennai, Tamil Nadu, India - 793395",2022-03-17,0,South Indian,97,3.05
+327,Gaurika Mall,cdhar@example.com,+917907065883,"Bhatt Zila, Adyar, Chennai, Tamil Nadu, India - 911248",2024-09-04,1,Chinese,38,3.55
+328,Aachal Sodhi,robert65@example.com,00917005382,"Nayar Ganj, Chrompet, Chennai, Tamil Nadu, India - 567198",2022-05-24,0,Italian,92,1.09
+329,Madhavi Kamdar,edwinchatresh@example.com,4454415709,"Ganguly, Kilpauk, Chennai, Tamil Nadu, India - 162481",2023-09-20,1,Continental,86,0.91
+330,Sudiksha Sachar,ektasur@example.org,02376149817,"Chand Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 831560",2025-06-04,0,North Indian,99,4.74
+331,Shivani Halder,oliversankaran@example.org,4999675167,"Ahluwalia Road, Velachery, Chennai, Tamil Nadu, India - 548324",2020-09-17,0,Chinese,60,4.58
+332,Osha Srivastava,vasudha71@example.com,8084473891,"Shroff Path, Anna Nagar, Chennai, Tamil Nadu, India - 031768",2022-05-05,0,Chinese,16,3.66
+333,Wishi Sani,dakshlalla@example.net,4943454825,"Sankar Ganj, Kilpauk, Chennai, Tamil Nadu, India - 633515",2021-10-19,0,Continental,78,0.54
+334,Jackson Dugar,hemanginigoel@example.com,08970090639,"Balasubramanian Path, Mylapore, Chennai, Tamil Nadu, India - 531198",2021-01-17,1,South Indian,0,1.10
+335,Kabir Sandal,oeshi09@example.org,+917894217214,"Bhargava Path, Perungudi, Chennai, Tamil Nadu, India - 251595",2020-11-21,1,Continental,21,3.33
+336,Gaurang Ramesh,abdulsalvi@example.net,7288244577,"Sandal Street, Adyar, Chennai, Tamil Nadu, India - 471788",2024-12-18,0,Italian,11,2.83
+337,Lila Kamdar,bhardwajmekhala@example.com,6958963690,"Arora Zila, Adyar, Chennai, Tamil Nadu, India - 037615",2024-08-15,0,North Indian,63,0.00
+338,Dalbir Rama,kothariwarda@example.com,+918034096970,"Boase Zila, Chrompet, Chennai, Tamil Nadu, India - 842146",2024-08-03,0,South Indian,89,3.02
+339,Bhavna Das,masterlopa@example.net,7130662558,"Savant Circle, Tambaram, Chennai, Tamil Nadu, India - 622784",2022-12-04,0,Chinese,31,0.35
+340,Azaan Prabhu,rachanamodi@example.com,5799404323,"Basu Zila, Mylapore, Chennai, Tamil Nadu, India - 406264",2024-12-29,1,North Indian,54,4.06
+341,Aarnav Nadig,dixityatin@example.net,01038722745,"Barad Chowk, Kilpauk, Chennai, Tamil Nadu, India - 771923",2023-12-13,1,Italian,97,3.43
+342,Bimala Devan,unnatimodi@example.net,08049937496,"Sunder Ganj, Kilpauk, Chennai, Tamil Nadu, India - 725451",2022-11-12,0,North Indian,23,3.86
+343,Gunbir Devan,bhanumati85@example.net,+917463205333,"Bobal Marg, Kilpauk, Chennai, Tamil Nadu, India - 540851",2025-03-19,1,Chinese,32,0.04
+344,Upma Menon,pantpraneel@example.org,+912423980988,"Prakash, T. Nagar, Chennai, Tamil Nadu, India - 809131",2021-02-18,0,Continental,35,0.16
+345,Vidhi Mohan,khalsavrinda@example.net,2850141029,"Chawla Chowk, Kilpauk, Chennai, Tamil Nadu, India - 430188",2021-01-17,0,North Indian,36,4.08
+346,Bhanumati Mittal,advaith14@example.com,07276511971,"Sahni Chowk, Adyar, Chennai, Tamil Nadu, India - 493507",2022-10-13,0,Continental,11,0.51
+347,Lavanya Mittal,yagneshramaswamy@example.com,4116053277,"Kapur Road, Perungudi, Chennai, Tamil Nadu, India - 984535",2021-09-11,0,Italian,100,0.74
+348,Irya Bhakta,ibrahmbhatt@example.com,8163985755,"Doshi, Guindy, Chennai, Tamil Nadu, India - 731388",2022-04-06,1,North Indian,89,4.30
+349,Abha Sinha,eshanagrewal@example.net,+918739139686,"Gopal Path, Guindy, Chennai, Tamil Nadu, India - 874556",2024-06-27,0,Italian,5,1.77
+350,Aishani Lala,chaturacheema@example.net,04016461453,"Kulkarni Nagar, Kilpauk, Chennai, Tamil Nadu, India - 594684",2022-06-04,1,Continental,46,2.75
+351,Ranbir Subramanian,dalbirtiwari@example.org,05703558692,"Tella Path, Mylapore, Chennai, Tamil Nadu, India - 044922",2023-05-07,0,Italian,9,3.36
+352,Warda Khosla,zaitrabandi@example.com,+910377227760,"Merchant Zila, Perungudi, Chennai, Tamil Nadu, India - 257865",2024-02-01,1,Chinese,65,3.65
+353,Chandresh Radhakrishnan,rnarayanan@example.com,+911575697706,"Bobal Circle, Kilpauk, Chennai, Tamil Nadu, India - 621314",2024-07-20,1,North Indian,77,2.47
+354,Rajata Chadha,hkala@example.org,+916271208297,"Goda Path, Mylapore, Chennai, Tamil Nadu, India - 518386",2025-02-06,0,Chinese,75,0.80
+355,Charles Chandran,masonbrar@example.net,+914445158070,"Majumdar Nagar, Perungudi, Chennai, Tamil Nadu, India - 245846",2023-05-02,1,Continental,39,4.35
+356,Krishna Patel,bariarudra@example.org,+913207550644,"Devi Chowk, Chrompet, Chennai, Tamil Nadu, India - 985554",2025-03-08,1,South Indian,73,4.04
+357,Jairaj Contractor,sherehredhaan@example.org,9490888707,"Bhat Nagar, Kilpauk, Chennai, Tamil Nadu, India - 478754",2021-12-03,1,North Indian,16,1.79
+358,Pallavi Chandra,watikavarghese@example.net,01821787302,"Golla Marg, Kodambakkam, Chennai, Tamil Nadu, India - 961050",2021-08-20,1,North Indian,100,3.84
+359,Krisha Palla,ybhardwaj@example.org,2711128198,"Saha Circle, Guindy, Chennai, Tamil Nadu, India - 793616",2023-02-19,0,Chinese,55,0.39
+360,Tanveer Chand,jsood@example.com,+919329452601,"Gole Road, Chrompet, Chennai, Tamil Nadu, India - 691967",2023-06-09,0,North Indian,79,0.65
+361,Aarini Thakkar,rgrewal@example.org,+912801293122,"Sundaram Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 444290",2023-07-13,0,North Indian,24,4.23
+362,Qushi Lata,libni61@example.com,01710904313,"Hari Chowk, Nungambakkam, Chennai, Tamil Nadu, India - 075165",2024-10-28,0,Continental,39,0.54
+363,Samar Hegde,zilmilseshadri@example.net,+912632540017,"Divan Marg, Kilpauk, Chennai, Tamil Nadu, India - 494288",2023-12-07,1,Continental,61,4.29
+364,Advika Bassi,orinder15@example.net,2791595354,"Bains Chowk, Mylapore, Chennai, Tamil Nadu, India - 701191",2020-02-20,0,North Indian,71,3.32
+365,Janani Bajwa,wazir64@example.net,+918232832948,"Pillai Zila, Tambaram, Chennai, Tamil Nadu, India - 730989",2020-05-16,0,Italian,41,2.24
+366,Wahab Nath,duttudyati@example.org,+916574304815,"Bhandari Street, Nungambakkam, Chennai, Tamil Nadu, India - 904127",2021-05-22,1,Continental,91,1.93
+367,Darika Wagle,ekantika39@example.org,3326095639,"Mani Ganj, T. Nagar, Chennai, Tamil Nadu, India - 575979",2023-09-01,0,Continental,39,3.39
+368,Yug Ray,duttdipta@example.net,2913806296,"Prakash Zila, Nungambakkam, Chennai, Tamil Nadu, India - 058825",2024-10-23,0,Continental,40,1.73
+369,Aishani Mital,mukhopadhyayrudra@example.org,2082030920,"Baria Marg, Mylapore, Chennai, Tamil Nadu, India - 887189",2022-10-08,0,South Indian,95,3.56
+370,Noah Palan,tankbhavani@example.com,01029726919,"Toor Zila, T. Nagar, Chennai, Tamil Nadu, India - 513404",2021-07-05,1,North Indian,13,2.98
+371,Aadhya Pandya,kadakiaupkaar@example.org,+914231636293,"Maharaj Nagar, Perungudi, Chennai, Tamil Nadu, India - 841364",2020-09-27,1,Continental,83,3.14
+372,Ekanta Manne,muttianay@example.net,2451321023,"Puri Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 153664",2024-11-06,1,South Indian,17,1.71
+373,Meera Singhal,lohit76@example.org,+918173715300,"Raj Nagar, Chrompet, Chennai, Tamil Nadu, India - 971021",2020-01-06,0,South Indian,53,0.19
+374,Rajata Sahni,pvasa@example.org,08543703718,"Badami Chowk, Velachery, Chennai, Tamil Nadu, India - 208378",2021-08-11,0,Continental,77,2.90
+375,Yachana Narula,davidgarg@example.com,+914862107796,"Kuruvilla, Tambaram, Chennai, Tamil Nadu, India - 001372",2020-09-21,0,Continental,84,4.82
+376,Daksh Kalla,darika97@example.org,8713372814,"Sridhar Road, Anna Nagar, Chennai, Tamil Nadu, India - 466220",2025-06-19,1,Continental,66,0.54
+377,Saumya Hari,raagini86@example.com,00890633802,"Sharaf, Nungambakkam, Chennai, Tamil Nadu, India - 589602",2024-07-28,1,Continental,68,0.87
+378,Vedhika Hari,sanyakuruvilla@example.com,+914697489774,"Modi Path, Chrompet, Chennai, Tamil Nadu, India - 402623",2024-03-30,0,South Indian,52,1.54
+379,Jackson Purohit,liam89@example.net,03270135041,"Sodhi Circle, Kodambakkam, Chennai, Tamil Nadu, India - 683998",2020-10-08,1,Chinese,97,1.17
+380,Falan Saha,gunbirmalhotra@example.org,+914143281880,"Kapadia Street, Anna Nagar, Chennai, Tamil Nadu, India - 019059",2021-09-07,0,Chinese,13,4.35
+381,Chaaya Issac,yzacharia@example.org,06062038297,"Mahal Marg, Guindy, Chennai, Tamil Nadu, India - 986976",2024-11-01,0,North Indian,29,2.11
+382,Nitesh Sodhi,borraedhitha@example.com,01600605553,"Mohanty, Nungambakkam, Chennai, Tamil Nadu, India - 318598",2024-07-29,1,Italian,68,0.31
+383,Anya Nayar,nikita69@example.com,07492203764,"Tata Ganj, Mylapore, Chennai, Tamil Nadu, India - 222327",2025-03-31,0,North Indian,83,2.85
+384,Ridhi Gara,wnaik@example.org,+916403901702,"Naidu Circle, Perungudi, Chennai, Tamil Nadu, India - 558757",2023-02-23,0,Chinese,94,4.37
+385,Maanas Bhatt,kotharibarkha@example.net,8911541554,"Mahal Path, Kodambakkam, Chennai, Tamil Nadu, India - 449310",2020-11-26,1,Italian,46,3.74
+386,Yutika Nagy,nihal61@example.org,04066198436,"Bora Zila, T. Nagar, Chennai, Tamil Nadu, India - 638506",2024-09-28,0,Continental,7,3.05
+387,Anmol Rajagopal,patrick67@example.org,+917296889264,"Palla Chowk, Velachery, Chennai, Tamil Nadu, India - 185254",2021-10-08,0,Chinese,99,3.09
+388,Ekani Krish,vthaman@example.org,+914025024515,"Khalsa Road, Chrompet, Chennai, Tamil Nadu, India - 344877",2021-11-03,1,South Indian,86,4.06
+389,Samesh Venkatesh,abhimanyuwadhwa@example.net,+915241964594,"Sharaf Zila, Chrompet, Chennai, Tamil Nadu, India - 954006",2021-02-06,1,Chinese,38,4.90
+390,Aditya Rana,ikala@example.net,6836547256,"Sarna Circle, Kodambakkam, Chennai, Tamil Nadu, India - 097138",2025-05-01,0,Italian,66,0.18
+391,Mason Chakraborty,somanbhavika@example.net,7882373698,"Nair Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 774959",2022-05-20,1,Chinese,7,2.51
+392,Fiyaz Mittal,vincentpalla@example.net,3811118843,"Hayre Nagar, Kilpauk, Chennai, Tamil Nadu, India - 924449",2023-01-12,1,South Indian,34,5.00
+393,Januja Ratta,zrai@example.net,5203456398,"Wagle Road, Tambaram, Chennai, Tamil Nadu, India - 392124",2022-09-24,1,Italian,71,2.30
+394,Mohammed Divan,mastermeera@example.net,4970909982,"Nanda Path, Adyar, Chennai, Tamil Nadu, India - 219596",2022-03-22,1,South Indian,12,2.97
+395,Gaurangi Mitter,nsuresh@example.com,01248791281,"Vyas, Velachery, Chennai, Tamil Nadu, India - 924725",2025-06-13,0,Continental,98,3.19
+396,Yatin Balan,nsubramaniam@example.org,5971082999,"Srinivasan Nagar, Chrompet, Chennai, Tamil Nadu, India - 667917",2024-07-22,0,Chinese,26,1.03
+397,Triveni Buch,pallaranveer@example.org,3683759106,"Wali Nagar, Chrompet, Chennai, Tamil Nadu, India - 504548",2021-08-09,1,Continental,15,4.60
+398,Dipta Chatterjee,malhotrajagvi@example.net,01241034817,"Srinivas Path, Mylapore, Chennai, Tamil Nadu, India - 077682",2024-03-22,1,Continental,49,0.07
+399,David Saran,modyudant@example.com,5456453806,"Sabharwal Chowk, Adyar, Chennai, Tamil Nadu, India - 349717",2025-03-22,0,Italian,20,2.80
+400,Falan Kothari,brahmbhattdarika@example.org,02366426017,"Mann Road, T. Nagar, Chennai, Tamil Nadu, India - 183046",2025-04-21,0,Italian,72,1.98
+401,Rishi Upadhyay,uppaltheodore@example.net,03813316511,"Saxena Chowk, Velachery, Chennai, Tamil Nadu, India - 645248",2024-02-20,0,South Indian,21,2.21
+402,Sathvik Narain,sshah@example.org,7750946223,"Chad Marg, Adyar, Chennai, Tamil Nadu, India - 117467",2022-12-20,1,South Indian,11,0.01
+403,Vincent Varty,aurorayatin@example.com,+915325393178,"Vig Marg, Guindy, Chennai, Tamil Nadu, India - 212769",2024-11-26,1,Continental,21,1.41
+404,Victor Mallick,jackvohra@example.net,+917606532642,"Pathak Street, Guindy, Chennai, Tamil Nadu, India - 246325",2022-06-14,1,Continental,97,0.25
+405,Manbir Shanker,benjaminmukherjee@example.org,09249538686,"Raju Nagar, Chrompet, Chennai, Tamil Nadu, India - 398589",2022-03-23,1,North Indian,68,4.69
+406,Inaya Nayar,aadigulati@example.net,2471961323,"Sarkar Zila, Adyar, Chennai, Tamil Nadu, India - 481042",2022-03-21,1,North Indian,85,4.91
+407,Ubika Buch,xyadav@example.org,06397774151,"Ramaswamy Road, Tambaram, Chennai, Tamil Nadu, India - 238582",2022-09-02,0,Italian,18,3.20
+408,Warinder Munshi,pdora@example.com,+911868152478,"Buch Circle, T. Nagar, Chennai, Tamil Nadu, India - 376259",2021-02-16,1,North Indian,5,0.83
+409,Lajita Sabharwal,katagaurang@example.net,04990366058,"Patel Chowk, T. Nagar, Chennai, Tamil Nadu, India - 034512",2020-08-04,1,North Indian,8,0.88
+410,Sara Palla,prishavaidya@example.com,+919092991257,"Iyer Street, Velachery, Chennai, Tamil Nadu, India - 819349",2023-12-30,1,North Indian,82,4.88
+411,Zaid Rout,gtrivedi@example.net,00637699346,"Yadav Circle, Adyar, Chennai, Tamil Nadu, India - 465369",2024-11-22,0,Continental,56,1.94
+412,Priya Oommen,rajagopalanalexander@example.net,3163223344,"Som Road, Nungambakkam, Chennai, Tamil Nadu, India - 610946",2023-02-08,1,Italian,80,0.12
+413,Samuel Subramaniam,ramakrishnanrayaan@example.net,05163985018,"Brar Zila, Chrompet, Chennai, Tamil Nadu, India - 478023",2022-11-21,1,Chinese,99,3.12
+414,Manan Bala,dhritiwagle@example.com,2594525406,"Sarin Zila, Adyar, Chennai, Tamil Nadu, India - 667974",2022-01-04,0,North Indian,88,2.54
+415,Yasti Setty,harinakshisibal@example.org,07769483824,"Ahluwalia Chowk, Perungudi, Chennai, Tamil Nadu, India - 153085",2023-02-07,0,South Indian,53,1.56
+416,Bimala Kumar,anika16@example.org,+918063518639,"Sarin, Tambaram, Chennai, Tamil Nadu, India - 554481",2022-12-02,0,Chinese,49,4.98
+417,Kritika Khalsa,dharnisha@example.net,03412545920,"Tata, Chrompet, Chennai, Tamil Nadu, India - 737694",2023-02-16,0,Italian,91,4.45
+418,Ishanvi Cherian,revakakar@example.org,04802689578,"Date Circle, Adyar, Chennai, Tamil Nadu, India - 094440",2025-01-28,1,Italian,17,3.84
+419,Kashish Ghosh,cboase@example.net,01676833387,"Karnik, Kodambakkam, Chennai, Tamil Nadu, India - 315359",2020-04-06,0,Italian,12,1.96
+420,Dipta Sathe,naveenzachariah@example.com,5726957931,"Magar Path, Nungambakkam, Chennai, Tamil Nadu, India - 992724",2024-06-04,1,Italian,13,1.07
+421,Rehaan Chad,caleb63@example.net,3360026477,"De Path, Kodambakkam, Chennai, Tamil Nadu, India - 522693",2023-04-17,0,Continental,57,4.88
+422,Yutika Tella,ulad@example.org,1228904755,"Kannan Street, Tambaram, Chennai, Tamil Nadu, India - 200750",2021-01-07,0,Continental,46,2.87
+423,Bahadurjit Hayre,mugdhatrivedi@example.com,+911485721865,"Sehgal Street, T. Nagar, Chennai, Tamil Nadu, India - 472948",2025-07-02,0,South Indian,33,3.63
+424,Aditya Lala,amrutaiyengar@example.net,7053321725,"Bandi, Chrompet, Chennai, Tamil Nadu, India - 583189",2021-01-31,0,Chinese,70,0.84
+425,Utkarsh Bora,jasonsagar@example.org,07212058923,"Dhar Ganj, Tambaram, Chennai, Tamil Nadu, India - 363547",2021-02-06,1,Italian,39,4.74
+426,Forum Dass,xsangha@example.org,7448688269,"Sani Road, Tambaram, Chennai, Tamil Nadu, India - 472564",2023-04-18,1,Italian,16,1.75
+427,Chatresh Nayak,gaurangdate@example.org,+919078422984,"De Marg, Perungudi, Chennai, Tamil Nadu, India - 248337",2024-06-07,0,South Indian,7,3.71
+428,Kamala Sarkar,voragaurangi@example.net,8552342236,"Mander Path, T. Nagar, Chennai, Tamil Nadu, India - 709182",2020-05-24,0,North Indian,41,2.92
+429,Isaac Chandra,indrajit72@example.org,00286766201,"Gill Circle, Kodambakkam, Chennai, Tamil Nadu, India - 487126",2020-06-11,1,North Indian,97,1.93
+430,Keya Jaggi,chackoagastya@example.net,08611878773,"Bhat, Perungudi, Chennai, Tamil Nadu, India - 416581",2025-02-04,0,Continental,34,4.38
+431,Chavvi Ravi,mangallibni@example.org,+914486393157,"Yogi Street, Perungudi, Chennai, Tamil Nadu, India - 879995",2022-03-09,0,North Indian,7,1.95
+432,Aarush Banerjee,varenya28@example.com,+919334119071,"Hayer Chowk, Perungudi, Chennai, Tamil Nadu, India - 226428",2020-11-17,0,South Indian,65,0.33
+433,Falguni Misra,warhi76@example.org,02886431959,"Kata Street, Perungudi, Chennai, Tamil Nadu, India - 389824",2020-07-29,0,Italian,30,2.11
+434,Isha Shan,oshasinghal@example.com,+917704379715,"Wable Zila, Guindy, Chennai, Tamil Nadu, India - 533434",2022-06-10,1,North Indian,71,2.11
+435,Yashica Baral,kuruvillavincent@example.net,8156007240,"Rau Chowk, Nungambakkam, Chennai, Tamil Nadu, India - 980361",2020-10-21,1,Continental,70,4.73
+436,Dhriti Bhatnagar,wriddhish93@example.net,7078640024,"Narain Zila, Velachery, Chennai, Tamil Nadu, India - 770849",2021-01-01,1,Italian,12,2.10
+437,Anmol Parmar,udarshkrishna@example.com,03120382968,"Venkataraman Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 391996",2025-05-10,0,Chinese,57,3.59
+438,Chakradhar Dhawan,gaurangimadan@example.com,3637994988,"Issac, Adyar, Chennai, Tamil Nadu, India - 187429",2023-06-05,1,Continental,17,3.24
+439,Ojasvi Nanda,omya67@example.com,7140081327,"Pai Marg, T. Nagar, Chennai, Tamil Nadu, India - 897278",2020-06-02,0,Italian,86,3.93
+440,Nisha Madan,liam96@example.org,+918748230033,"Dyal Ganj, Chrompet, Chennai, Tamil Nadu, India - 068313",2022-09-13,0,Italian,39,2.53
+441,Yadavi Doshi,haribhavani@example.net,05059759262,"Dey Chowk, Adyar, Chennai, Tamil Nadu, India - 430039",2021-03-03,0,Continental,33,0.84
+442,Ijaya Shan,psharma@example.net,05957753437,"Roy Ganj, Chrompet, Chennai, Tamil Nadu, India - 323182",2022-05-26,1,North Indian,66,1.49
+443,Yauvani Dhawan,cdayal@example.com,6388546316,"Sampath Path, Kilpauk, Chennai, Tamil Nadu, India - 239028",2023-03-02,0,Chinese,69,4.99
+444,Tara Khatri,zbehl@example.net,00910115258,"Varkey Path, Kilpauk, Chennai, Tamil Nadu, India - 037916",2020-07-31,1,Italian,23,0.73
+445,Girik Sule,fkhatri@example.com,+915828628807,"Dhawan Street, Velachery, Chennai, Tamil Nadu, India - 312234",2025-06-16,0,Continental,36,4.33
+446,Peter Subramanian,oshukla@example.net,04265750558,"Virk Road, Adyar, Chennai, Tamil Nadu, India - 430484",2025-05-06,0,Italian,26,2.98
+447,Balhaar Arya,khannanirja@example.com,+912372305100,"Iyer, Perungudi, Chennai, Tamil Nadu, India - 860117",2021-07-04,0,Continental,90,0.76
+448,Pooja Savant,shankerrehaan@example.net,6245289329,"Malhotra, Chrompet, Chennai, Tamil Nadu, India - 837669",2023-09-08,1,Chinese,63,0.73
+449,George Chacko,jupadhyay@example.org,07439183095,"Mall Street, Velachery, Chennai, Tamil Nadu, India - 934527",2022-02-17,0,South Indian,58,4.43
+450,Isha Chaudhari,duttaluke@example.com,02604264866,"Vyas Street, Tambaram, Chennai, Tamil Nadu, India - 173663",2022-08-07,0,North Indian,79,2.21
+451,Waida Sama,tmody@example.net,2679737855,"Setty Nagar, Guindy, Chennai, Tamil Nadu, India - 242845",2020-04-21,1,South Indian,3,4.56
+452,Fiyaz Bajwa,kvig@example.net,06925228752,"Dube Street, Tambaram, Chennai, Tamil Nadu, India - 565093",2022-03-07,1,South Indian,11,1.39
+453,Manan Dey,puritanveer@example.net,02112051658,"Rai Nagar, Kodambakkam, Chennai, Tamil Nadu, India - 625499",2021-12-11,0,Continental,84,2.70
+454,Edhitha Bhakta,lsinha@example.com,5958167613,"Khalsa Path, Anna Nagar, Chennai, Tamil Nadu, India - 475810",2021-05-10,1,Continental,74,2.31
+455,Urvi Nori,rbir@example.com,+918410020549,"Nayak, Guindy, Chennai, Tamil Nadu, India - 222908",2023-10-10,1,Chinese,18,4.46
+456,Tamanna Mandal,wpai@example.net,7777687469,"Boase Street, Guindy, Chennai, Tamil Nadu, India - 220732",2024-12-13,0,Italian,3,4.33
+457,Dalbir Agarwal,dayamai66@example.org,2340134763,"Walla Marg, T. Nagar, Chennai, Tamil Nadu, India - 934224",2020-04-15,0,North Indian,17,0.31
+458,Tanmayi Srinivasan,forumramanathan@example.net,3996750277,"Sandhu Circle, Tambaram, Chennai, Tamil Nadu, India - 779294",2022-02-09,0,Chinese,56,1.80
+459,Yahvi Sane,zehaan87@example.com,+916977727596,"Naidu Marg, Adyar, Chennai, Tamil Nadu, India - 503580",2020-06-05,1,Italian,100,3.52
+460,Jeremiah Verma,mbali@example.com,01695666991,"Palla Nagar, Nungambakkam, Chennai, Tamil Nadu, India - 482212",2024-08-30,0,Chinese,11,2.87
+461,Yashoda Subramaniam,omyanarayan@example.org,+914915254827,"Nagarajan Ganj, Perungudi, Chennai, Tamil Nadu, India - 387489",2020-04-20,0,South Indian,79,2.65
+462,Dhriti Narula,omyatalwar@example.com,+911172735746,"Ganesan Road, Kodambakkam, Chennai, Tamil Nadu, India - 104812",2020-04-30,1,Continental,90,4.39
+463,Hardik Bansal,varugheseoni@example.org,09983028709,"Halder Path, Velachery, Chennai, Tamil Nadu, India - 778922",2020-01-21,0,Chinese,11,1.76
+464,Omya Sant,kumerronith@example.net,6360596531,"Hayer Circle, Anna Nagar, Chennai, Tamil Nadu, India - 675806",2021-09-17,1,Continental,3,4.70
+465,Omisha Malhotra,avni13@example.org,03272835129,"Jha Nagar, T. Nagar, Chennai, Tamil Nadu, India - 338009",2022-09-04,1,Continental,87,3.76
+466,Indrajit Dass,hmadan@example.com,2955182824,"Gill Marg, Perungudi, Chennai, Tamil Nadu, India - 339198",2022-11-08,1,South Indian,73,3.46
+467,Lohit Nagarajan,maanav41@example.org,8126999007,"Srivastava Nagar, Anna Nagar, Chennai, Tamil Nadu, India - 234623",2020-11-11,0,South Indian,83,0.76
+468,Indali Bedi,sahotavedhika@example.net,03211701369,"Manda Path, Adyar, Chennai, Tamil Nadu, India - 801483",2022-06-22,0,North Indian,62,1.09
+469,Anthony Gaba,hcheema@example.org,8383299581,"Dasgupta Zila, Tambaram, Chennai, Tamil Nadu, India - 597398",2025-03-05,0,Continental,49,3.45
+470,Daksha Parmer,harrison92@example.net,04063490229,"Saxena, Perungudi, Chennai, Tamil Nadu, India - 604813",2023-09-04,1,Continental,37,3.49
+471,Noah Shukla,kluthra@example.net,05411592724,"Purohit Road, Tambaram, Chennai, Tamil Nadu, India - 596852",2023-06-20,0,South Indian,63,0.08
+472,Adweta More,bailoliver@example.com,+916791579562,"Ramakrishnan Marg, T. Nagar, Chennai, Tamil Nadu, India - 079822",2022-03-09,1,Italian,24,1.46
+473,Maya Munshi,pillaiekbal@example.com,+915721749317,"Oak Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 120370",2020-07-17,1,Continental,40,1.73
+474,Januja Sachar,pratyush23@example.net,+919616075354,"Bumb Path, Velachery, Chennai, Tamil Nadu, India - 589085",2023-03-11,1,Chinese,32,3.55
+475,Ladli Dugar,ozaharita@example.com,02811545940,"D’Alia Circle, Nungambakkam, Chennai, Tamil Nadu, India - 783377",2020-01-14,1,Continental,57,4.75
+476,Ayaan Malhotra,subramanianbalvan@example.org,+914584478960,"Iyer Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 861097",2024-10-26,0,South Indian,2,0.95
+477,Idika Hegde,turvidube@example.net,03397516639,"Anne Nagar, Velachery, Chennai, Tamil Nadu, India - 845798",2020-10-24,1,Italian,93,3.76
+478,Mahika Sodhi,qtata@example.org,+912907194938,"Saran Road, Tambaram, Chennai, Tamil Nadu, India - 201666",2023-01-21,1,South Indian,31,1.67
+479,Inaya Mutti,ekaniraman@example.com,2857026705,"Deol Marg, T. Nagar, Chennai, Tamil Nadu, India - 923380",2025-06-01,0,South Indian,47,4.42
+480,Jasmit Prabhakar,pvig@example.org,4823638522,"Johal Circle, Anna Nagar, Chennai, Tamil Nadu, India - 667550",2023-06-01,0,Italian,57,4.14
+481,Gayathri Bains,dhritikar@example.com,+913137379882,"Chakrabarti Nagar, Mylapore, Chennai, Tamil Nadu, India - 695629",2023-06-25,0,Italian,46,3.45
+482,Ekani Desai,kamalashankar@example.com,+915178577685,"Bhatia, T. Nagar, Chennai, Tamil Nadu, India - 374751",2024-05-30,0,Italian,13,0.20
+483,Chatura Sinha,qadimnarayan@example.net,03312864321,"Sridhar Circle, Mylapore, Chennai, Tamil Nadu, India - 450756",2020-04-16,0,Continental,100,3.27
+484,Aahana Luthra,quincy03@example.org,01905746779,"Tella Road, Velachery, Chennai, Tamil Nadu, India - 610941",2024-04-15,1,South Indian,74,0.47
+485,Parth Kunda,ubikalall@example.org,4865046354,"Goswami Ganj, Anna Nagar, Chennai, Tamil Nadu, India - 306371",2024-03-03,1,Chinese,16,2.89
+486,Tejas Loyal,dhritiradhakrishnan@example.org,+913640040955,"Yadav, Kilpauk, Chennai, Tamil Nadu, India - 774568",2020-09-04,0,North Indian,42,4.33
+487,Chandani Kar,kgala@example.com,+915798524349,"Gandhi Chowk, T. Nagar, Chennai, Tamil Nadu, India - 981933",2025-04-01,0,South Indian,22,1.43
+488,Nandini Gopal,xbaria@example.net,+912029243499,"Murty Zila, T. Nagar, Chennai, Tamil Nadu, India - 002481",2021-01-08,1,Continental,11,1.51
+489,Vaishnavi Chopra,indalicherian@example.com,+912135603490,"Dutta Ganj, Perungudi, Chennai, Tamil Nadu, India - 927064",2024-06-09,0,Italian,90,5.00
+490,Ekiya Saran,arinvaidya@example.com,01922019676,"Lall Chowk, Tambaram, Chennai, Tamil Nadu, India - 389981",2024-12-31,0,North Indian,67,4.28
+491,Michael Balay,janiekapad@example.org,02773000102,"Kata Zila, Tambaram, Chennai, Tamil Nadu, India - 753273",2024-10-09,1,Continental,67,1.68
+492,Leela Deshmukh,akar@example.com,07826592858,"Subramaniam Ganj, Kodambakkam, Chennai, Tamil Nadu, India - 264148",2023-01-31,1,North Indian,97,4.31
+493,Harshil Tank,charan94@example.org,1849906598,"Goda Nagar, Adyar, Chennai, Tamil Nadu, India - 674739",2024-04-28,0,Italian,41,2.22
+494,Nitesh Kalla,nsaxena@example.org,09574204272,"Mane Street, T. Nagar, Chennai, Tamil Nadu, India - 174768",2023-06-03,0,South Indian,13,2.39
+495,Anya Babu,bsuresh@example.org,7932723659,"Wagle Chowk, Anna Nagar, Chennai, Tamil Nadu, India - 814754",2021-02-06,1,South Indian,76,2.90
+496,Tanveer Patla,jonathansidhu@example.com,+916231319229,"Raman Zila, Guindy, Chennai, Tamil Nadu, India - 241779",2021-06-11,0,North Indian,20,2.10
+497,Falguni Agarwal,simonkoshy@example.org,08083591215,"Peri Path, Chrompet, Chennai, Tamil Nadu, India - 713755",2020-03-18,1,South Indian,97,0.99
+498,Henry Palan,ranveer96@example.org,2705316941,"De Zila, Kodambakkam, Chennai, Tamil Nadu, India - 213934",2024-05-07,1,Italian,19,0.21
+499,Jeevika Dutt,snarain@example.net,+914411567706,"Lad Path, Adyar, Chennai, Tamil Nadu, India - 279789",2023-11-10,0,North Indian,70,4.77
+500,Suhani Dave,mishrabimala@example.org,3178043840,"Karan Chowk, Kilpauk, Chennai, Tamil Nadu, India - 267221",2025-06-06,1,North Indian,40,3.36
